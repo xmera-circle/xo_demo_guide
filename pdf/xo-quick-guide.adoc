@@ -1,4 +1,4 @@
-= xmera Omnia Standard Kurzanleitung: xmera Solutions GmbH
+= xmera Omnia Quick Guide: xmera Solutions GmbH
 Bernd Hampe; Liane Hampe
 v0.1, 29.03.2021
 :description: Dieses Handbuch beschreibt die Installation, Einrichtung und Bedienung der Softwarelösung xmera Omnia Standard.
@@ -30,7 +30,7 @@ ifdef::lang[include::./locale/attributes-{lang}.adoc[]]
 :leveloffset: 1
 
 [glossary]
-include::../modules/einleitung/pages/xos-quick-guide_einleitung.adoc[]
+include::../modules/einleitung/pages/einleitung.adoc[]
 
 include::../modules/objekte/pages/xos-quick-guide_objekte.adoc[]
 

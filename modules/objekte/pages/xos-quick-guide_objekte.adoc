@@ -4,4 +4,26 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-.
+== Funktion der Objekte
+
+Objekte sind das zentrale Ordnungselement in xmera Omnia. Ein Objekt bildet den Rahmen für weitere Funktionseinheiten, auch Module gennant. Zu den Modulen gehören beispielsweise das Dokumentenmanagementsystem, das Ticketsystem und das Wiki. Module können wahlweise je Objekt aktiviert oder deaktiviert werden. 
+
+Objekte zeichnen sich durch folgende Eigenschaften aus:
+
+- Objekte können hierarchisch strukturiert werden
+- Objekten werden Mitglieder mit Rollen zugeordent
+- Objekten werden Module (Funktionen) zugeordnet
+- Objekte können einer Objektklasse angehören
+
+Ein Objekt kann für verschiedene Zwecke genutzt werden. Es kann als Arbeitsbereich dienen, ein Asset repräsentieren, als Strukturelement im Hierarchiebaum eingesetzt werden oder eine Objektklasse sein.
+
+== Funktion der Objektklassen
+
+Ein Masterobjekt ist ein Objekt, das stellvertretend für alle Objekte seiner Klasse vorkonfiguriert werden kann. Wird ein neues Objekt basierend auf einer zur Auswahl stehenden Objektklasse erzeugt, enthält es automatisch die Konfiguration des Objektklassenmasters. 
+
+Eine Objektklasse ist somit Träger der Vorkonfiguration. Zusätzlich ermöglicht eine Objektklasse die Verknüpfung von Objekten untereinander, was insbesondere für die Modelierung der Assetabhängigkeiten wichtig ist. Dabei werden jeder Objektklasse die Objekte (Assets) untergeordnet, die Objekte dieser Klasse nutzen könnten.
+
+-- Beziehungsmatrix darstellen und erläutern --
+
+Wird das Beziehungsgeflecht mehrstufig aufgebaut, funktioniert eine Objektklasse beim Modelieren wie ein Filter, wodurch dem Benutzer eine übersichtliche Teilmenge von Objekten für die Verknüpfung bereitgestellt wird.
+

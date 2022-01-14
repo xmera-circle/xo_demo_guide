@@ -1,12 +1,12 @@
 site:
-  title: xmera omnia standard (Kurzanleitung)
+  title: xmera omnia Demo (Kurzanleitung)
   # the 404 page and sitemap files only get generated when the url property is set
   url: /
-  start_page: xos-doc-hb:einleitung:xos-quick-guide_einleitung.adoc
+  start_page: xo-quick-guide:einleitung:einleitung.adoc
 content:
   sources: 
-  - url: /home/bernd-xmera/xmera-ops/xmera-solutions-orga/software/xos-quick-guide
-    branches: master
+  - url: .
+    branches: HEAD
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable

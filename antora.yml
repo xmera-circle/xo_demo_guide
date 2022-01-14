@@ -1,5 +1,5 @@
-name: xos-doc
-title: xmera Omnia Dokumentationshandbuch
+name: xo-quick-guide
+title: xmera Omnia Quick Guide 
 version: '0.1'
 nav:
 - modules/einleitung/nav.adoc
