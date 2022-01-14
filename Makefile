@@ -26,12 +26,12 @@ default: help
 help: #: Show help topics
 	@grep "#:" Makefile* | grep -v "@grep" | sort | sed "s/\([A-Za-z_ -]*\):.*#\(.*\)/$$(tput setaf 3)\1$$(tput sgr0)\2/g"
 
-html_guide: #: Generate antora html output
-	@antora xo-quick-guide-playbook.yml; \
+html: #: Generate antora html output
+	@$(npm bin)/antora xo-quick-guide-playbook.yml; \
 	firefox build/site/index.html;
 
-pdf_guide: #: Generate asciidoctor pdf document
+pdf: #: Generate asciidoctor pdf document
 	@cd ./pdf; \
-	asciidoctor-pdf xo-quick-guide.adoc; \
+	asciidoctor-pdf xo-doc.adoc; \
 	cd ..; \
-	xreader pdf/xo-quick-guide.pdf;
+	xreader pdf/xo-doc.pdf;
