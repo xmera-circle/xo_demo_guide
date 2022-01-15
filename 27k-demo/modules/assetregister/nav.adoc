@@ -1,0 +1,1 @@
+* xref:xo-quick-guide_assetregister.adoc[Assetregister]

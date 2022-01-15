@@ -1,0 +1,6 @@
+name: 27k-demo
+title: 27k Demo
+version: 1.0
+nav:
+- modules/assetregister/nav.adoc
+- modules/dms/nav.adoc
