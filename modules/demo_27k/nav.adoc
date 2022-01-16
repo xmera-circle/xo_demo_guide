@@ -1,0 +1,3 @@
+* xref:index.adoc[ISO27k Demo]
+** xref:xo-quick-guide_assetregister.adoc[Assetregister]
+** xref:xo-quick-guide_dms.adoc[DMS und Genehmigungsworkflow]

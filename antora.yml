@@ -1,11 +1,7 @@
 name: xo-quick-guide
-title: xmera Omnia Quick Guide 
-version: '0.1'
+title: xmera Omnia Quick Guide
+version: 1.0
 nav:
-- modules/einleitung/nav.adoc
-- modules/objekte/nav.adoc
-- modules/objekt-anlegen/nav.adoc
-- modules/aufgaben-bearbeiten/nav.adoc
-- modules/objektklassenmaster-anlegen/nav.adoc
-- modules/aufgaben-importieren/nav.adoc
-- modules/schutzbedarf-bearbeiten/nav.adoc
+- modules/einfuehrung/nav.adoc
+- modules/demo_27k/nav.adoc
+

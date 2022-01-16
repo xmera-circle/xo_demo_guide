@@ -1,4 +1,4 @@
-= Aufgaben importieren
+= Einführung in die xmera Omnia Demo
 :doctype: article
 :icons: font
 :imagesdir: ../images/
