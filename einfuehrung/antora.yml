@@ -1,8 +1,0 @@
-name: einfuehrung
-title: Einführung
-version: 1.0
-nav:
-- modules/zweck_und_ziel/nav.adoc
-- modules/orientierung/nav.adoc
-- modules/demo_gmbh/nav.adoc
-- modules/besonderheiten_der_demo/nav.adoc

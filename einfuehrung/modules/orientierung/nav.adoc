@@ -1,1 +1,0 @@
-* xref:xo-quick-guide_orientierung.adoc[Orientierung]
