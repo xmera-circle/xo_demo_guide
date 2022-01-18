@@ -4,6 +4,31 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-.
+== Wofür wird das Assetregister benötigt?
+
+Die ISO27001 fordert die Verwaltung der Werte der Organisation. Es sind dabei die Informationen sowie die informationsverarbeitenden Einrichtungen, die im Zusammenhang mit den Informationen stehen zu inventarisieren. Für diese Werte oder auch Assets wie. z. B. Informationen, Software, Hardware, Kommunikationssysteme oder auch die Infrastruktur sind die Zuständigkeiten zu definieren.
+Im IT Betrieb wird gefordert, daß die Bedienung beschrieben, Maßnahmen gesteuert und die Instandhaltung gesteuert wird.
+
+== Wie unterstützt xmera Omnia?
+
+Verwaltung von Assets:: 
+
+Assets werden in xmera Omnia als Objekte erfasst. Diese Objekte können hierarchisch strukturiert werden. So kann über den Hierarchiebaum die Organisationen und damit Verantwortlichkeit in der Organisationen abgebildet oder durch Abbildung von Zonen Assets mit gleichem Schutzbedarf zusammengefasst werden.
+
+Verantwortlichkeiten Abbilden:: 
+Den Assets können über das Berechtigungsmanagement Mitarbeiter mit ihren Verantwortlichkeiten (Assetverantwortlicher, Risikoverantwortlicher, Administrator)für dieses Asset zugeordnet werden. Somit sind damit die Verantwortlichkeiten jedem Asset zugeordnet.
+
+Verwalten von Aufgaben und Dokumenten:: 
+Jedem Asset stehen alle Module von xmera Omnia zur Verfügung. So können z.B. 
+
+- alle Aufgaben an dem Asset gemanagt werden,
+- die Dokumente (Handbücher / Verträge / Dokumentationen) im Dokumentenmangement verwaltet und zugänglich gemacht werden
+- Betriebshandbücher im Wiki gepflegt werden.
+
++
+Es können aber auch komplette Projekte, wie z.B. Erneuerungs- oder Erweiterungsprojekte mit xmera Omnia verwaltet werden.
+
+
+== Wo finde ich Beispiele in der Demo?
 
 
