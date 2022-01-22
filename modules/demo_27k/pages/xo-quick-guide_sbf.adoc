@@ -6,20 +6,21 @@
 
 == Wofür wird die Schutzbedarfsfeststellung benötigt?
 
-...
+Zentrales Element eines ISMS ist die Informationssicherheitsbeurteilung. Diese beinhaltet die Identifizierung der Informationssicherheitsrisiken in Bezug auf die Vertraulichkeit, die Integrität und die Verfügbarkeit. 
 
 == Wie unterstützt xmera Omnia?
 
 Schutzbedarfsanalyse:: 
 
-...
+Die Schutzbedarfsanalyse in xmera Omnia ermöglicht die Beurteilung des Schutzbedarfs anhand eines Fragenkatalogs. Dieser Fragenkatalog kann individuell angepasst werden. Somit lassen sich zum Beispiel durch die Prozesseigner der Schutzbedarf für die von Ihnen benötigten Informationen ermitteln. 
 
 Schutzbedarf-Vererbung:: 
 
-...
+Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desctop-PC's, Servern oder auch Serverräumen und Gebäuden, ist abhängig von den in Ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister.adoc[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse / Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen der Assets jederzeit einen Überblick über den Schutzbedarf der Ihnen zugeordneten Assets
 
 Manuelle Anpassung:: 
-...
+
+Durch Kumulationseffekte, wie z.B. eine Vielzahl von Servern in einem Serverraum, oder durch Nutzung von Redundanzen, wie z.B. bei Hochverfügbarkeitssystemen, sind Anpassungen des Schutzbedarfs durch den Assetverantwortlichen notwendig. Dieses lässt sich in xmera Omnia im Zuge der Schutzbedarfsfeststellung umsetzen. 
 
 == Wo finde ich Beispiele in der Demo?
 
