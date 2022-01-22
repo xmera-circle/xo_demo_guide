@@ -16,7 +16,7 @@ Die Schutzbedarfsanalyse in xmera Omnia ermöglicht die Beurteilung des Schutzbe
 
 Schutzbedarf-Vererbung:: 
 
-Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desctop-PC's, Servern oder auch Serverräumen und Gebäuden, ist abhängig von den in Ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse / Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen der Assets jederzeit einen Überblick über den Schutzbedarf der Ihnen zugeordneten Assets
+Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desctop-PC's, Servern oder auch Serverräumen und Gebäuden, ist abhängig von den in Ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister.adoc[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse / Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen der Assets jederzeit einen Überblick über den Schutzbedarf der Ihnen zugeordneten Assets
 
 Manuelle Anpassung:: 
 
