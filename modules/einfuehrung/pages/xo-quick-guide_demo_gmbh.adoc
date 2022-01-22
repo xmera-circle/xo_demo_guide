@@ -4,4 +4,6 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-.
+== Zweck und Ziel
+
+...

@@ -1,0 +1,32 @@
+= Aufgabenmanagement
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird das Aufgabenmanagement benötigt?
+
+Ein ISMS beinhaltet auch den Betrieb der Informationssysteme. So fordert die ISO27001, das die betrieblichen Prozesse, die für den sicheren Betrieb notwendig sind nicht nur umsetzen sondern auch steuern. Dieses sind nicht nur die konkreten Aufgaben, die sich aus den Sicherheitsanforderungen ergeben sondern auch die Aufgaben aus den Bereichen Wartung, Instandsetzung oder Erweiterungen / Änderungen.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia bietet mit seinem Projektmangement-Kern eine Vielzahl von Möglichkeiten. Das Aufgabenmanagement bietet die Möglichkeiten aus den Maßnahmen  der Sicherheitsanforderungen, der Risikobewertung, der Vorfallanalyse oder den Audits betrieblich umzusetzende Aufgaben zu erstellen und zu überwachen. 
+
+Verwalten:: 
+
+Unteraufgaben
+Zu jeder Art von Aufgabe lassen sich Unteraufgaben erstellen, Kopien erstellen oder Verknüpfungen zu bestehenden Aufgaben erstellen. Somit lassen sich die Beziehungen zu Aufgaben abbilden.
+
+Delegieren:: 
+
+Aufgaben können Mitarbeitern oder auch Gruppen zugeordnet werden. Durch die Planung des Arbeitsumfangs lassen sich die Ressourcen auch steuern. Jeder Mitarbeiter kann sich im Dashboard "seine Aufgaben" anzeigen lassen und hat damit die Übersicht auf die offenen Arbeiten.  
+
+Überwachen:: 
+In jeder Aufgabe kann der
+- Status,
+- der Umsetzungsstand
+dargestellt werden. Diese Werte werden auch an die verknüpften Aufgaben übertragen. Ein Status einer Aufgabe kann wiederum vom Status der unterlagerten Aufgaben abhängig gemacht werden.
+
+== Wo finde ich Beispiele in der Demo?
+
+...

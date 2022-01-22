@@ -4,6 +4,31 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-.
+== Wofür wird das Assetregister benötigt?
 
+Die ISO27001 fordert die Verwaltung der Werte der Organisation. Es sind dabei die Informationen sowie die informationsverarbeitenden Einrichtungen, die im Zusammenhang mit den Informationen stehen zu inventarisieren. Für diese Werte oder auch Assets wie. z. B. Informationen, Software, Hardware, Kommunikationssysteme oder auch die Infrastruktur sind die Zuständigkeiten zu definieren.
+
+== Wie unterstützt xmera Omnia?
+
+Verwaltung von Assets:: 
+
+Assets werden in xmera Omnia als Objekte erfasst. Diese Objekte können hierarchisch strukturiert werden. So kann über den Hierarchiebaum die Organisationen und damit Verantwortlichkeit in der Organisationen abgebildet oder durch Abbildung von Zonen Assets mit gleichem Schutzbedarf zusammengefasst werden.
+
+Logische Strukturen abbilden:: 
+
+Neben den hierarchischen Strukturen, die oft die Organisation / Verantwortlichkeiten abbilden, sind noch logische Verknüpfungen (Zusammenhänge zwischen den Objekten) abzubilden. Das ist z.B. die Kette: _Informationen_ werden in einer _Anwendung_ gepflegt, die auf einem _Server_ läuft, der in einem _Serverraum_ in einem _Werksgebäude_ steht. +
+Diese Logik kann in xmera Omnia über Objektverknüpfungen abgebildet. Objektverknüpfungen sind neben der Abbildung der an der beteiligten Informationsverarbeitung beteiligten Assets auch Basis für die Vererbung bei der xref:xo-quick-guide_sbf.adoc[Schutzbedarfsanalyse].
+
+Verantwortlichkeiten abbilden:: 
+Den Assets können über das Berechtigungsmanagement Mitarbeiter mit ihren Verantwortlichkeiten (Assetverantwortlicher, Risikoverantwortlicher, Administrator)für dieses Asset zugeordnet werden. Somit sind damit die Verantwortlichkeiten jedem Asset zugeordnet.
+
+== Wo finde ich Beispiele in der Demo?
+
+Verwaltung von Assets
+
+video::assetregister_objekthierarchie.mp4[width=450] 
+
+video::assetregister_objektverknuepfungen.mp4[width=450]
+
+video::assetregister_verantwortlichkeiten.mp4[width=450]
 
