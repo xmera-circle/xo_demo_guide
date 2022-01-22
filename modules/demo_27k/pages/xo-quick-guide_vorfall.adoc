@@ -4,6 +4,26 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-.
+== Wofür wird Vorfallmanagement benötigt?
+
+...
+
+== Wie unterstützt xmera Omnia?
+
+Automatisieren:: 
+
+...
+
+Priorisieren und Gruppieren:: 
+
+...
+
+Analysieren:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
 
 
