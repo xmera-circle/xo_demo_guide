@@ -1,28 +1,41 @@
 = Massnahmenmangement
 :doctype: article
 :icons: font
-:imagesdir: ../images/
 :web-xmera: https://xmera.de
 
 == Wofür wird Maßnahmenmanagement benötigt?
 
-Maßnahmen im Zusammenhang mit den Sicherheitsanforderungen / Risikobeurteilungen / Audits / Vorfallanalyse
-Status und Umsetzungsgrad
-Modellierung (Zuordnung der Maßnahmen / Anforderungen zur den Assets)
+Ein wesentlicher Bestandteil eines ISMS ist die Erklärung zur Anwendbarkeit (Statement of appilcabiltiy | SOA) in der die Maßnahmen beschrieben werden, die zur Umsetzung der Sicherheitsziele umzusetzen sind. Diese Maßnahmen müssen bei der Umsetzung nach der ISO 27001 mindestens die Maßnahmen aus dem dem Anhang A der Norm umfassen.
+
+Diese Maßnahmen werden ergänzt um die Maßnahmen aus
+- eigenen Sicherheitsstandards
+- der Risikobewertung,
+- der Vorfallanalyse oder
+- Audits
+
+Die Umsetzung der Maßnahmen ist zu überwachen und der Reifegrad zu ermitteln.
 
 == Wie unterstützt xmera Omnia?
 
+Erklärung zur Anwendbarkeit (SOA):: 
+
+Die Verwaltung von Maßnahmen ist ein zentraler Bestandteil von xmera Omnia. Maßnahmen können an zentraler Stelle erstellt und verwaltet werden. Durch die eine automatische Maßnahmenzuordnung (Synchronisieren) erfolgt die Modellierung der Maßnahmen auf die Assets. So werden z.B. einem Server nur die maßnahmen zugeordnet, die für den Serverbetrieb relevant sind. +
++
+Durch die Verknüpfung der Maßnahmen zwischen der zentralen Liste und den Maßnahmen, die den Assets zugeordnet wurden, ist die Erklärung zur Anwendbarkeit schnell erzeugt, da alle relevanten Daten durch die Verknüpfungen schnell ermittelbar sind. +
+[NOTE]
+xmera Omnia bietet ein Importpaket der Maßnahmen gemäß ISO27001 Anhang A an, die individuell erweitert werden können.
+
 Status und Umsetzungsgrad:: 
 
-Aufgabenpaket
-...
+Zu jeder Maßnahme lassen sich Status und Umsetzungsgrad messen. Status und Umsetzungsgrad lassen sich wieder von den Unteraufgaben, die zur Umsetzung der Maßnahme notwendig sind umsetzen. +
++
+Die Maßnahmen können über die Hierarchie der Objekte und durch die Verknüpfung zur zentralen Maßnahmenliste in den überlagerten Objekten / Maßnahmen zusammenführen und damit zentral überwacht werden.  +
++
+Um die Übersichtlichkeit zu erhöhen, lassen sich *Aufgabenpakete* bilden, die Maßnahmen und zugehörige Aufgaben zusammenfassen und so Abschnitte im Gesamtkontext darstellen. Auch bei Aufgabenpaketen werden die unterlagerten Maßnahmen und Aufgaben kumuliert dargestellt, so dass auch hier leicht ein Umsetzungsgrad überwacht werden kann.
 
 Automatische Maßnahmenzuordnung:: 
 
-...
-
-Umsetzungsplan:: 
-...
+xmera Omnia bietet eine automatisierte Maßnahmenzuordnung an. Diese basiert auf einer Zuordnung der Maßnahmen zu Objektklassen. Mit der automatischen Maßnahmenzuordnung wird überprüft, welche Objektklassen dem Objekt zugeordent sind (Objektklasse des aktuellen Objekts und die Objektklassen der Unterobjekte. Die zentral abgelegten Maßnahmen werden nach den erforderlichen Maßnahmen für die ermittelten Objektklassen überprüft und die fehlenden Maßnahmen ergänzt.
 
 == Wo finde ich Beispiele in der Demo?
 
