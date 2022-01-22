@@ -1,0 +1,48 @@
+= Dokumentenmanagement
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird das Dokumentenmanagement benötigt?
+
+Die Dokumentation von Prozessen, Richtlinien, Handlungs- und Betriebsanweisungen aber auch von Handbüchern und weiteren Informationen um das ISMS und die Informationsverarbeitung ist zentraler Bestandteil eines ISMS. In der ISO27001 wird die Lenkung dokumentiertet Informationen gefordert. Hier wird insbesondere
+
+- die Verfügbarkeit und Verwendbarkeit für die Nutzer
+- die Steuerung des Zugriffs, 
+- der Schutz vor nicht autorisierten Änderungen,  
+- die Nachverfolgbarkeit von Änderungen aber auch
+- die Abbildung notwendiger Dokumente aus externen Quellen
+
+gefordert.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia bietet mit dem Modul DMS ein Dokumentenmanagementsystem, mit dem 
+- die Zugänglichkeit und Änderbarkeit von Dokumenten gesteuert
+- Dokumente strukturiert und klassifiziert, 
+- Änderungen versioniert und  
+- freigaben über einen Genehmigungsworkflow organisiert und dokumentiert werden können.
+
+Dokumentenlenkung:: 
+
+Dokumente werden in dem Objekt verwaltet, welches für die Verarbeitung verantwortlich ist. Über die Zuordnung zu den Objekten (Assets / Prozesse / Projekte / ...), durch zuordnen der Dokumente zu Ordnern sowie durch (administrativ erstellbare) Attribute lassen sich die Dokumente leicht strukturieren. +
++
+Der Zugriff kann durch die Rechteverwaltung und Zugang zu dem Objekt, über Verknüpfungen zu anderen Objekten den berechtigten Nutzern zugänglich gemacht und die Änderbarkeit gesteuert werden. 
+
+Versionierung:: 
+
+Zentraler Bestandteil des DMS ist die Versionierung von Daten. Dokumente, die mit Ihren Metadaten erfasst wurden, können nicht verändert werden. Änderungen müssen in einer neuen Version erfolgen. Damit ist eine Änderungsverfolgung jeder Änderung des Dokuments möglich.
+
+Genehmigungsworkflow:: 
+
+Das DMS in xmera Omnia bietet die Möglichkeit, die Freigabe von Dokumenten über einen Genehmigungsworkflow durchzuführen und zu dokumentieren. +
++
+Ein Genehmigungsworkflow beschreibt den Ablauf des Freigabeprozesses. In xmera Omnia können verschiedene Freigabeprozesse (z.B. für Richtlinien / Handlungsanweisungen oder Betriebhandbücker) abgebildet werden. 
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+
+

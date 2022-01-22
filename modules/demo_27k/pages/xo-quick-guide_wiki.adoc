@@ -1,0 +1,29 @@
+= Wiki
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird ein Wiki benötigt?
+
+Wissenstransfer, dynamische Dokumente (Betriebshandbuch)
+
+== Wie unterstützt xmera Omnia?
+
+Erfassung und Historie:: 
+
+...
+
+Makros:: 
+
+...
+
+Referenzierung von Wiki-Inhalten:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+
+

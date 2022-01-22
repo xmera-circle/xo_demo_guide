@@ -1,1 +1,0 @@
-* xref:xos-quick-guide_objekt-anlegen.adoc[Objekt anlegen]

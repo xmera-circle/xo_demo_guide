@@ -1,0 +1,30 @@
+= Projektmanagement
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird Projektmanagement benötigt?
+
+Implementierungsprojekt
+Änderungs-Management
+
+== Wie unterstützt xmera Omnia?
+
+Aufgabenplanung:: 
+
+Aufgabenpakete; Meilensteine
+
+Terminplanung / Projektverlauf:: 
+
+...
+
+Aktivitäten / Mitteilungen:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+
+

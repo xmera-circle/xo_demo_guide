@@ -1,0 +1,32 @@
+= Massnahmenmangement
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird Maßnahmenmanagement benötigt?
+
+Maßnahmen im Zusammenhang mit den Sicherheitsanforderungen / Risikobeurteilungen / Audits / Vorfallanalyse
+Status und Umsetzungsgrad
+Modellierung (Zuordnung der Maßnahmen / Anforderungen zur den Assets)
+
+== Wie unterstützt xmera Omnia?
+
+Status und Umsetzungsgrad:: 
+
+Aufgabenpaket
+...
+
+Automatische Maßnahmenzuordnung:: 
+
+...
+
+Umsetzungsplan:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+
+

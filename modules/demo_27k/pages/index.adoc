@@ -1,0 +1,7 @@
+= Einführung in die Funktionen zur Unterstützung der 27k
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+.

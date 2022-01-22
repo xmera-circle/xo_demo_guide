@@ -1,0 +1,34 @@
+= Import / Export
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird der Im- und Export benötigt?
+
+Export von Auswertungen zur Einbindung in Dokumenten (SOA / Risilobehandlungsplan)
+
+Import von Sicherheitsstandards und Gefährdungen
+Maßnahmen aus eigenen Standards
+
+Datenaustausch mit anderen Systemen
+
+== Wie unterstützt xmera Omnia?
+
+csv-Schnittstelle:: 
+
+...
+
+PDF-Export:: 
+
+...
+
+API / E-Mail Schnittstelle:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+
+

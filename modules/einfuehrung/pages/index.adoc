@@ -1,0 +1,7 @@
+= Einführung in die xmera Omnia Demo
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+.

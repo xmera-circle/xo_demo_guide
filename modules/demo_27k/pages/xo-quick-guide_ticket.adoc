@@ -1,0 +1,28 @@
+= Ticketsystem
+:doctype: article
+:icons: font
+:imagesdir: ../images/
+:web-xmera: https://xmera.de
+
+== Wofür wird ein Ticketsystem benötigt?
+
+IT-Service-Management, auch außerhalb des ISMS-Kontextes zu verwenden.
+
+== Wie unterstützt xmera Omnia?
+
+Anpassbare Ticketfelder:: 
+
+...
+
+Workflow:: 
+
+...
+
+Dokumente verknüpfen:: 
+...
+
+== Wo finde ich Beispiele in der Demo?
+
+...
+
+

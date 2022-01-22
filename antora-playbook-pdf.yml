@@ -1,0 +1,36 @@
+= xmera Omnia Quick Guide: xmera Solutions GmbH
+Bernd Hampe; Liane Hampe
+v1.0, 15.01.2022
+:description: Dieses Handbuch beschreibt die Installation, Einrichtung und Bedienung der Softwarelösung xmera Omnia Standard.
+:organization: xmera Solutions GmbH
+:doctype: book
+// Settings:
+:icons: font
+:listing-caption: Listing
+:lang: de
+:sectnums:
+//Table of content
+:toc: left
+:toc-title: Inhalt
+:toclevels: 3
+:xrefstyle: short
+// PDF-Theme
+ifdef::backend-pdf[]
+:pdf-theme: chronicles
+:pdf-themesdir: ./pdf/themes
+:title-logo-image: image:pdf/images/xmera_solutions.png[pdfwidth=4.25in,align=center]
+:source-highlighter: rouge
+:rouge-style: github
+endif::[]
+// Übersetzungen 
+ifdef::lang[include::./pdf/locale/attributes-{lang}.adoc[]]
+
+:web-xmera: https://xmera.de
+:imagesdir: 
+:leveloffset: 1
+
+[glossary]
+include::./modules/einfuehrung/pages/index.adoc[]
+
+include::./modules/demo_27k/pages/index.adoc[]
+
