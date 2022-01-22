@@ -6,20 +6,29 @@
 
 == Wofür wird die Risikobeurteilung benötigt?
 
-...
+Zentrales Element eines ISMS ist die Informationssicherheitsbeurteilung. Hat ein Asset ein Schutzbedarf der eine weitergehende Analyse erfordert (zumeist Hoch und Sehr Hoch) so ist eine Risikobewertung durchzuführen, bei der die Eintrittswahrscheinlichkeit und Folgen zu bewerten sind. Der resultierende Wert ist mit den Zielen zu vergleichen und es sind ggf. Risikobehandlungen zu definieren und zu priorisieren.
 
 == Wie unterstützt xmera Omnia?
 
 Gefährdungen:: 
 
-...
+Basis für die Risikobeurteilung in xmera Omnia sind die Gefährdungen. Die Gefährdungen beschreiben die möglichen Gefahrenquellen die ein Asset ausgesetzt sein kann. +
++
+[NOTE]
+*Hinweis:* xmera Omnia bietet ein Importpaket der Gefährdungen gemäß ISO27005 an, die individuell erweitert werden können.
++
+Diesen Gefährdungen kann im Rahmen der Risikobewertung eine Eintrittshäufigkeit und Schadensklasse zugeordnete werden. Daraus wird dann ein resultierender Risikowert ermittelt. +
++
+Ist ein Risiko _behandlungswürdig_ oder _nicht akzeptabel_, so ist eine Risikoakzeptanz, ein Risikotransfer, die Risikoverringerung / -vermeidung durch definierte Maßnahmen notwendig. Die Dokumentation des gewählten Verfahrens und das sich daraus ergebene neue Risikoniveau lassen sich ebenfalls in der Risikobeurteilung abbilden. +
++
+Wird eine Maßnahme erforderlich, kann diese wiederum als Unteraufgabe der Gefährdungsbeurteilung zugeordnet werden.
 
 Risikoakzeptanz-Matrix:: 
 
-...
+Für die Ermittlung des Risikoniveaus wird in xmera Omnia eine konfigurierbare Risikoakzeptanz-Matrix genutzt, in der für jede Kombination aus Eintrittshäufigkeit und Schadensklasse ein Risikoniveau zugeordnet ist. Über dieses Niveau wird grafisch dargestellt. In der Demo werden Stufen dargestellt. Dieses sind akzeptabel (grün), behandlungswürdig(gelb) und nicht akzeptabel(rot). 
 
 Risikobehandlungsplan:: 
-...
+Wird ein Risikoniveau, dass _behandlungswürdig_ oder _nicht akzeptabel_ ist, durch eine Maßnahme verringert oder vermieden, so kann die Maßnahmen als Unteraufgabe an die Gefährdung angehängt werden. Alle Maßnahmen, die als _Auslöser_ eine Risikobeurteilung haben, können dann in einem Risikobehandlungsplan abgebildet werden. Dieser Risikobehandlungsplan zeigt alle Maßnahmen, die als Ziel haben, dass Schutzniveau auf ein akzeptables Maß zu bringen.
 
 == Wo finde ich Beispiele in der Demo?
 
