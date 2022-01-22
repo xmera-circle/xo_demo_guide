@@ -26,7 +26,11 @@ default: help
 help: #: Show help topics
 	@grep "#:" Makefile* | grep -v "@grep" | sort | sed "s/\([A-Za-z_ -]*\):.*#\(.*\)/$$(tput setaf 3)\1$$(tput sgr0)\2/g"
 
-html: #: Generate antora html output
+html: #: Generate antora html output, where antora is installed globally
+	@ antora antora-playbook-local.yml; \
+	firefox build/site/index.html;
+
+html -l: #: Generate antora html output, where antora is installed locally
 	@ $(npm bin)/antora antora-playbook-local.yml; \
 	firefox build/site/index.html;
 
