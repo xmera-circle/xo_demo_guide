@@ -1,5 +1,5 @@
 site:
-  title: xmera omnia Demo (Kurzanleitung)
+  title: xmera omnia Demo Guide
   url: /
   start_page: xo-quick-guide::index.adoc
 content:
