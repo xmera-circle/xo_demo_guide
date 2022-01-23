@@ -1,4 +1,4 @@
-= Zweck und Ziel
+= Besonderheiten der Demo
 :doctype: article
 :icons: font
 :imagesdir: ../images/
