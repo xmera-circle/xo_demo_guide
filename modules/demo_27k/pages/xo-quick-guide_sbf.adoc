@@ -1,30 +1,53 @@
 = Schutzbedarfsfeststellung und Vererbung
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird die Schutzbedarfsfeststellung benötigt?
 
-Zentrales Element eines ISMS ist die Informationssicherheitsbeurteilung. Diese beinhaltet die Identifizierung der Informationssicherheitsrisiken in Bezug auf die Vertraulichkeit, die Integrität und die Verfügbarkeit. 
+Ein wesentliches Element eines ISMS ist die Schutzbedarfsfeststellung. Sie dient zur Identifizierung von Unternehmenswerten, die besonders geschützt werden müssen, weil sie kritisch (existenziell) für den Fortbestand der Organisation sind. Diese Informationssicherheitsbeurteilung beinhaltet eine erste grobe Einschätzung wie sich verschiedene Informationssicherheitsereignisse in Bezug auf die Schutzziele 
+
+* Vertraulichkeit, 
+* Integrität und
+* Verfügbarkeit
+
+auf die Organisation auswirken würden, wenn sie eintreten.
+
+NOTE: Je nach Branche oder Sicherheitsstandard können/müssen weitere Schutzziele wie bspw. _Authentizität_ oder _Nichtabstreitbarkeit_ in die Beurteilung einbezogen werden.
 
 == Wie unterstützt xmera Omnia?
 
-Schutzbedarfsanalyse:: 
+Schutzbedarfanalyse:: 
 
-Die Schutzbedarfsanalyse in xmera Omnia ermöglicht die Beurteilung des Schutzbedarfs anhand eines Fragenkatalogs. Dieser Fragenkatalog kann individuell angepasst werden. Somit lassen sich zum Beispiel durch die Prozesseigner der Schutzbedarf für die von Ihnen benötigten Informationen ermitteln. 
+Die Schutzbedarfanalyse in xmera Omnia ermöglicht die Beurteilung des Schutzbedarfs anhand eines Fragenkatalogs. Dieser Fragenkatalog kann individuell angepasst werden. +
++
+Somit läßt sich zum Beispiel direkt durch die Prozesseigner der Schutzbedarf für die von ihnen benötigten Informationen ermitteln. Aufwendige Interviews entfallen.
 
-Schutzbedarf-Vererbung:: 
+Schutzbedarfvererbung:: 
 
-Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desctop-PC's, Servern oder auch Serverräumen und Gebäuden, ist abhängig von den in Ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister.adoc[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse / Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen der Assets jederzeit einen Überblick über den Schutzbedarf der Ihnen zugeordneten Assets
+Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desktop-PC's, Server oder auch Serverräume und Gebäude, ist abhängig von den in ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister.adoc[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse und Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen dieser Assets jederzeit einen Überblick über ihren Schutzbedarf.
 
 Manuelle Anpassung:: 
 
-Durch Kumulationseffekte, wie z.B. eine Vielzahl von Servern in einem Serverraum, oder durch Nutzung von Redundanzen, wie z.B. bei Hochverfügbarkeitssystemen, sind Anpassungen des Schutzbedarfs durch den Assetverantwortlichen notwendig. Dieses lässt sich in xmera Omnia im Zuge der Schutzbedarfsfeststellung umsetzen. 
+Wenn wegen dem Kumulations- oder Verteilungseffekt vom sonst üblichen Maximumprinzip vom automatisch übertragenen Schutzbedarf abgewichen werden muss, dann ist das in xmera Omnia an jeder Stelle in der Vererbungskette möglich.
+
+[TIP] 
+.Ausfüllhilfen für Mitarbeiter
+====
+Definitionen von Fachbegriffen wie dem Kumulations- und Verteilungseffekt finden Sie in der Demo beispielhaft unter Objekte -> I Vorgaben & Regeln -> Wiki -> ISMS-Handbuch -> 2. Schutzbedarffeststellung.
+
+Diese haben wir als Ausfüllhilfe über der Schutzbedarfsanalyse-Tabelle, die Sie bspw. unter Objekte -> B Prozesse & Informationen -> Projektdurchführung -> Fiktive Testdaten -> Tabellen -> Schutzbedarfsanalyse finden, integriert.
+
+====
 
 == Wo finde ich Beispiele in der Demo?
 
-...
+=== Schutzbedarfanalyse
 
+video::schutzbedarf_schutzbedarfanalyse.mp4[width=950]
 
+=== Schutzbedarfvererbung und Anpassung
 
+video::schutzbedarf_vererbung.mp4[width=950]
