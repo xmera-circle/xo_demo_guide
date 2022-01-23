@@ -1,7 +1,17 @@
 = Einführung in die xmera Omnia Demo
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
 
-.
+== Allgemeines zu xmera Omnia Demo
+
+Die xmera Omnia Demo soll Interessenten einen Einblick in die Möglichkeiten der Software xmera Omnia geben. Bei der Demo sind 2 Punkte zu beachten: 
+
+1. Die Demo zeigt dabei keine vollständig Abbildung eines ISMS-Prozesses, sondern nur einzelne Teilprozess, anhand derer die Funktionalität von xmera Omnia verständlich wird. 
+2. Die Software xmera Omnia hat den Anspruch, das die Softwareprozesse flexibel an die Unternehmensprozesse angepasst werden können. Die dargestellten Lösungen der fiktiven Demo GmbH zeigen damit einen Weg auf, die ISMS-Prozesse abzubilden. Wenn ein dargestellter Prozess nicht Ihren Anforderungen genügt, wenden Sie sich gerne an uns. In einem persönlichen Gespräch zeigen wir Ihnen gerne die Möglichkeiten von xmera Omnia.
+
+== Der xmera Omnia Demo Guide
+
+Dieser Demo-Guide soll Ihnen den Einstieg in die xmera Omnia Demo und deren Funktionalität erleichtern. Dabei werden für die verschieden ISMS Standards  (ISO27000, CISI12, IT-Grundschutz) unterschiedliche Demos angeboten. Dieses hat den Vorteil, dass sich Interessenten, die bereits Erfahrungen in einem der Standards haben, sich leichter orientieren können.
+
+In der Einleitung werden grundlegende Informationen zur Nutzung der Demo gegeben. Für die spezifischen ISMS Standards gibt es dann jeweils ein eigenes Kapitel.
