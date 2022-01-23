@@ -9,6 +9,7 @@ Die Prozesse zur Umsetzung eines ISMS nach der ISO 27k sind vielfältig. Damit d
 image::xmera-omnia-funktionsuebersicht.jpg[]
 
 In den folgenden Kapiteln werden 
+
 - die von xmera Omnia unterstützten ISMS-Prozesse kurz beschrieben,
 - die prozessunterstützenden xmera Omnia Funktionen zugeordnet und
 - kurzen Videosequenzen aufgezeigt, wo in der 27k-Demo Beispiele für diese Prozesse zu finden sind.
