@@ -1,14 +1,15 @@
 = Dokumentenmanagement
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird das Dokumentenmanagement benötigt?
 
-Die Dokumentation von Prozessen, Richtlinien, Handlungs- und Betriebsanweisungen aber auch von Handbüchern und weiteren Informationen um das ISMS und die Informationsverarbeitung ist zentraler Bestandteil eines ISMS. In der ISO27001 wird die Lenkung dokumentiertet Informationen gefordert. Hier wird insbesondere
+Die Dokumentation von Prozessen, Richtlinien, Handlungs- und Betriebsanweisungen aber auch von Handbüchern und weiteren relevanten Informationen sowie die Informationsverarbeitung ist zentraler Bestandteil eines ISMS. In der DIN ISO/IEC 27001 wird die Lenkung dokumentierter Informationen gefordert. Hier wird insbesondere
 
-- die Verfügbarkeit und Verwendbarkeit für die Nutzer
+- die Verfügbarkeit und Verwendbarkeit für die Nutzer,
 - die Steuerung des Zugriffs, 
 - der Schutz vor nicht autorisierten Änderungen,  
 - die Nachverfolgbarkeit von Änderungen aber auch
@@ -18,31 +19,46 @@ gefordert.
 
 == Wie unterstützt xmera Omnia?
 
-xmera Omnia bietet mit dem Modul DMS ein Dokumentenmanagementsystem, mit dem 
-- die Zugänglichkeit und Änderbarkeit von Dokumenten gesteuert
+xmera Omnia bietet mit dem Modul DMS ein Dokumentenmanagementsystem, mit dem
+
+- die Zugänglichkeit und Änderbarkeit von Dokumenten gesteuert,
 - Dokumente strukturiert und klassifiziert, 
 - Änderungen versioniert und  
-- freigaben über einen Genehmigungsworkflow organisiert und dokumentiert werden können.
+- Freigaben über einen Genehmigungsworkflow organisiert und dokumentiert werden können.
 
-Dokumentenlenkung:: 
+NOTE: Das DMS Modul ist in jedem Objekt verfügbar und kann bei Bedarf aktiviert werden.
 
-Dokumente werden in dem Objekt verwaltet, welches für die Verarbeitung verantwortlich ist. Über die Zuordnung zu den Objekten (Assets / Prozesse / Projekte / ...), durch zuordnen der Dokumente zu Ordnern sowie durch (administrativ erstellbare) Attribute lassen sich die Dokumente leicht strukturieren. +
+Zugriffssteuerung:: 
+
+Dokumente, die für alle Mitarbeiter relevant sind, können in einem eigens dafür vorgesehenen Objekt zentral verwaltet und zugänglich gemacht werden. +
 +
-Der Zugriff kann durch die Rechteverwaltung und Zugang zu dem Objekt, über Verknüpfungen zu anderen Objekten den berechtigten Nutzern zugänglich gemacht und die Änderbarkeit gesteuert werden. 
+Der Zugriff auf Dokumente, die dagegen nur für bestimmte Interessensgruppen relevant sind, kann durch eine entsprechende Rechtevergabe gesteuert werden. Das ist sowohl zentral als auch dezentral in Objekten, die als Arbeitsbereiche, Assets oder Projekte genutzt werden. +
++
+Durch zuordnen der Dokumente zu Ordnern sowie durch (administrativ erstellbare) Attribute lassen sich die Dokumente leicht strukturieren. Mit Hilfe von Verknüpfungen einzelner Dokumente zu anderen Elementen in xmera Omnia können Dokumente übergreifend den berechtigten Nutzern zugänglich gemacht werden. 
 
 Versionierung:: 
 
-Zentraler Bestandteil des DMS ist die Versionierung von Daten. Dokumente, die mit Ihren Metadaten erfasst wurden, können nicht verändert werden. Änderungen müssen in einer neuen Version erfolgen. Damit ist eine Änderungsverfolgung jeder Änderung des Dokuments möglich.
+Zentraler Bestandteil des DMS ist die Versionierung. Dokumente, die mit ihren Metadaten erfasst wurden, können nicht direkt verändert werden. Änderungen müssen in einer neuen Version erfolgen. Damit ist eine Änderungsverfolgung jeder Änderung des Dokuments einschließlich seiner Metadaten möglich.
+Zusätzlich können Dokumente auch vor ungewollten Änderungen geschützt werden.
 
 Genehmigungsworkflow:: 
 
 Das DMS in xmera Omnia bietet die Möglichkeit, die Freigabe von Dokumenten über einen Genehmigungsworkflow durchzuführen und zu dokumentieren. +
 +
-Ein Genehmigungsworkflow beschreibt den Ablauf des Freigabeprozesses. In xmera Omnia können verschiedene Freigabeprozesse (z.B. für Richtlinien / Handlungsanweisungen oder Betriebhandbücker) abgebildet werden. 
+Ein Genehmigungsworkflow beschreibt den Ablauf des Freigabeprozesses. In xmera Omnia können verschiedene Freigabeprozesse (z.B. für Richtlinien, Handlungsanweisungen oder Betriebhandbücher) abgebildet werden. 
 
 == Wo finde ich Beispiele in der Demo?
 
-...
+=== Zugriffssteuerung
 
+video::dms_zugriffssteuerung.mp4[width=950]
 
+TIP: Schauen Sie doch mal unter A Management -> ISMS -> Aufgaben -> 1 | Anwendbarkeitserklärung -> A.05 Informationssicherheitsrichtlinien -> A.05.1.1 Informationssicherheitsrichtlinien nach. Dort finden Sie ein verknüpftes Dokument aus dem DMS.
 
+=== Versionierung
+
+video::dms_versionierung.mp4[width=950]
+
+=== Genehmigungsworkflow
+
+video::dms_genehmigungsworkflow.mp4[width=950]
