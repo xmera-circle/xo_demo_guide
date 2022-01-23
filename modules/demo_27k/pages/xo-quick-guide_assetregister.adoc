@@ -1,8 +1,9 @@
 = Assetregister
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird das Assetregister benötigt?
 
@@ -14,8 +15,6 @@ Zu den sekundären Assets gehören zum Beispiel:
 * Hardware, 
 * Kommunikationssysteme,
 * Infrastruktur. 
-
-
 
 == Wie unterstützt xmera Omnia?
 
@@ -41,32 +40,6 @@ Verantwortlichkeiten zuordnen::
 Den Assets können Mitarbeiter zugeordnet werden. Jeder Mitarbeiter kann in der für ein spezifisches Asset passenden Rolle hinzugefügt werden. Dabei stehen die Rollen zur Verfügung, die über das Berechtigungsmanagement vom Administrator angelegt wurden. In der Demo sind das beispielsweise der Objektverantwortliche, Aufgabenverantwortliche, Risikoverantwortliche oder Beobachter. 
 
 == Wo finde ich Beispiele in der Demo?
-pass:[<style>
-.distance-25 { 
-  display:block;
-  height:25px;
-}
-.flex-container {
-  display:flex;
-  justify-content:center;
-  flex-wrap: wrap;
-}
-.video-container {
-  flex: 0 0 100%;
-  margin-top: 30px;
-  margin-bottom: 50px;
-}
-.center { 
-  text-align:center;
-}
-video { 
-  -webkit-box-shadow: 0 2px 8px 0 rgba(31,32,68,.16);
-  -webkit-transition: all .7s cubic-bezier(.23,1,.32,1);
-  transition: all .7s cubic-bezier(.23,1,.32,1);
-  box-shadow: 0 2px 8px 0 rgba(31,32,68,.16);
-  border-color: #f3f4f4;
-}
-</style>]
 
 pass:[<span class="distance-25"></span>]
 
@@ -76,36 +49,12 @@ pass:[<span class="distance-25"></span>]
 
 ### Verwaltung von Assets
 
-pass:[
-<div class="flex-container">
-  <div class="video-container center">
-    <video src="_images/assetregister_objekthierarchie.mp4" type="video/mp4" controls width="950">
-    Your browser does not support HTML video.
-    </video>
-  </div>
-</div>
-]
+video::assetregister_objekthierarchie.mp4[width=950]
 
 ### Logische Strukturen abbilden
 
-pass:[
-<div class="flex-container">
-  <div class="video-container center">
-    <video src="_images/assetregister_objektverknuepfungen.mp4" type="video/mp4" controls width="950">
-    Your browser does not support HTML video.
-    </video>
-  </div>
-</div>
-]
+video::assetregister_objektverknuepfungen.mp4[width=950]
 
 ### Verantwortlichkeiten zuordnen
 
-pass:[
-<div class="flex-container">
-  <div class="video-container center">
-    <video src="_images/assetregister_verantwortlichkeiten.mp4" type="video/mp4" controls width="950">
-    Your browser does not support HTML video.
-    </video>
-  </div>
-</div>
-]
+video::assetregister_verantwortlichkeiten.mp4[width=950]
