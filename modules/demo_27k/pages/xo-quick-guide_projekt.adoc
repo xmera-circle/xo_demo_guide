@@ -1,30 +1,55 @@
 = Projektmanagement
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
 
-== Wofür wird Projektmanagement benötigt?
+include::ROOT:partial$custom-css.adoc[]
 
-Implementierungsprojekt
-Änderungs-Management
+== Wofür wird das Projektmanagement benötigt?
+
+Ein wesentliches Ziel des ISMS ist der ordnungsgemäße und sichere Betrieb der IT-Systeme. Dazu gehört, dass geplante Änderungen überwacht werden. 
+
+Je nach Komplexität solcher Änderungen, wie z.B. bei größeren Upgrades, Erneuerungen oder der Einführung neuer IT-Prozesse, ist ein Projektmanagement sinnvoll oder notwendig.    
 
 == Wie unterstützt xmera Omnia?
 
+xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der Aufgabenplanung über die Abbildung von Abhängigkeiten bis hin zu Collaboration-Funktionalitäten, die Zusammenarbeit im Projekt unterstützen.
+
 Aufgabenplanung:: 
 
-Aufgabenpakete; Meilensteine
+Die Abwicklung von Projekten wird zu einem Großteil durch die Strukturierung und Zuweisung von Aufgaben umgesetzt. Diesen Aufgaben können Zeiten und Mitarbeiter, Verantwortliche aber auch Umsetzungsaufwand zugeordnet werden. Mit der Abbildung von Status und Umsetzungsgrad, ist ein effektives Projektmanagement möglich. +
+ +
+Zur Strukturierung können auch Pakete angelegt werden, die Aufgaben zusammenfassen und damit das Projektcontrolling vereinfachen. +
+ +
+Durch die Dokumentenverwaltung lassen sich Projektdokumente zentral verwalten und können komfortabel allen Beteiligten bereit gestellt werden.
+
+[NOTE]
+Durch die Integration der betrieblichen Projekte in xmera Omnia ist die Forderung aus dem ISMS, den ISB stets einzubinden, leicht umgesetzt.
+
 
 Terminplanung / Projektverlauf:: 
 
-...
+Durch die Verknüpfung von Aufgaben als _Vorgänger von_ bzw. _Nachfolger von_ lassen sich  Abläufe abbilden. Somit werden abhängigen Aufgaben bei Verschiebung des Vorgängers ebenfalls verschoben. +
++
+Die Beziehungen zwischen +
 
-Aktivitäten / Mitteilungen:: 
-...
+- Projekten und Unterprojekten, 
+- Paketen,
+- Aufgaben und Unteraufgaben mit den
+- Abhängigkeiten von Aufgaben
+
++
+lassen sich mit dem Status und dem Umsetzungsgrad im integrierten Verlauf (Gantt-Diagramm) abbilden.
+
+Zusammenarbeit / Collaboration:: 
+
+Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang zahlreiche Funktionen, die diesen Informations- / Wissenstransfer unterstützen.
+
+- Das Journal zeigt an, wo sich in letzter Zeit etwas im Projekt verändert hat.
+- Über Meldungen lassen sich Informationen im Projektteam verteilen.
+- Über Foren lassen sich Diskussionsrunden abbilden.
+- Über das Wiki kann Projektwissen dokumentiert und weitergeben werden.
 
 == Wo finde ich Beispiele in der Demo?
 
-...
-
-
-
+NOTE: Videos zu diesem Thema folgen in Kürze!
