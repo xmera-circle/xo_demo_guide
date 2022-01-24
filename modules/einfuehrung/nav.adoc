@@ -1,4 +1,4 @@
 * xref:index.adoc[Einführung]
-** xref:xo-quick-guide_demo_gmbh.adoc[Demo GmbH]
-** xref:xo-quick-guide_orientierung.adoc[Orientierung]
-** xref:xo-quick-guide_besonderheiten.adoc[Besonderheiten]
+// ** xref:xo-quick-guide_demo_gmbh.adoc[Demo GmbH]
+// ** xref:xo-quick-guide_orientierung.adoc[Orientierung]
+// ** xref:xo-quick-guide_besonderheiten.adoc[Besonderheiten]
