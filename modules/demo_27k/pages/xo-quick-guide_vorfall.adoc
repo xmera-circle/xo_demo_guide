@@ -1,46 +1,43 @@
 = Vorfallmanagement
 :doctype: article
 :icons: font
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
 
-== Wofür wird Vorfallmanagement benötigt?
+== Wofür wird das Vorfallmanagement benötigt?
 
-Die ISO 27001 gibt im Anhang A Vorgaben, wie eine Organisation mit Informationssicherheitsvorfällen umzugehen hat. Dieses beinhaltet
+Die DIN ISO/IEC 27001 macht im Anhang A Vorgaben, wie eine Organisation mit Informationssicherheitsvorfällen umzugehen hat. Dieses beinhaltet
 
-- die Beschreibung des Verfahrens
-- einen etablierten Meldeprozess
-- eine zügige Bearbeitung und Beurteilung der Meldungen
-- eine dem Vorfall entsprechende Reaktion
-- eine Analyse und Lösungen der Vorfälle
+- die Beschreibung des Verfahrens,
+- einen etablierten Meldeprozess,
+- eine zügige Bearbeitung und Beurteilung der Meldungen,
+- eine dem Vorfall entsprechende Reaktion,
+- eine Analyse und Lösungen der Vorfälle.
 
 == Wie unterstützt xmera Omnia?
 
-xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dieser geht von der automatisierten Zuordnung von Meldungen zu Mitarbeiten oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
+xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dieser geht von der automatisierten Zuordnung von eingehenden Meldungen zu einzelnen Mitarbeiten oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
 
 Automatisieren:: 
 
-In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, wie auch Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Auch eine automatischer Mailversand ist mit der Erstellung möglich. +
+In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, wie auch Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Die Erstellung einer Meldung kann im System selbst erfolgen oder per E-Mail an das System gesendet werden. +
 
-[NOTE]
-Besteht bereits ein Ticketsystem kann über eine Mail- oder API-Schnittstelle xmera Omnia mit diesem verknüpft werden.
+[TIP]
+Besteht bereits eine Lösung für das Vorfallmangement (z.B. Ticketsystem) kann über die E-Mail- oder API-Schnittstelle von xmera Omnia wohlmöglich eine Kopplung der Systeme erreicht werden.
  +
 
 Priorisieren und Gruppieren:: 
 
-Die einlaufende Meldung kann je nach Beurteilung anschließend als Aufgabe, Störung oder Vorfall eingestuft werden. Dieser können dann noch Unteraufgaben zugeordnet werden. +
+Die einlaufende Meldung kann je nach Beurteilung anschließend als Aufgabe, Störung oder Vorfall eingestuft werden. Dieser können dann noch sich ergebende Unteraufgaben zugeordnet werden. +
 +
-Weiter lassen sich diese über die Priorisierung und Kategorisierung der Vorfall weiter strukturieren. Durch Verknüpfungen zu anderen Vorfällen lassen sich auch ähnliche Vorfälle verknüpfen. +
+Der Vorfall läßt sich über die Priorisierung und Kategorisierung weiter strukturieren. Durch Verknüpfungen zu anderen Vorfällen lassen sich auch ähnliche Vorfälle zusammenfassen. +
 
 [NOTE]
-Über eigene Felder lassen sich leicht weitere Felder in eine Aufgabe integrieren und so an den Nutzer anpassen.
+Über die Funktion _Eigene Felder_ lassen sich leicht weitere Felder in eine Aufgabe integrieren und so an den Nutzer anpassen.
 
 Analysieren:: 
 
-Zur Analyse ist in der xmera Omnia die 5-W-Methode (5-Why-Methode nach Toyoda Sakichi) implementiert, in der in 5 Frageschritten der Vorfall aus verschiedenen Aspekten beleuchtet wird. Ziel ist es, Maßnahmen zu finden, die präventiv einen solchen Vorfall verhindern oder die Auswirkungen verringern. Diese Maßnahmen können wiederum als Unteraufgabe dem Vorfall zugeordnet werden.
+Zur Analyse ist in xmera Omnia die 5-W-Methode (5-Why-Methode nach Toyoda Sakichi) implementiert. Dabei wird in 5 Frageschritten der Vorfall aus verschiedenen Aspekten beleuchtet. Ziel ist es, Maßnahmen zu finden, die präventiv einen solchen Vorfall verhindern oder die Auswirkungen verringern. Diese Maßnahmen können wiederum als Unteraufgabe dem Vorfall zugeordnet werden.
 
 == Wo finde ich Beispiele in der Demo?
 
-...
-
-
-
+NOTE: Videos zu diesem Thema folgen in Kürze!
