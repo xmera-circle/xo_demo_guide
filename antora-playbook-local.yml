@@ -1,7 +1,6 @@
 site:
   title: xmera Omnia Demo Guide
   url: /
-  start_page: xo-quick-guide::index.adoc
 content:
   sources:
   - url: .
