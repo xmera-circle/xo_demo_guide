@@ -1,11 +1,11 @@
-= Risikobeurteilung
+= Risikobewertung
 :doctype: article
 :icons: font
 :web-xmera: https://docs.xmera.de
 
 include::ROOT:partial$custom-css.adoc[]
 
-== Wofür wird die Risikobeurteilung benötigt?
+== Wofür wird die Risikobewertung benötigt?
 
 Ein weiteres zentrales Element eines ISMS ist die Informationssicherheitsbeurteilung. Hat ein Asset einen Schutzbedarf, der eine weitergehende Analyse erfordert (zumeist _Hoch_ oder _Sehr Hoch_), so ist eine Risikobewertung durchzuführen. 
 
@@ -17,7 +17,7 @@ Dieses Risiko wird dem Risikoappetit der Organisation gegenüber gestellt. Anhan
 
 Gefährdungen:: 
 
-Basis für die Risikobeurteilung in xmera Omnia sind Gefährdungen (Bedrohung + Schwachstelle). Gefährdungen beschreiben die möglichen Gefahrenquellen, denen ein Asset ausgesetzt sein kann. +
+Basis für die Risikobeurteilungen in xmera Omnia sind Gefährdungen (Bedrohung + Schwachstelle). Gefährdungen beschreiben die möglichen Gefahrenquellen, denen ein Asset ausgesetzt sein kann. +
 +
 [NOTE]
 
@@ -39,4 +39,14 @@ Wird ein Risikoniveau durch eine Maßnahme reduziert oder vermieden, so kann die
 
 == Wo finde ich Beispiele in der Demo?
 
-NOTE: Videos zu diesem Thema folgen in Kürze!
+### Gefährdungskatalog
+
+video::risiko_gefaehrdungskatalog.mp4[width=950]
+
+### Risikobewertungen
+
+video::risiko_bewertungen.mp4[width=950]
+
+### Risikobehandlungsplan
+
+video::risiko_behandlungsplan.mp4[width=950]
