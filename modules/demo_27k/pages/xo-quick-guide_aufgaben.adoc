@@ -23,7 +23,7 @@ Delegieren::
 
 Aufgaben können Mitarbeitern oder auch Gruppen zugeordnet werden. Jeder Mitarbeiter kann sich im Dashboard "seine Aufgaben" anzeigen lassen und hat damit die Übersicht auf die offenen Arbeiten.
 
-Im Benutzerprofil hat jeder Mitarbeiter die Möglichkeit eine Option für die automatische E-Mailbenachrichtigung zu wählen, um bei jeder Änderung im System entsprechend benachrichtigt zu werden.
+NOTE: Im Benutzerprofil hat jeder Mitarbeiter die Möglichkeit eine Option für die automatische E-Mailbenachrichtigung zu wählen, um über Änderungen im System benachrichtigt zu werden.
 
 Überwachen:: 
 In jeder Aufgabe kann der
@@ -35,4 +35,14 @@ Diese Werte werden auch an die untergeordneten Aufgaben übertragen. Ein Status 
 
 == Wo finde ich Beispiele in der Demo?
 
-NOTE: Videos zu diesem Thema folgen in Kürze!
+=== Aufgabenliste
+
+video::aufgaben_liste.mp4[width=950]
+
+=== Aufgabenpakete
+
+video::aufgaben_pakete.mp4[width=950]
+
+=== Dashboard
+
+video::aufgaben_dashboard.mp4[width=950]
