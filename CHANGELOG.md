@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * videos for risk management
 * videos for measures management
 * videos for tasks management
+* videos for incident management
 
 ## 0.1.0 - 2022-01-24
 
