@@ -52,10 +52,6 @@ video::massnahmen_soa.mp4[width=950]
 
 video::massnahmen_synchronisierung.mp4[width=950]
 
-=== Aufgabenpakete
-
-video::massnahmen_pakete.mp4[width=950]
-
 === Graphische Auswertung
 
 video::massnahmen_diagramme.mp4[width=950]
