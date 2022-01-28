@@ -1,4 +1,4 @@
-# Changelog for xmera Omnia Quick Guide
+# Changelog for xmera Omnia Demo Guide
 
 All notable changes to this project will be documented in this file.
 
@@ -7,8 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## unreleased
 
+### Changed
+
+* einfuehrung -> pages -> index.adoc to make more clear that a user won't have
+  admin privileges
+
 ### Added
 
-* first
-* second
-* third
+* videos for risk management
+* videos for measures management
+* videos for tasks management
+* videos for incident management
+
+## 0.1.0 - 2022-01-24
+
+### Added
+
+* initial version of xmera Omnia Demo Guide
