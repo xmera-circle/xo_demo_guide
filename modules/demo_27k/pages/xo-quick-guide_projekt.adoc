@@ -13,15 +13,15 @@ Je nach Komplexität solcher Änderungen, wie z.B. bei größeren Upgrades, Erne
 
 == Wie unterstützt xmera Omnia?
 
-xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der Aufgabenplanung über die Abbildung von Abhängigkeiten bis hin zu Collaboration-Funktionalitäten, die Zusammenarbeit im Projekt unterstützen.
+xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der xref:xo-quick-guide_aufgaben.adoc[Aufgabenplanung] über die Abbildung von Abhängigkeiten bis hin zu Collaboration-Funktionalitäten, die Zusammenarbeit im Projekt unterstützen.
 
 Aufgabenplanung:: 
 
 Die Abwicklung von Projekten wird zu einem Großteil durch die Strukturierung und Zuweisung von Aufgaben umgesetzt. Diesen Aufgaben können Zeiten und Mitarbeiter, Verantwortliche aber auch Umsetzungsaufwand zugeordnet werden. Mit der Abbildung von Status und Umsetzungsgrad, ist ein effektives Projektmanagement möglich. +
  +
-Zur Strukturierung können auch Pakete angelegt werden, die Aufgaben zusammenfassen und damit das Projektcontrolling vereinfachen. +
+Zur Strukturierung können auch xref:xo-quick-guide_aufgaben.adoc#_aufgabenpakete[Aufgabepakete] angelegt werden, die Aufgaben zusammenfassen und damit das Projektcontrolling vereinfachen. +
  +
-Durch die Dokumentenverwaltung lassen sich Projektdokumente zentral verwalten und können komfortabel allen Beteiligten bereit gestellt werden.
+Durch die xref:xo-quick-guide_dms.adoc[Dokumentenverwaltung] lassen sich Projektdokumente zentral verwalten und können komfortabel allen Beteiligten bereit gestellt werden.
 
 [NOTE]
 Durch die Integration der betrieblichen Projekte in xmera Omnia ist die Forderung aus dem ISMS, den ISB stets einzubinden, leicht umgesetzt.
@@ -52,4 +52,30 @@ Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xme
 
 == Wo finde ich Beispiele in der Demo?
 
-NOTE: Videos zu diesem Thema folgen in Kürze!
+=== Projektverlauf
+
+video::projekt_verlauf.mp4[width=950]
+
+=== Journal
+
+video::projekt_journal.mp4[width=950]
+
+=== Meldungen
+
+video::projekt_meldungen.mp4[width=950]
+
+[NOTE]
+====
+Die Module des Projektmanagments sind auch in allen anderen Objekten verfügbar und können bei Bedarf aktiviert werden. 
+Dazu gehören zum Beispiel:
+
+* Aufgaben
+* Kalender
+* Zeiterfassung
+* Wiki
+* Verlauf
+* Mitteilung
+* Dokumente und Dateien
+* Foren
+* Archiv (Coderepository)
+====
