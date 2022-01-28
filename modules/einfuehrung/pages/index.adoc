@@ -13,11 +13,13 @@ Vorab empfehlen wir eine persönliche Vorführung des Systems. https://xmera.de/
 
 Die xmera Omnia Demo soll Interessenten einen Einblick in die Möglichkeiten unserer ISMS Softwarelösung xmera Omnia geben. 
 
-Bei der Demo sind 2 Punkte zu beachten: 
+Bei der Demo sind 3 Punkte zu beachten: 
 
 1. Die Demo zeigt kein vollständig mit Daten befülltes ISMS, sondern einzelne Teilbereiche, anhand derer die Funktionalität von xmera Omnia verständlich wird. Dieser Guide führt Sie daher in kurzen Videosequenzen durch die mit Daten befüllten Bereiche, um diese gezielt in Ihrer Testinstanz aufsuchen zu können.
 
-2. Die Software xmera Omnia lebt den Anspruch, das Softwareprozesse flexibel an  Unternehmensprozesse angepasst werden können sollte. Die dargestellten Lösungen der fiktiven Demo GmbH zeigen damit *einen* Weg auf, ISMS-Prozesse abzubilden. Wenn ein dargestellter Prozess nicht Ihren Anforderungen genügt, wenden Sie sich gerne an uns. In einem persönlichen Gespräch zeigen wir Ihnen gerne Individualisierungsmöglichkeiten auf.
+2. Als Benutzer in der Testinstanz haben Sie keine Administratorenrechte. Dadurch bleibt ein großer Bereich, in dem die Software individualisiert werden kann für Sie verborgen. Beachten Sie daher auch Punkt 3.
+
+3. Die Software xmera Omnia lebt den Anspruch, das Softwareprozesse flexibel an  Unternehmensprozesse angepasst werden können sollte. Die dargestellten Lösungen der fiktiven Demo GmbH zeigen damit *einen* Weg auf, ISMS-Prozesse abzubilden. Wenn ein dargestellter Prozess nicht Ihren Anforderungen genügt, wenden Sie sich gerne an uns. In einem persönlichen Gespräch zeigen wir Ihnen gerne Individualisierungsmöglichkeiten auf.
 
 == Der xmera Omnia Demo Guide
 

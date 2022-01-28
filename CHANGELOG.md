@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## unreleased
 
+### Changed
+
+* einfuehrung -> pages -> index.adoc to make more clear that a user won't have
+  admin privileges
+
 ### Added
 
 * videos for risk management
