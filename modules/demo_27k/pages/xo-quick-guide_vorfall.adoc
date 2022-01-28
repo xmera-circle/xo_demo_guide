@@ -3,6 +3,8 @@
 :icons: font
 :web-xmera: https://docs.xmera.de
 
+include::ROOT:partial$custom-css.adoc[]
+
 == Wofür wird das Vorfallmanagement benötigt?
 
 Die DIN ISO/IEC 27001 macht im Anhang A Vorgaben, wie eine Organisation mit Informationssicherheitsvorfällen umzugehen hat. Dieses beinhaltet
@@ -15,11 +17,11 @@ Die DIN ISO/IEC 27001 macht im Anhang A Vorgaben, wie eine Organisation mit Info
 
 == Wie unterstützt xmera Omnia?
 
-xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dieser geht von der automatisierten Zuordnung von eingehenden Meldungen zu einzelnen Mitarbeiten oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
+xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dazu gehört die automatisierte Zuordnung von eingehenden Meldungen zu einzelnen Mitarbeiten oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
 
 Automatisieren:: 
 
-In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, wie auch Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Die Erstellung einer Meldung kann im System selbst erfolgen oder per E-Mail an das System gesendet werden. +
+In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, wie auch Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Die Erstellung einer Meldung kann im System selbst erfolgen oder per E-Mail an das System gesendet werden. Der E-Mail-Empfang ist in der Testinstanz nicht verfügbar. +
 
 [TIP]
 Besteht bereits eine Lösung für das Vorfallmangement (z.B. Ticketsystem) kann über die E-Mail- oder API-Schnittstelle von xmera Omnia wohlmöglich eine Kopplung der Systeme erreicht werden.
@@ -40,4 +42,10 @@ Zur Analyse ist in xmera Omnia die 5-W-Methode (5-Why-Methode nach Toyoda Sakich
 
 == Wo finde ich Beispiele in der Demo?
 
-NOTE: Videos zu diesem Thema folgen in Kürze!
+=== Erfassung
+
+video::vorfall_erfassung.mp4[width=950]
+
+=== Analyse
+
+video::vorfall_analyse.mp4[width=950]

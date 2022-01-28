@@ -3,13 +3,15 @@
 :icons: font
 :web-xmera: https://docs.xmera.de
 
+include::ROOT:partial$custom-css.adoc[]
+
 == Wofür wird das Maßnahmenmanagement benötigt?
 
 Ein wesentlicher Bestandteil eines ISMS ist die Erklärung zur Anwendbarkeit (Statement of Applicability | SOA), in der die Sicherheitsanforderungen zusammengefasst werden, die zur Erreichung der Sicherheitsziele der Organisation relevant sind. Der Katalog der Sicherheitsanforderungen ist dem Anhang A der DIN ISO/IEC 27001 zu entnehmen.
 
 Die sich aus den Anforderungen ergebenden Maßnahmen werden ergänzt um weitere Maßnahmen aus
 
-- eigenen Sicherheitsstandards
+- eigenen Sicherheitsstandards,
 - der Risikobewertung,
 - der Vorfallanalyse oder
 - internen wie externen Audits.
@@ -42,4 +44,14 @@ Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia vielfältige Mö
 
 == Wo finde ich Beispiele in der Demo?
 
-NOTE: Videos zu diesem Thema folgen in Kürze!
+=== Anwendbarkeitserklärung
+
+video::massnahmen_soa.mp4[width=950]
+
+=== Maßnahmen-Synchronisierung
+
+video::massnahmen_synchronisierung.mp4[width=950]
+
+=== Graphische Auswertung
+
+video::massnahmen_diagramme.mp4[width=950]
