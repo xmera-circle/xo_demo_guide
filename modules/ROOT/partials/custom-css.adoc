@@ -16,7 +16,8 @@ pass:[<style>
 .center { 
   text-align:center;
 }
-video { 
+video,
+.imageblock img{ 
   width: 100%;
   height: auto;
   -webkit-box-shadow: 0 2px 8px 0 rgba(31,32,68,.16);
