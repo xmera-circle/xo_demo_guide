@@ -9,7 +9,7 @@ include::ROOT:partial$custom-css.adoc[]
 
 Mit dem ersten Aufruf werden Sie zur Anmeldung (login) geführt.
 
-image::einfuehrung_anmelden.png[500,500,align=left] 
+image::einfuehrung_anmelden.png[width=400,height=400,align=left] 
 
 Hier tragen Sie ihre Anmeldedaten für die xmera Omnia Demo ein. Mit Klicken auf _Anmelden_ werden Sie bei Erstanmeldung zunächst gebeten Ihr Passwort zu ändern. Danach gelangen Sie zur Hauptseite.
 
