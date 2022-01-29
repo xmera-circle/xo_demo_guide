@@ -16,9 +16,9 @@ pass:[<style>
 .center { 
   text-align:center;
 }
+video {  width: 100%; }
 video,
-.imageblock img{ 
-  width: 100%;
+.imageblock img { 
   height: auto;
   -webkit-box-shadow: 0 2px 8px 0 rgba(31,32,68,.16);
   -webkit-transition: all .7s cubic-bezier(.23,1,.32,1);
