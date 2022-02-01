@@ -7,13 +7,13 @@ include::ROOT:partial$custom-css.adoc[]
 
 Um an einem Beispiel die Vorteile von xmera Omnia zeigen zu können, wurde die demo GmbH erfunden. Die demo GmbH ist nur so weit erdacht, dass alle Prozesse eines ISMS dargestellt werden können.
 
-== Produkte
+== Geschäftszweck
 
-Die demo GmbH bietet den Kunden IT-Dienstleistungen an. In diesem Zusammenhang wird auch Software programmiert und für die Tests und Migrationsprojekte Daten der Kunden verarbeitet.
+Die demo GmbH bietet den Kunden IT-Dienstleistungen an. In diesem Zusammenhang wird auch Software programmiert und für Tests und Migrationsprojekte Daten der Kunden verarbeitet.
 
 == Mitarbeiter
 
-Die demo GmbH hat eine Geschäftsführerin und 8 Mitarbeiter*innen in den Bereichen 
+Die demo GmbH hat eine Geschäftsführerin und 6 MitarbeiterInnen in den Bereichen 
 
 - Geschäftsführung,
 - Verwaltung,
@@ -21,7 +21,7 @@ Die demo GmbH hat eine Geschäftsführerin und 8 Mitarbeiter*innen in den Bereic
 - Marketing und Vertrieb und
 - IT-Betrieb.
 
-In der folgenden Tabelle sind die Mitarbeiter und Ihre Zuordnung gelistet.
+In der folgenden Tabelle sind die Mitarbeiter und ihre Zuordnung gelistet.
 
 |===
 | Mitarbeiter |	Funktion | Bereich
@@ -35,24 +35,24 @@ In der folgenden Tabelle sind die Mitarbeiter und Ihre Zuordnung gelistet.
 | Christine Miller | Mitarbeiterin | IT-Betrieb
 |===
 
-Um die Prozesse um das Informationssicherheitsmanagement und das Datenschutzmanagement umzusetzen hat man sowohl einen externen ISB und eine externe DSB beauftragt.
+Um die Prozesse um das Informationssicherheitsmanagement und das Datenschutzmanagement umzusetzen hat man sowohl einen externen ISB als auch einen externe DSB beauftragt.
 
 |===
-| Mitarbeiter |	Funktion | Bereich
+| Mitarbeiter |	Funktion 
 
-| Markus Schneider | Externer ISB | 
-| Kerstin Neumann | Externe DSB |  
+| Markus Schneider | Externer Informationssicherheitsbeauftragter (ISB) 
+| Kerstin Neumann | Externe Datenschutzbauftragte (DSB)  
 |===
 
 == Prozesse
 
-In der demo GmbH werden im ISMS
+In der demo GmbH werden im ISMS die Prozesse
 
-- die Abrechnung,
-- die Angebotserstellung,
-- das Personalmanagement,
-- die Projektdurchführung und
-- die Projektgewinnung
+- Abrechnung,
+- Angebotserstellung,
+- Personalmanagement,
+- Projektdurchführung und
+- Projektgewinnung
 
 betrachtet.
 
@@ -62,6 +62,6 @@ Um in der xmera Omnia Demo auch ein IT-Assetregister darstellen zu können, wurd
 
 image::einfuehrung_demo-gmbh_netzstruktur.png[Netzstrukturplan,600,800,align=left]
 
-Die Netzstruktur zeigt eine Hybride IT-Umgebung aus einer eigenen IT für die Entwicklung und die Verwaltung, aber auch die Nutzung von Cloud-Diensten ist abgebildet.
+Die Netzstruktur zeigt eine hybride IT-Umgebung aus einer eigenen IT für Entwicklung und Verwaltung und die Nutzung von Cloud-Diensten.
 
 Die demo GmbH hat einen Standort. Die Mitarbeiter können aber auch aus dem Home-Office arbeiten.
