@@ -1,7 +1,38 @@
 = Besonderheiten der Demo
 :doctype: article
 :icons: font
-:imagesdir: ../images/
-:web-xmera: https://xmera.de
+:web-xmera: https://docs.xmera.de
 
-.
+== Demo-Prozesse
+
+Die Demo zeigt kein vollständig mit Daten befülltes ISMS, sondern einzelne Teilbereiche, anhand derer die Funktionalität von xmera Omnia verständlich wird. Dieser Guide führt Sie daher in kurzen Videosequenzen durch die mit Daten befüllten Bereiche, um diese gezielt in Ihrer Testinstanz aufsuchen zu können. Gleichzeitig lässt Ihnen die Demo genug Raum eigene Daten testweise einzupflegen.
+
+== Rollen und Rechte
+
+Das Rollen- und Rechtemanagement ist eine wichtige Funktionalität eines ISMS-Tools. So sind in der Demo folgende Rollen als Beispiel hinterlegt: 
+
+- Objektverantwortlicher
+- Überwachungsverantwortlicher
+- Aufgabenverantwortlicher
+- Risikoverantwortlicher
+- Beobachter
+- Meldungsberechtigter 
+- Disponent
+
+Diese Rollen können in einem Objekt dem Benutzer oder einer Benutzergruppe zugewiesen werden. Damit erhält ein Benutzer Rechte in einem oder mehreren Objekten. Objekte und Elemente, an denen ein Benutzer keine Rechte besitzt, werden ihm nicht angezeigt und sind somit auch nicht zugänglich.
+
+Der Benutzer _demo-tester_ ist in allen Objekten _Objektverantwortlicher_. Damit sieht er alles und kann auch Konfigurationen in den Objekten anpassen. Eine eingeschränkte Sicht auf Daten, die ein Nutzer mit einer anderen Rolle hätte, ist mit dem Testnutzer nicht möglich.
+
+Auf Anfrage können für die xmera Omnia Demo auch (fiktive) Benutzer mit anderen Rollen freigeschaltet werden. Die Rolle des Administrators gehört jedoch nicht dazu.
+
+== Dargestellte Herangehensweise
+
+Kein ISMS gleicht dem Anderen. Viele Randbedingungen beeinflussen die Gestaltung der ISMS Prozesse einer Organisation. xmera Omnia hat die Prämisse sich an die Organisation anzupassen und ist damit an sehr vielen Stellen individuell konfigurierbar. 
+
+Diese Flexibilität von xmera Omnia lässt sich jedoch in einer Demo nicht abbilden, ohne den Nutzer zu irritieren. Wir haben daher in der Demo eine Konfiguration gewählt, die zeigt, wie wir uns die ISMS-Prozesse für diese spezielle demo GmbH vorstellen. Das ist aber nur ein Weg das ISMS mit xmera Omnia umzusetzen.
+
+TIP: Wenn Sie Fragen zu speziellen Prozessabläufen haben, https://xmera.de/beratungstermin[sprechen Sie uns gerne an]. xmera Solutions bietet ihren Kunden auch https://xmera.de/isms-evaluierungsworkshop[Workshops] an, in denen mit Ihnen eine individuelle xmera Omnia Konfiguration für Ihr Unternehmen und Ihre Organisation erarbeitet wird.
+
+== Wiederherstellung
+
+Die Demo ist dafür gemacht, dass xmera Omnia durch Interessenten ausprobiert werden kann. Das kann dazu führen, dass etwas durcheinander kommt. Falls so etwas passiert, keine Panik. Melden Sie sich bei uns und wir werden die Demo wieder zurücksetzen.
