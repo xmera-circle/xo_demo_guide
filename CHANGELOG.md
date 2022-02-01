@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-* introduction of demo GmbH
+* introduction of demo GmbH page
+* specialities of the demo page
 
 # 0.2.0 - 2022-01-28
 
