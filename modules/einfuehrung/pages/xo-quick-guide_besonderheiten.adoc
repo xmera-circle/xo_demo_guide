@@ -5,7 +5,7 @@
 
 == Demo-Prozesse
 
-Ein komplettes ISMS mit allen benötigten Daten für eine Demo zu erzeugen wäre ein zu großer Aufwand gewesen. Wir haben uns auf wenige Prozesse konzentriert, die wir erfasst haben. An diesen Prozessen zeigen wir, wie xmera Omnia die xmera Omnia ISMS Prozess unterstützt. In der Dokumentation der Funktionalitäten wird daher neben der Kurzbeschreibung der Funktionen in kurzen Video-Sequenzen gezeigt, wo die Beispiele für die konkrete Funktionalität in der Demo zu finden ist.
+Die Demo zeigt kein vollständig mit Daten befülltes ISMS, sondern einzelne Teilbereiche, anhand derer die Funktionalität von xmera Omnia verständlich wird. Dieser Guide führt Sie daher in kurzen Videosequenzen durch die mit Daten befüllten Bereiche, um diese gezielt in Ihrer Testinstanz aufsuchen zu können. Gleichzeitig lässt Ihnen die Demo genug Raum eigene Daten testweise einzupflegen.
 
 == Rollen und Rechte
 
@@ -19,25 +19,20 @@ Das Rollen- und Rechtemanagement ist eine wichtige Funktionalität eines ISMS-To
 - Meldungsberechtigter 
 - Disponent
 
-Diese Rollen können in einem Objekt einem Benutzern / einer Benutzergruppen zugewiesen werden.
+Diese Rollen können in einem Objekt dem Benutzer oder einer Benutzergruppe zugewiesen werden. Damit erhält ein Benutzer Rechte in einem oder mehreren Objekten. Objekte und Elemente, an denen ein Benutzer keine Rechte besitzt, werden ihm nicht angezeigt und sind somit auch nicht zugänglich.
 
-Damit erhält ein Benutzer Rechte in einem oder mehreren Objekten. Und nur diese Objekte und Elemente aus diesen Objekten werden für Ihn angezeigt.
+Der Benutzer _demo-tester_ ist in allen Objekten _Objektverantwortlicher_. Damit sieht er alles und kann auch Konfigurationen in den Objekten anpassen. Eine eingeschränkte Sicht auf Daten, die ein Nutzer mit einer anderen Rolle hätte, ist mit dem Testnutzer nicht möglich.
 
-Der Benutzer _demo-tester_ ist in allen Objekten Objektverantwortlicher. Damit sieht er alles und kann auch Konfigurationen in den Objekten anpassen. Die eingeschränkte Sicht auf die Daten, die ein anderen Nutzers auf die Daten hätte, ist mit diesem einen Testnutzer nicht möglich. Andererseits ist nur durch die Zuordnung des _demo-testers_ zu allen Objekten ein Überblick über die ISMS-Funktionalitäten des xmera Omnia möglich.
-
-Auf Anfrage können für die xmera Omnia Demo auch andere Rollen freigeschaltet werden.
+Auf Anfrage können für die xmera Omnia Demo auch (fiktive) Benutzer mit anderen Rollen freigeschaltet werden. Die Rolle des Administrators gehört jedoch nicht dazu.
 
 == Dargestellte Herangehensweise
 
-Kein ISMS gleicht dem Anderen. Viele Randbedingungen beeinflussen die Gestaltung der ISMS Prozesse einer Organisation. xmera Omnia hat die Prämisse sich an die Organisation anzupassen und ist damit an sehr vielen Stellen flexibel konfigurierbar. 
+Kein ISMS gleicht dem Anderen. Viele Randbedingungen beeinflussen die Gestaltung der ISMS Prozesse einer Organisation. xmera Omnia hat die Prämisse sich an die Organisation anzupassen und ist damit an sehr vielen Stellen individuell konfigurierbar. 
 
-Diese Flexibilität von xmera Omnia lässt sich aber in einer Demo nicht abbilden, ohne den Nutzer zu irritieren. Wir haben daher in der Demo eine Konfiguration gewählt,die zeigt, wie wir uns die ISMS-Prozesse für die spezielle demo GmbH vorstellen. Dieses ist aber nur ein Weg das ISMS mit xmera Omnia umzusetzen.
+Diese Flexibilität von xmera Omnia lässt sich jedoch in einer Demo nicht abbilden, ohne den Nutzer zu irritieren. Wir haben daher in der Demo eine Konfiguration gewählt, die zeigt, wie wir uns die ISMS-Prozesse für diese spezielle demo GmbH vorstellen. Das ist aber nur ein Weg das ISMS mit xmera Omnia umzusetzen.
 
-Wenn Sie Fragen zu speziellen Prozessabläufen haben, sprechen Sie uns gerne an. xmera-Solutions bietet aber auch Workshops an, in denen mit Ihnen die spezielle xmera Omnia Konfiguration für Ihr Unternehmen / Ihre Organisation erarbeitet wird.
-
-Sprechen Sie uns gerne an!
-
+TIP: Wenn Sie Fragen zu speziellen Prozessabläufen haben, https://xmera.de/beratungstermin[sprechen Sie uns gerne an]. xmera Solutions bietet ihren Kunden auch https://xmera.de/isms-evaluierungsworkshop[Workshops] an, in denen mit Ihnen eine individuelle xmera Omnia Konfiguration für Ihr Unternehmen und Ihre Organisation erarbeitet wird.
 
 == Wiederherstellung
 
-Die Demo ist dafür gemacht, dass xmera Omnia durch Interessenten ausprobiert werden kann. Das kann dazu führen, dass etwas durcheinander kommt. Falls so etwas passiert, keine Panik. Melden Sie sich bei xmera und wir werden die Demo wieder zurücksetzen.
+Die Demo ist dafür gemacht, dass xmera Omnia durch Interessenten ausprobiert werden kann. Das kann dazu führen, dass etwas durcheinander kommt. Falls so etwas passiert, keine Panik. Melden Sie sich bei uns und wir werden die Demo wieder zurücksetzen.
