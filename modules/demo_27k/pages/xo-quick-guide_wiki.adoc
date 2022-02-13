@@ -6,9 +6,13 @@
 
 == Wofür wird ein Wiki benötigt?
 
-Wissenstransfer, dynamische Dokumente (Betriebshandbuch)
+Die Organisation muss sicherstellen, dass Informationen zu den Prozessen in angemessener Art und weise vorliegen, damit die Prozesse geplant ablaufen können. Insbesondere die Betriebsabläufe sind zu dokumentieren und den Benutzern, die sie benötigen, zugänglich zu machen.
+
+Damit soll sichergestellt werden, dass Prozesse nach einem dokumentierten und nachvollziehbaren Art und Weise ablaufen und auch neue Mitarbeiter sich gezielt in neue Prozesse einzuarbeiten. Gerade bei dynamischen Prozessen kann die Prozessbeschreibung und auch die Erfahrungsweitergabe gut durch eine Wiki erfolgen.
 
 == Wie unterstützt xmera Omnia?
+
+
 
 Erfassung und Historie:: 
 

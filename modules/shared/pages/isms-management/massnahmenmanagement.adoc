@@ -1,0 +1,19 @@
+= Maßnahmenmangement
+
+Status und Umsetzungsgrad:: 
+
+Aus dem Anforderungskatalog sind Maßnahmen abzuleiten, zu planen, zu deligieren und zu überwachen. Zu jeder Maßnahme lassen sich Status und Umsetzungsgrad vom Verantwortlichen angeben, wodurch der Informationssicherheitsbeauftragte jederzeit einen Überblick über den Fortschritt erhält.  +
++
+Auswertungen kann er sowohl auf Ebene eines einzelnen Assets vornehmen als auch auf der Ebene von übergeordneten Objekten. In der obersten Ebene erhält er einen Überblick über das gesamte System.  +
++
+Um die Übersichtlichkeit zu erhöhen, lassen sich _Aufgabenpakete_ bilden. Sie fassen Maßnahmen und zugehörige Aufgaben zusammen. Auch bei Aufgabenpaketen werden unterlagerte Maßnahmen und Aufgaben kumuliert dargestellt, so dass auch hier leicht ein Umsetzungsgrad überwacht werden kann.
+
+Verknüpfung zwischen Maßnahmen und Aufgaben:: 
+
+Maßnahmen können auf verschiedenste Weise verknüpft werden. Der Bearbeitungstatus und der Umsetzungsgrad der verknüpften Aufgaben ist in den übergeordneten Elementen zu sehen und kann den Status und den Umsetzungsgrad des übergeordneten Elements beeinflussen.
+
+Tabellarische und graphische Auswertung:: 
+
+Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia vielfältige Möglichkeiten der Datenauswertung. Dabei unterstützen Filterfunktionen und eine flexible Spaltenanordnung innerhalb der Tabellen. Zusätzliche graphische Auswertungen runden die Analyse ab.
+
+

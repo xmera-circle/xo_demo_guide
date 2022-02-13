@@ -1,0 +1,12 @@
+= Manuelle Anpassung
+
+Wenn wegen dem Kumulations- oder Verteilungseffekt vom sonst üblichen Maximumprinzip vom automatisch übertragenen Schutzbedarf abgewichen werden muss, dann ist das in xmera Omnia an jeder Stelle in der Vererbungskette möglich.
+
+[TIP] 
+.Ausfüllhilfen für Mitarbeiter
+====
+Definitionen von Fachbegriffen wie dem Kumulations- und Verteilungseffekt finden Sie in der Demo beispielhaft unter Objekte -> I Vorgaben & Regeln -> Wiki -> ISMS-Handbuch -> 2. Schutzbedarffeststellung.
+
+Diese haben wir als Ausfüllhilfe über der Schutzbedarfsanalyse-Tabelle, die Sie bspw. unter Objekte -> B Prozesse & Informationen -> Projektdurchführung -> Fiktive Testdaten -> Tabellen -> Schutzbedarfsanalyse finden, integriert.
+
+====
