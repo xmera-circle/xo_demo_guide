@@ -19,28 +19,11 @@ NOTE: Je nach Branche oder Sicherheitsstandard können/müssen weitere Schutzzie
 
 == Wie unterstützt xmera Omnia?
 
-Schutzbedarfanalyse:: 
+include::shared:schutzbedarfanalyse/schutzbedarffeststellung.adoc[leveloffset=2]
 
-Die Schutzbedarfanalyse in xmera Omnia ermöglicht die Beurteilung des Schutzbedarfs anhand eines Fragenkatalogs. Dieser Fragenkatalog kann individuell angepasst werden. +
-+
-Somit läßt sich zum Beispiel direkt durch die Prozesseigner der Schutzbedarf für die von ihnen benötigten Informationen ermitteln. Aufwendige Interviews entfallen.
+include::shared:schutzbedarfanalyse/schutzbedarfvererbung.adoc[leveloffset=2]
 
-Schutzbedarfvererbung:: 
-
-Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desktop-PC's, Server oder auch Serverräume und Gebäude, ist abhängig von den in ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im xref:xo-quick-guide_assetregister.adoc[Assetregister] lassen sich die Schutzbedarfe der primären Assets (Prozesse und Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen dieser Assets jederzeit einen Überblick über ihren Schutzbedarf.
-
-Manuelle Anpassung:: 
-
-Wenn wegen dem Kumulations- oder Verteilungseffekt vom sonst üblichen Maximumprinzip vom automatisch übertragenen Schutzbedarf abgewichen werden muss, dann ist das in xmera Omnia an jeder Stelle in der Vererbungskette möglich.
-
-[TIP] 
-.Ausfüllhilfen für Mitarbeiter
-====
-Definitionen von Fachbegriffen wie dem Kumulations- und Verteilungseffekt finden Sie in der Demo beispielhaft unter Objekte -> I Vorgaben & Regeln -> Wiki -> ISMS-Handbuch -> 2. Schutzbedarffeststellung.
-
-Diese haben wir als Ausfüllhilfe über der Schutzbedarfsanalyse-Tabelle, die Sie bspw. unter Objekte -> B Prozesse & Informationen -> Projektdurchführung -> Fiktive Testdaten -> Tabellen -> Schutzbedarfsanalyse finden, integriert.
-
-====
+include::shared:schutzbedarfanalyse/schutzbedarfanpassung.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 

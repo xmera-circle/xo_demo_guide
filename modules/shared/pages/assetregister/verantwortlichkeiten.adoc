@@ -1,0 +1,3 @@
+= Verantwortlichkeiten zuordnen
+
+Den Assets können Mitarbeiter zugeordnet werden. Jeder Mitarbeiter kann in der für ein spezifisches Asset passenden Rolle hinzugefügt werden. Dabei stehen die Rollen zur Verfügung, die über das Berechtigungsmanagement vom Administrator angelegt wurden. In der Demo sind das beispielsweise der Objektverantwortliche, Aufgabenverantwortliche, Risikoverantwortliche oder Beobachter. 

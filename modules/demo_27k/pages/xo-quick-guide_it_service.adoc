@@ -1,0 +1,39 @@
+= IT-Service Management
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird das IT-Service-Management benötigt?
+
+Der IT-Service ist in vielfältiger Weise für ein funktionierendes ISMS nach der DIN ISO/IEC 27001 notwendig.
+
+An die Organisation des *Vorfallmanagements* werden im Anhang A Anforderungen zur Erfassung und Behandlung von Informationssicherheitsvorfällen gestellt. Dieses beinhaltet 
+
+- die Beschreibung des Verfahrens,
+- einen etablierten Meldeprozess,
+- eine zügige Bearbeitung und Beurteilung der Meldungen,
+- eine dem Vorfall entsprechende Reaktion,
+- eine Analyse und Lösungen der Vorfälle.
+
+Ein ISMS beinhaltet auch den Betrieb der Informationssysteme. So fordert die DIN ISO/IEC 27001, dass die betrieblichen Prozesse, die für den sicheren Betrieb notwendig sind, nicht nur umgesetzt sondern auch gesteuert werden müssen. Dazu gehören neben den konkreten Aufgaben, die sich aus den Sicherheitsanforderungen ergeben, auch die Aufgaben aus den Bereichen Wartung, Instandsetzung, Erweiterungen und Änderungen.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:it-service-management/vorfallmanagement.adoc[leveloffset=2]
+
+include::shared:it-service-management/aufgabenmanagement.adoc[leveloffset=2]
+
+include::shared:it-service-management/ticketsystem.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+### Erfassung von Vorfällen
+
+video::vorfall_erfassung.mp4[width=950]
+
+### Analyse von Vorfällen
+
+video::vorfall_analyse.mp4[width=950]
+

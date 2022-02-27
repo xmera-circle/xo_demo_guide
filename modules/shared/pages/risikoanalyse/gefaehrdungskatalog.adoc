@@ -1,0 +1,8 @@
+= Gefährdungskatalog
+
+Basis für die Risikobeurteilungen in xmera Omnia sind Gefährdungen (Bedrohung + Schwachstelle). Gefährdungen beschreiben die möglichen Gefahrenquellen, denen ein Asset ausgesetzt sein kann.
+
+[NOTE]
+xmera Omnia bietet ein Importpaket des Gefährdungskataloges gemäß DIN ISO/IEC 27005 an, das um individuelle Gefährdungen erweitert werden kann.
+
+Jede Gefährdung kann Assetgruppen / Bausteinen zugeordnet werden. Über den Synchronisationsprozess werden die Gefährdungen dann einem Asset oder einer Assetgruppe zugeordnet.

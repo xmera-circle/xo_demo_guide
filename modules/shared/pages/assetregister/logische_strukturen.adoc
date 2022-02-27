@@ -1,0 +1,11 @@
+= Logische Strukturen abbilden
+
+Neben den hierarchischen Strukturen können auch logische Verknüpfungen (Zusammenhänge zwischen den Objekten) abgebildet werden.
+
+Objektverknüpfungen bilden die Basis für die Vererbung des Schutzbedarfs, der in der Schutzbedarfsanalyse auf Ebene der Informationsobjekte oder Geschäftsprozesse ermittelt wird.
+
+[NOTE] 
+.Beispiel einer Vererbungskette
+====
+Informationen -> werden in einer _Anwendung_ gepflegt -> die auf einem _Server_ läuft -> der in einem _Serverraum_ -> in einem _Werksgebäude_ steht.
+====

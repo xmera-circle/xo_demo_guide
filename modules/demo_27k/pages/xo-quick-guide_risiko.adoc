@@ -15,27 +15,11 @@ Dieses Risiko wird dem Risikoappetit der Organisation gegenüber gestellt. Anhan
 
 == Wie unterstützt xmera Omnia?
 
-Gefährdungen:: 
+include::shared:risikoanalyse/gefaehrdungskatalog.adoc[leveloffset=2]
 
-Basis für die Risikobeurteilungen in xmera Omnia sind Gefährdungen (Bedrohung + Schwachstelle). Gefährdungen beschreiben die möglichen Gefahrenquellen, denen ein Asset ausgesetzt sein kann. +
-+
-[NOTE]
+include::shared:risikoanalyse/risikobewertung.adoc[leveloffset=2]
 
-xmera Omnia bietet ein Importpaket des Gefährdungskataloges gemäß DIN ISO/IEC 27005 an, das um individuelle Gefährdungen erweitert werden kann.
-
-+
-Die Risikobewertung, die gewählte Risikobehandlungsoption und das sich daraus ergebende neue Risikoniveau lassen sich ebenfalls in der Risikobeurteilung abbilden. +
-+
-Wird eine Maßnahme erforderlich, kann diese direkt erstellt und mit der Risikobeurteilung verknüpft werden.
-
-Risikoakzeptanzmatrix:: 
-
-Für die Ermittlung des Risikoniveaus wird in xmera Omnia eine individuell konfigurierbare Risikoakzeptanzmatrix bereitgestellt, in der für jede Kombination aus Eintrittshäufigkeit und Schadensklasse ein Risikoniveau zugeordnet werden kann. In der Demo wird hierfür eine 4 x 4 Matrix verwendet, woraus sich 16 Kombinationen ergeben.
-
-NOTE: Da die Konfiguration der Risikoakzeptanzmatrix im Administrationsbereich vorgenommen werden muss, ist dies im Rahmen der Demo nicht möglich.
-
-Risikobehandlungsplan:: 
-Wird ein Risikoniveau durch eine Maßnahme reduziert oder vermieden, so kann die Maßnahmen als Unteraufgabe an die Gefährdung gekoppelt werden. Alle Maßnahmen, die aus einer Risikobeurteilung erwachsen sind, können dann in einem Risikobehandlungsplan zusammengefasst werden. Dieser Risikobehandlungsplan zeigt alle Maßnahmen, die als Ziel haben, dass Schutzniveau auf ein akzeptables Maß zu bringen.
+include::shared:risikoanalyse/risikobehandlungsplan.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 
@@ -50,3 +34,4 @@ video::risiko_bewertungen.mp4[width=950]
 ### Risikobehandlungsplan
 
 video::risiko_behandlungsplan.mp4[width=950]
+

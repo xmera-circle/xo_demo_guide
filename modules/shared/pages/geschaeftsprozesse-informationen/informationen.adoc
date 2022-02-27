@@ -1,0 +1,7 @@
+= Informationen
+
+Die Informationen dienen als Bindeglied zwischen Prozess und Anwendung. Der Prozess beschreibt eine Handlung. Die Information beschreibt die benötigten Informationen / Informationsverarbeitung, die zur Umsetzung der Handlung notwendig sind.
+
+Dabei kann auf Informationsklassen zurückgegriffen werden, die eine Grundkonfiguration im Bereich der Schutzbedarfsfestlegung aber auch des Datenschutzes ermöglichen.
+
+Für die Information wird der Schutzbedarf durch die Prozesseigner definiert. Dieser wird über die logischen Verknüpfungen zu den für die Informationsverarbeitung notwendigen sekundären Assets vererbt. 

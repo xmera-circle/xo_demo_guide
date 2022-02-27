@@ -1,0 +1,59 @@
+= ISMS-Manangement
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird das ISMS-Management benötigt?
+
+Ohne ein funktionierendes ISMS-Planung keine Zertifizierung. Im Kapitel 6 der ISO/IEC 27001 wird vorgegeben, dass alle Maßnahmen zur Erreichung der Sicherheitsziele zu planen und deren Umsetzung zu überwachen sind. 
+
+Die Organisation und die getroffenen Maßnahmen sind nach Kapiltel 9 zu bewerten und deren Umsetzung zu überwachen.
+
+Anwendbarekteitserklärung:: 
+
+Ein wesentlicher Bestandteil eines ISMS ist die Erklärung zur Anwendbarkeit (Statement of Applicability | SOA), in der die Sicherheitsanforderungen zusammengefasst werden, die zur Erreichung der Sicherheitsziele der Organisation relevant sind. Der Katalog der Sicherheitsanforderungen ist dem Anhang A der DIN ISO/IEC 27001 zu entnehmen.
+
+Die sich aus den Anforderungen ergebenden Maßnahmen werden ergänzt um weitere Maßnahmen aus
+
+- eigenen Sicherheitsstandards,
+- der Risikobewertung,
+- der Vorfallanalyse oder
+- internen wie externen Audits.
+
+Die Umsetzung der Maßnahmen ist zu überwachen und ihr Umsetzungsgrad zu ermitteln.
+
+[NOTE]
+
+xmera Omnia bietet den Anforderungskatalog als Importpaket gemäß DIN ISO/IEC 27001 Anhang A an, der um individuelle Anforderungen erweitert werden kann.
+
+Interne Audits:: 
+
+Im Kapitel 9.2 und im Anhang A.12.7 wird die Planung von internen Audits gefordert, in den die Überprüft wird, ob die ISMS Prozesse die Anforderungen an die IT-Sicherheit erfüllen und wirksam sind.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:isms-planung-bewertung/anwendbarkeitserklaerung.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/massnahmenmanagement.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/auswertefunktionen.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/audit.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Anwendbarkeitserklärung
+
+video::massnahmen_soa.mp4[width=950]
+
+=== Maßnahmen-Synchronisierung
+
+video::massnahmen_synchronisierung.mp4[width=950]
+
+=== Graphische Auswertung
+
+video::massnahmen_diagramme.mp4[width=950]

@@ -1,0 +1,3 @@
+= Verwaltung von Assets
+
+Assets werden in xmera Omnia als Objekte erfasst. Diese Objekte können hierarchisch strukturiert werden. So können über den Hierarchiebaum die Aufbauorganisation und damit Verantwortlichkeiten der Organisation abgebildet werden. Alternativ könnten Assets mit gleichem Schutzbedarf analog zu räumlichen Sicherheitszonen im Hierarchiebaum zusammengefasst werden.

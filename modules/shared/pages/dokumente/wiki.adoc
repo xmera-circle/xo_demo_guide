@@ -1,0 +1,10 @@
+= Wiki
+
+In jedem Objekt in xmera Omnia kann das Modul Wiki aktiviert werden. Dieses bietet alle Funktionalitäten eines Wiki. Es ermöglicht Informationen und Wissen kollaborativ zu bearbeiten und zu benutzen. Es eignet sich im Umfeld des ISMS um Handbücher bereitzustellen oder auch Prozess- / Handlungsbeschreibungen zu dem Objekt zu dokumentieren.
+
+Interne Links / Makros:: 
+Durch die Möglichkeit auf eine Vielzahl von xmera Omnia Elementen wie z.B.Dokumenten, andere Wikis oder auch Aufgaben lässt sich hier eine gute und über die Links intuitiv bedienbare Dokumentation erstellen.
+
+Historie:: 
+Die Historie zeigt alle Änderungen inkl. dem Bearbeiter und Zeitpunkt, die im Wiki durchgeführt wurden. In Kombination mit dem Berechtigungssystem, in dem die Rechte zur Bearbeitung definiert werden können, ist die Dokumentation revisionierbar.
+

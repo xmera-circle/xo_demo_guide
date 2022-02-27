@@ -1,0 +1,9 @@
+= Erklärung zur Anwendbarkeit (SOA)
+
+Der Anforderungskatalog kann an zentraler Stelle importiert und verwaltet werden. Von hier aus können Maßnahmen auf die Assets verteilt werden. Dabei unterstützt die Synchronisation, die die Maßnahmen auf die relevanten Assets verteilt.
+
+Durch die Verknüpfung der zentralen Maßnahmenliste mit den operativ durchzuführenden Maßnahmen, kann der Reifegrad zentral überwacht werden.
+
+Die Begründung der nicht Relevanz von Sicherheitsanforderungen kann direkt in der Sicherheitsanforderung abgebildet werden. 
+
+Die Anwendbarkeitserklärung kann zur weiteren Verarbeitung oder Vorlage beim Auditor exportiert werden.
