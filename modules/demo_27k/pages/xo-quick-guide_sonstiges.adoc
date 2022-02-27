@@ -1,0 +1,60 @@
+= Projektmanagement
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was kann noch ein ISMS unterstützen?
+
+Projektmanagement:: 
+
+Ein wesentliches Ziel des ISMS ist der ordnungsgemäße und sichere Betrieb der IT-Systeme. Dazu gehört, dass geplante Änderungen überwacht werden. 
+
+Je nach Komplexität solcher Änderungen, wie z.B. bei größeren Upgrades, Erneuerungen oder der Einführung neuer IT-Prozesse, ist ein Projektmanagement sinnvoll oder notwendig.  
+
+Import- Exportfunktionen:: 
+
+Viele Prozesse einer Organisation haben Schnittmengen mit dem ISMS, werden aber nicht im ISMS abgebildet. Sei es ein die Dokumentation für einen externen Auditor, Daten für eine Analyse oder einen Bericht aber auch externes Asset-Register. Hier ist es sinnvoll Schnittstellen, wie z.B. ein Datenimport- und -exportprozess auf Basis von csv-Tabellen ein PDF-Ausdruck oder eine API-Schnittstelle für einen online-Datenaustausch.
+
+Rollen und Berechtigungen:: 
+
+In einem ISMS Tool sind viele sensible Daten abgebildet. Gleichzeitig sind viele Benutzer an der Pflege beteiligt. Die ISMS Software sollte ein Berechtigungssystem bereitstellen, dass hier mit größtmöglicher Flexibilität die Zugriffe auf das System steuern kann.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:sonstiges/projekt-management.adoc[leveloffset=2]
+
+include::shared:sonstiges/import-export.adoc[leveloffset=2]
+
+include::shared:sonstiges/rollen-berechtigungen.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Projektverlauf
+
+video::projekt_verlauf.mp4[width=950]
+
+=== Journal
+
+video::projekt_journal.mp4[width=950]
+
+=== Meldungen
+
+video::projekt_meldungen.mp4[width=950]
+
+[NOTE]
+====
+Die Module des Projektmanagments sind auch in allen anderen Objekten verfügbar und können bei Bedarf aktiviert werden. 
+Dazu gehören zum Beispiel:
+
+* Aufgaben
+* Kalender
+* Zeiterfassung
+* Wiki
+* Verlauf
+* Mitteilung
+* Dokumente und Dateien
+* Foren
+* Archiv (Coderepository)
+====

@@ -18,6 +18,8 @@ NOTE: Im Benutzerprofil hat jeder Mitarbeiter die Möglichkeit eine Option für 
 In jeder Aufgabe kann der
 - Status und
 - der Umsetzungsgrad
-dargestellt werden. +
 
++
+dargestellt werden. +
+ +
 Diese Werte werden auch an die untergeordneten Aufgaben übertragen. Ein Status einer (Eltern-)Aufgabe kann wiederum vom Status der unterlagerten Aufgaben abhängig gemacht werden.

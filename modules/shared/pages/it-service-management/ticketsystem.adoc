@@ -1,0 +1,8 @@
+= Ticketsystem
+
+Da xmera Omnia auf einem klassischen Projektmanagement basiert, ist das Ticketsystem integraler Bestandteil. So basieren die Maßnahmen, Gefährdungen oder auch Aufgaben auf diesem Ticketsystem. 
+
+In der Administration können weitere Tickettypen angelegt und über eigene Felder erweitert werden. Auf diese Weise können auch weitere Prozessem, wie z.B. das Datenschutzmanagement in xmera Omnia integriert werden.
+
+[NOTE]
+Falls sie die Umsetzung des Datenschutzmanagement in xmera Omnia interessiert, sprechen Sie uns an.

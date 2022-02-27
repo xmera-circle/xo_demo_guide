@@ -1,0 +1,5 @@
+= Geschäftsprozess
+
+Die Geschäftsprozesse werden in xmera Omnia als Objekte dargestellt. Als Projekttyp ist der Projekttyp _Prozess_ vordefiniert. Über den hierarchischen Aufbau der Objekte kann die Organisation der Organisation abgebildet werden. 
+
+Den Prozessen können dann die für den Betrieb des Prozesses notwendigen Informationen zugeordnet werden.
