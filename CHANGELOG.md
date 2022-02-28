@@ -33,3 +33,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 * initial version of xmera Omnia Demo Guide
+
+## 0.1.1 2022-02-27
+
+### Changed
+
+* structure of the documents to use shared content with other isms standards
+
+### Added
+
+* some content to module shared
+
+## 0.1.2 2022-02-28
+
+### Changed
+
+* file prefix from xo-quick-guide to xo-demo-guide
