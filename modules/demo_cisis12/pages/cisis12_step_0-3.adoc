@@ -1,0 +1,36 @@
+= Schritt 0-3 » CISIS12 Start
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in den Schritten 0-3 umzusetzen?
+
+Der *Schritt 0* beschreibt im CISIS 12 die Vorbereitungen für das Implementierungsprojekt. Hierzu sind für die Einführung eines ISMS sind 
+- der Projektauftrag,
+- die Rollen
+- die Ziele
+- die Projektplanung und 
+- die Kommunikationsstruktur 
+festzulegen. Dabei ist für ein ISMS nach CISIS12 die Anwendbarkeitserklärung (SoA) von zentraler Bedeutung, die die Grenzendes Informationssicherheitsmanagements definiert. 
+
+Im CISIS12 helfen bei der Definition der SoA die Bausteingruppen, mit deren Hilfe die Relevanz der Bausteine für die Organisation als Rahmen für die Anwendbarkeitserklärung genutzt werden kann.
+
+Der *1. Schritt* des CISIS ist die Erstellung einer Leitlinie in die grundlegenden Festlegungen wie z.B. die Verantwortlichkeiten oder der Geltungsbereich für das ISMS definiert sind. 
+
+Im *Schritt 2* geht es um die Sensibilisierung der Beschäftigten. Es sind Maßnahmen zu planen, die das Bewusstsein (awareness) der Mitarbeiter*innen für das Thema Informationssicherheit erhöhen.
+
+Im *Schritt 3* ist das ISMS Team zu benennen, das den Aufbau, die Aufrechterhaltung und die Verbesserung des ISMS Prozesses verantworten.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:cisis12/cisis12_projekt.adoc[leveloffset=2]
+
+include::shared:cisis12/cisis12_bausteine.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/anwendbarkeitserklaerung.adoc[leveloffset=2]
+
+include::shared:dokumente/dms.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?

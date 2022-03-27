@@ -1,4 +1,4 @@
-= Dokumentenmanagementsystem (DSM)
+= Dokumentenmanagementsystem (DMS)
 
 xmera Omnia bietet mit dem Modul DMS ein Dokumentenmanagementsystem, mit dem
 

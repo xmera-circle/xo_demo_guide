@@ -1,0 +1,20 @@
+= Schritt 9 » Soll-Ist-Vergleich
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 9 umzusetzen?
+
+Alle Maßnahmen, die im Rahmen des ISMS aus den Sicherheitsanforderungen, der Risikonalyse, den Audits und dem Vorfallmanagement umzusetzen sind, sind auf ihre tatsächliche Umsetzung zu überwachen.
+
+Die daraus entstehenden Kennzahlen können für die Reifegrad-Messung genutzt werden.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:isms-planung-bewertung/dashboard.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/auswertefunktionen.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?

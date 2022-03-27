@@ -1,0 +1,25 @@
+= Schritt 10 » Umsetzung planen und umsetzen
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 10 umzusetzen?
+
+Die Vielzahl der Maßnahmen sind in ihrer Umsetzung zu planen. Zu der Planung gehört die
+
+- Konsolidierung (Prüfung der Eignung, Plausibilität, Abhängigkeiten und der Doppelbetrachtung)
+- Priorisierung
+- Budgetierung
+- Terminierung
+
+Die Umsetzung der Aufgaben ist durch die verantwortlichen Beschäftigten zu begleiten und zu überwachen.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:isms-planung-bewertung/massnahmenmanagement.adoc[leveloffset=2]
+
+include::shared:it-service-management/aufgabenmanagement.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?

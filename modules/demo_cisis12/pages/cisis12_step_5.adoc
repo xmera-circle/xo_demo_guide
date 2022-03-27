@@ -1,0 +1,32 @@
+= Schritt 5 » IT-Servicemanagementprozesse
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 5 umzusetzen?
+
+Die IT-Servicemanagementprozesse beschreiben die Gesamtheit der Maßnahmen, die für den sicheren Betrieb der IT benötigt werden. Das beinhaltet
+
+- die Wartungprozesse,
+- die Störungsprozesse und
+- die Änderungsprozesse.
+
+Das Management ist an die Größe der Organisation anzupassen. In diesem Zusammenhang ist auch das Lieferantenmanagement, insbesondere im Zusammenhang mit dem outsourcing von ID-Diensten, zu betrachten.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia unterstützt das IT-Servicemanagement in vielfältiger Weise. 
+
+Die Wartungs- und Störungsprozesse werden durch das Aufgaben/Ticket-Management, mit dessen Hilfe auch die Maßnahmen, Gefährdungen, Aufgaben verwaltet werden, nutzen und leicht an die Organisation anpassen.
+
+Die Objekte können zur Steuerung komplexere Change-/Änderungsprozesse genutzt werden.
+
+include::shared:it-service-management/vorfallmanagement.adoc[leveloffset=2]
+
+include::shared:it-service-management/ticketsystem.adoc[leveloffset=2]
+
+include::shared:sonstiges/projekt-management.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
