@@ -1,0 +1,30 @@
+= Schritt 7 » IT-Struktur analysieren
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 7 umzusetzen?
+
+Im Schritt 7 ist die IT-Struktur zu analysieren. Diese Struktur soll die Verantwortlichkeiten (asset-owner) abbilden, die Basis für das Betriebshandbuch sein und einen fachkundiger Dritten eine Aufrechterhaltung des IT-Betrieb ermöglichen.
+
+Weiter muss der Schutzbedarf durch Vererbung aus den in Schritt 6 ermittelten Schutzbedarfen der Prozesse / Informationen auf die IT-Assets zu vererben.
+
+Als dritte Aufgabe sind die Maßnahmen gemäß CISIS12 Katalog den Assets zuzuordnen.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:assetregister/assetverwaltung.adoc[leveloffset=2]
+
+include::shared:assetregister/verantwortlichkeiten.adoc[leveloffset=2]
+
+include::shared:assetregister/logische_strukturen.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfvererbung.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfanpassung.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?

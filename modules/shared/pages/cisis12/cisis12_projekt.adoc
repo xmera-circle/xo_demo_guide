@@ -1,0 +1,12 @@
+= CISIS 12 Projekt
+
+Das Einführungsprozess ist mit den Projektmanagement-Funktionen im Ordner Management » ISMS » Implementierung ISMS abgebildet. Jeder Schritt ist abgebildet, beschrieben und terminiert. Es können weitere Unteraufgaben den Einzelnen Schritten zugeordnet werden.  Die Funktionen
+
+- Aufgabenmanagements
+- Dokumentenmanagement
+- Verlauf
+- Paket / Stapel
+
+unterstützen bei der Durchführung und Überwachung des Projekts.
+
+

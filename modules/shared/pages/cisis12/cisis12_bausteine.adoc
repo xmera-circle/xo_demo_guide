@@ -1,0 +1,9 @@
+= CISIS12 Bausteine
+
+Mit dem Import der CISIS12 Prozesse in xmera Omnia wird auch die Gliederung der Prozesse nach den Bausteinen mit Importiert. Die Bausteine werden in xmera Omnia ein Gliederungselement, dass an verschieden Stellen genutzt wird:
+
+- Zuordnung der Maßnahmen zu den Bausteinen
+- Gliederung der Anwendbarkeitserklärung nach den CISIS12 Bausteinen
+- Zuordnung der Bausteine zu den Objektklassen zur automatisierten Maßnahmen-Zuordnung
+
+Durch die Zuordnung der Maßnahme zu dem Baustein ist auch immer die Schutzziele, die mit der Maßnahme erreicht werden sollen, eindeutig zuzuordnen.

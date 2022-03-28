@@ -9,3 +9,5 @@ Objektverknüpfungen bilden die Basis für die Vererbung des Schutzbedarfs, der 
 ====
 Informationen -> werden in einer _Anwendung_ gepflegt -> die auf einem _Server_ läuft -> der in einem _Serverraum_ -> in einem _Werksgebäude_ steht.
 ====
+
+Über die logischen Strukturen lassen sich so Abhängigkeitsketten von der Informationen zu all den für die Informationsverarbeitung notwendigen Objekten abbilden.

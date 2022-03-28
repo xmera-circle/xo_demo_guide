@@ -1,17 +1,25 @@
-= Auswertungen
+= Auswertefunktionen 
 
-Für das Auswerten bietet xmera Omnia verschiedene Werkzeuge, die dem Anwender einen Überblick über den aktuellen Status geben.
+Für das Auswerten von allen Aufgaben, wie z.B.
 
-Dashboard:: 
+- Maßnahmen
+- Vorfälle und Störungen
+- Gefährdungen
 
-Kommt in Kürze!
+bietet xmera Omnia durch die Abfragen und Berichte vielfältige Auswertemöglichkeiten.
 
 Tabellenabfragen:: 
 
-Ein Anwender kann sich, überall wo Tabellen genutzt werden, wie z.B. bei Aufgaben, Maßnahmen, Gefährdungen oder auch Objekten, spezifische Abfragen gestalten, in denen er über die Filter spezifische Objekte auswählt und in den Tabellen die benötigten Attribute einblendet, danach sortiert oder gruppiert. +
-+
-Diese Abfragen können für die weitere Verarbeitung exportiert werden.
+Ein Anwender kann sich, überall wo Tabellen genutzt werden, wie z.B. bei Aufgaben, Maßnahmen, Gefährdungen oder auch Objekten, spezifische Abfragen gestalten, in denen er über die Filter spezifische Objekte auswählt und in den Tabellen die benötigten Attribute einblendet, danach sortiert oder gruppiert. 
+
+Diese Abfragen können für die weitere Verarbeitung als PDF oder csv-Datei exportiert werden.
 
 Berichte / Zusammenfassung:: 
 
-In den Aufgabenlisten der Objekte kann über die Funktion _Zusammenfassung_ Berichte Aufrufen, die als Tabellen und in Grafiken den aktuellen Bearbeitungsstand darstellen.
+In den Aufgabenlisten der Objekte kann über die Funktion _Zusammenfassung_ Berichte Aufrufen, die in Grafiken und Tabellen den aktuellen Reifegrad darstellen. Es werden die verschiedenen Aufgabentypen 
+- nach ihrem Status
+- dem Status
+- dem Beginn Datum 
+- dem Verantwortlichen
+
+analysiert und als Tabelle oder Grafik dargestellt.

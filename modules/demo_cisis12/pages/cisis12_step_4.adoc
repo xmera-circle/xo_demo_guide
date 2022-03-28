@@ -1,0 +1,46 @@
+= Schritt 4 » IT-Doku-Struktur festlegen
+:doctype: article
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 4 umzusetzen?
+
+Die Dokumentation der Organisation, Prozesse, Regelungen und Systeme der Informationsverarbeitung seht im Mittelpunkt des Schritt 4 im CISIS12.
+
+Ziel dieser Dokumentation ist, dass ein fachkundiger Dritter in der Lage versetzt wird, den IT-Betrieb fortzuführen.
+
+Zentraler Bestandteil der Dokumentation sind
+
+- Prozesse und Richtlinien zur Sicherstellung der IT-Sicherheit und des ISMS
+- die Dokumentation aller Maßnahmen aus Risikoanalyse, Audits, Vorfallanalysen und Revisionen
+- das Betriebshandbuch mit Prozesssteckbriefen, Netzplänen, IT-Servicehandbuch und Systemakten
+- das Notfallhandbuch
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia beinhaltet die Dokumentation und unterstützt den Nutzer durch Funktionen und die Struktur. 
+
+Die Objekte mit den Objektklassen und der Objekthierarchie geben die Struktur vor. Das die wichtigsten Objektgruppen sind 
+
+- das ISMS-Projekt mit allen notwendigen Aufgaben, der Organisation und den notwendigen Dokumenten und Berichten,
+- die Prozesse und Informationen, die mit den Verantwortlichen, Prozessbeschreibungen benötigten Informationen mit dem Schutzbedarf die Organisation beschreiben,
+- die IT-Asset Objekte, die mit der hinterlegten Dokumentation die Systemsteckbriefe darstellen und alles für den Systembetrieb abbilden können.
+
+Über das übergreifende Aufgabenmanagement werden alle notwendigen IT-Maßnahmen gesteuert und überwacht.
+
+In jedem Objekt stehen wiederum verschiedene Dokumentationsmodule zur Verfügung, die den Nutzer bei der Dokumentation unterstützen. Das sind
+
+- das Dokumentenmanagementmodul (DMS) (beschrieben in Kapitel "CISIS12 Start"),
+- die Module Dokumente und Dateien,
+- das Wiki
+
+Diese werden im Folgenden beschreiben:
+
+include::shared:dokumente/dateien_u_dokumente.adoc[leveloffset=2]
+
+include::shared:dokumente/wiki.adoc[leveloffset=2]
+
+
+== Wo finde ich Beispiele in der Demo?
