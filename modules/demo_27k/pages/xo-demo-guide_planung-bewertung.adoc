@@ -40,7 +40,7 @@ include::shared:isms-planung-bewertung/massnahmenmanagement.adoc[leveloffset=2]
 
 include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
 
-include::shared:isms-planung-bewertung/auswertefunktionen.adoc[leveloffset=2]
+include::shared:isms-planung-bewertung/auswertungsfunktionen.adoc[leveloffset=2]
 
 include::shared:isms-planung-bewertung/audit.adoc[leveloffset=2]
 

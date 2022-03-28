@@ -15,6 +15,6 @@ Die daraus entstehenden Kennzahlen können für die Reifegrad-Messung genutzt we
 
 include::shared:isms-planung-bewertung/dashboard.adoc[leveloffset=2]
 
-include::shared:isms-planung-bewertung/auswertefunktionen.adoc[leveloffset=2]
+include::shared:isms-planung-bewertung/auswertungsfunktionen.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
