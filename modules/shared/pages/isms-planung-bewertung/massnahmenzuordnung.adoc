@@ -1,7 +1,7 @@
 = Maßnahmenzuordnung
 
-Die Zuordnung von umzusetzenden Maßnahmen zu den betroffenen Objekten erfolgt über eine Synchronisationsfunktion. Dabei werden den Maßnahmen die jeweils relevanten Objektklassen / Bausteinen zugeordnet. 
+Die Zuordnung von umzusetzenden Maßnahmen zu den betroffenen Objekten erfolgt über eine Synchronisationsfunktion. Dazu werden vorbereitend den Maßnahmen die jeweils relevanten Objektklassen zugeordnet. 
 
-In einem weiteren Schritt können Synchronisationsobjekte definiert werden. Um nicht für jedes Objekt eine eigene (zu bearbeitende) Maßnahmenliste zu erzeugen, kann ein zentrales Objekt in der Hierarchiekette gewählt werden, dass alle unterlagerten Objekte zusammenfasst.
+In einem weiteren Schritt können Synchronisationsobjekte definiert werden. Um nicht für jedes Objekt eine eigene (zu bearbeitende) Maßnahmenliste zu erzeugen, kann ein Strukturobjekt im Hierarchiebaum gewählt werden, das alle unterlagerten Objekte zusammenfasst.
 
-Bei der Synchronisation in einem Synchronisationsobjekt, wird analysiert, welche Objektklasse / Bausteine dem Objekt zugeordnet sind (Eigene Objektklasse / Baustein und hierarchisch unterlagerte Objektklassen / Bausteine). Anhand dieser Auswertung werden die Maßnahmen der zentralen Liste mit den Maßnahmen des Synchronisationsobjekts synchronisiert.
+Bei der Synchronisation wird analysiert, welche Objektklasse(n) dem vorliegenden Objekt zugeordnet sind (eigene Objektklasse und ggf. hierarchisch unterlagerte Objektklassen). Anhand dieser Auswertung werden die Maßnahmen des zentralen Katalogs entweder auf Ebene des Synchronisationsobjekts oder auf Einzelobjektebene synchronisiert.

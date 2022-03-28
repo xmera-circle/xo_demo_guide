@@ -1,5 +1,7 @@
 = Schutzbedarfvererbung
 
-Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desktop-PC's, Server oder auch Serverräume und Gebäude, ist abhängig von den in ihnen verarbeiteten Informationen. Über die Struktur der logischen Verknüpfungen im Assetregister lassen sich die Schutzbedarfe der primären Assets (Prozesse und Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen dieser Assets jederzeit einen Überblick über den Schutzbedarf der in ihnen verarbeiteten Informationen.
-Der Schutzbedarf des Assets wird mit dem Maximalprinzip ermittelt und kann im Rahmen der Schutzbedarfsfeststellung der Assets übernommen werden. 
+Der Schutzbedarf der sekundären Assets, wie z.B. Anwendungen, Desktop-PC's, Server oder auch Serverräume und Gebäude, ist abhängig von den in ihnen verarbeiteten Informationen. 
 
+Über die Struktur der logischen Verknüpfungen im Assetregister lassen sich die Schutzbedarfe der primären Assets (Prozesse und Informationen) auf die sekundären Assets übertragen. Somit haben die Verantwortlichen dieser Assets jederzeit einen Überblick über den Schutzbedarf, der in ihnen verarbeiteten Informationen.
+
+Der Schutzbedarf des Assets wird mit dem Maximalprinzip ermittelt und kann im Rahmen der Schutzbedarfsfeststellung der Assets übernommen werden. 
