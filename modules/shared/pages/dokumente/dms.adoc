@@ -1,6 +1,6 @@
 = Dokumentenmanagementsystem (DMS)
 
-xmera Omnia bietet mit dem Modul DMS ein Dokumentenmanagementsystem, mit dem
+xmera Omnia bietet mit dem Modul _DMS_ ein Dokumentenmanagementsystem, mit dem
 
 - die Zugänglichkeit und Änderbarkeit von Dokumenten gesteuert,
 - Dokumente strukturiert und klassifiziert, 
@@ -13,7 +13,7 @@ Zugriffssteuerung::
 
 Dokumente, die für alle Mitarbeiter relevant sind, können in einem eigens dafür vorgesehenen Objekt zentral verwaltet und zugänglich gemacht werden. +
  +
-Der Zugriff auf Dokumente, die dagegen nur für bestimmte Interessensgruppen relevant sind, kann durch eine entsprechende Rechtevergabe gesteuert werden. Das ist sowohl zentral als auch dezentral in Objekten, die als Arbeitsbereiche, Assets oder Projekte genutzt werden. +
+Der Zugriff auf Dokumente, die dagegen nur für bestimmte Interessensgruppen relevant sind, kann durch eine entsprechende Rechtevergabe gesteuert werden. Das ist sowohl zentral als auch dezentral in Objekten, die als Arbeitsbereiche, Assets oder Projekte genutzt werden, möglich. +
  +
 Durch zuordnen der Dokumente zu Ordnern sowie durch (administrativ erstellbare) Attribute lassen sich die Dokumente leicht strukturieren. Mit Hilfe von Verknüpfungen einzelner Dokumente zu anderen Elementen in xmera Omnia können Dokumente übergreifend den berechtigten Nutzern zugänglich gemacht werden.
 

@@ -1,6 +1,6 @@
 = Risikobewertung
 
-Die Risikobewertung erfolgt, in dem in der dem Asset bzw. der Assetgruppe zugeordneten Gefährdungen. Durch Festlegung der Eintrittswahrscheinlichkeit und der Schadensklasse wird über die Risikoakzeptanzmatrix ein resultierendes Risiko ermittelt. 
+Die Risikobewertung erfolgt auf Basis von zugeordneten Gefährdungen. Durch Festlegung der Eintrittswahrscheinlichkeit und der Schadensklasse wird über die Risikoakzeptanzmatrix ein resultierendes Risiko ermittelt. 
 
 Risikoakzeptanzmatrix:: 
 

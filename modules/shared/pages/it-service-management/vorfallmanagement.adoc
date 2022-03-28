@@ -4,7 +4,7 @@ xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dazu gehö
 
 Automatisieren:: 
 
-In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, wie auch Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Die Erstellung einer Meldung kann im System selbst erfolgen oder per E-Mail an das System gesendet werden. Der E-Mail-Empfang ist in der Testinstanz nicht verfügbar. +
+In der xmera Omnia Demo ist die Meldungserfassung abgebildet. Meldungen können, genau wie Aufgaben, automatisch einem Bearbeiter oder einer Bearbeitergruppe zugewiesen werden. Die Erstellung einer Meldung kann im System selbst erfolgen oder per E-Mail an das System gesendet werden. Der E-Mail-Empfang ist in der Testinstanz nicht verfügbar. +
 
 [TIP]
 Besteht bereits eine Lösung für das Vorfallmangement (z.B. Ticketsystem) kann über die E-Mail- oder API-Schnittstelle von xmera Omnia eine Kopplung der Systeme erreicht werden.

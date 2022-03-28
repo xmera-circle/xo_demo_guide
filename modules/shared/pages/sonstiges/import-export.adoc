@@ -1,6 +1,6 @@
 = Import / Export
 
-xmera Omnia bietet verschiedene Schnittstellen an, die den Austausch mit externen Systemen oder Personen ermöglicht.
+xmera Omnia bietet verschiedene Schnittstellen an, die den Austausch mit externen Systemen oder Personen ermöglichen.
 
 PDF-Export:: 
 
@@ -9,16 +9,16 @@ Der PDF-Export bietet die Möglichkeit Aufgaben-Listen, den Verlauf oder Wiki-Se
 [NOTE]
 Wiki-Seiten können auch als html-Datei oder txt-Datei heruntergeladen werden.
 
-csv-Schnittstelle:: 
+CSV-Schnittstelle:: 
 
-Die csv-Schnittstelle ermöglicht einen manuellen Austausch von Listen. *Exportiert* werden können die Abfrage-Listen der Objekte und Aufgaben. Dabei ist eine individuelle Anpassung der Übertragenen Attribute möglich. +
+Die CSV-Schnittstelle ermöglicht einen manuellen Austausch von Listen. *Exportiert* werden können die Abfrage-Listen der Objekte und Aufgaben. Dabei ist eine individuelle Anpassung der zu übertragenden Attribute möglich. +
 +
-Die *csv-Importschnittstelle* ermöglicht es Aufgaben zu importieren. Das können Maßnahmenkataloge aus eigenen Vorgaben oder anderen Standards sein oder auch Aufgaben aus einem anderen Ticket-System sein, die in das System integriert werden sollen. 
+Die *CSV-Importschnittstelle* ermöglicht es Aufgaben zu importieren. Das können Maßnahmenkataloge aus eigenen Vorgaben oder anderen Standards oder auch Aufgaben aus einem anderen Ticket-Systemen sein, die in das System integriert werden sollen. 
 
 API / E-Mail Schnittstelle:: 
 
-Dynamischer sind dabei die Online-Schnittstellen über die E-Mail-Kopplung oder die API-Schnittstelle über die dynamisch externe Systeme integriert werden können. +
+Dynamischer sind dabei die Online-Schnittstellen wie die E-Mail-Kopplung oder die API, über die dynamisch externe Systeme integriert werden können. +
 +
-Die *E-Mail-Schnittstelle* ermöglicht es, eingehende E-Mails in eine Aufgabe (Ticket) zu wandeln. Bei der Einhaltung der Format-Regeln, können sie Mails konkreten Objekten und definierten Aufgabentypen zugeordnet werden. +
+Die *E-Mail-Schnittstelle* ermöglicht es, eingehende E-Mails in eine Aufgabe (Ticket) zu wandeln. Bei der Einhaltung der Format-Regeln, können die E-Mails konkreten Objekten und definierten Aufgabentypen zugeordnet werden. +
 +
-Die API-Schnittstelle in xmera Omnia ermöglicht eine Datenaustausch bei Objekten, Aufgaben und Usern. Dabei wird das Anlegen, Ändern, Löschen oder auch Archivieren unterstützt. Die API-Schnittstelle unterstützt dabei sowohl das xml- als auch json-Format.
+Die API-Schnittstelle in xmera Omnia ermöglicht einen Datenaustausch bei Objekten, Aufgaben und Benutzern. Dabei wird das Anlegen, Ändern, Löschen oder auch Archivieren unterstützt. Die API-Schnittstelle unterstützt dabei sowohl das xml- als auch json-Format.

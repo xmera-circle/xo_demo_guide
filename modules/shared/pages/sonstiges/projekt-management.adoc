@@ -1,6 +1,6 @@
 = Projektmanagement
 
-xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der ufgabenplanung über die Abbildung von Abhängigkeiten bis hin zu Collaboration-Funktionalitäten, die Zusammenarbeit im Projekt unterstützen.
+xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der Aufgabenplanung über Abbildung von Abhängigkeiten bis hin zu Kollaboration-Funktionen, die Zusammenarbeit im Projekt unterstützen.
 
 Aufgabenplanung:: 
 
@@ -28,9 +28,9 @@ Die Beziehungen zwischen +
 +
 lassen sich mit dem Status und dem Umsetzungsgrad im integrierten Verlauf (Gantt-Diagramm) abbilden.
 
-Zusammenarbeit / Collaboration:: 
+Zusammenarbeit / Kollaboration:: 
 
-Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang zahlreiche Funktionen, die diesen Informations- / Wissenstransfer unterstützen.
+Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang zahlreiche Funktionen, die diesen Informations-/Wissenstransfer unterstützen.
 
 - Das Journal zeigt an, wo sich in letzter Zeit etwas im Projekt verändert hat.
 - Über Meldungen lassen sich Informationen im Projektteam verteilen.
