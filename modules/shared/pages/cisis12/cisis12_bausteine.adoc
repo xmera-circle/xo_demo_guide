@@ -1,9 +1,13 @@
 = CISIS12 Bausteine
 
-Mit dem Import der CISIS12 Prozesse in xmera Omnia wird auch die Gliederung der Prozesse nach den Bausteinen mit Importiert. Die Bausteine werden in xmera Omnia ein Gliederungselement, dass an verschieden Stellen genutzt wird:
+Die Bausteine aus CISIS12 sind in xmera Omnia integriert. Die *Bausteine aus der CISIS12-Norm* sind mit dem Sicherheitsziel als übergeordnete Sicherheitsanforderung im System abgebildet. +
+Die einzelnen *Maßnahmen* zur Erreichung der Sicherheitsziel *aus dem CISIS12-Katalog* sind dem Baustein als untergeordnete Sicherheitsanforderungen zugeordnet. Es sind die Anforderungen, Umsetzungshinweise und der Verweis aus die Verantwortlichkeiten integriert. Auch die Relevanz der Maßnahme (MUSS, SOLL, KANN) ist als filter / sortierbares Element enthalten.
 
-- Zuordnung der Maßnahmen zu den Bausteinen
-- Gliederung der Anwendbarkeitserklärung nach den CISIS12 Bausteinen
-- Zuordnung der Bausteine zu den Objektklassen zur automatisierten Maßnahmen-Zuordnung
+Mit diesen Informationen hat jeder Maßnahmenverantwortliche alle relevanten Informationen aus dem CISIS12 direkt im Zugriff und kann so die Maßnahmen zielgerichtet umsetzen. Weiter wird
 
-Durch die Zuordnung der Maßnahme zu dem Baustein ist auch immer die Schutzziele, die mit der Maßnahme erreicht werden sollen, eindeutig zuzuordnen.
+- durch die Gliederung nach Bausteinen (z.B. in der Anwendbarkeitserklärung) und
+- die Filterung / Sortierung nach der Relevanz
+
+die Übersichtlichkeit erheblich verbessert werden.
+
+Die Bausteine / Maßnahmen werden weiter zur automatisierten Zuordnung der Sicherheitsanforderungen an die relevanten Assets genutzt.
