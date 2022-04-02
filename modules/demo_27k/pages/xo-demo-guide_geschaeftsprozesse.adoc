@@ -4,9 +4,11 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
-== Wofür sind die Geschäftsprozess und Informationen zu analysieren?
+== Warum sind Geschäftsprozesse und Informationen zu analysieren?
 
-Zweck der DIN ISO/IEC 27001 ist es die Informationswerte einer Organisation zu schützen. Dabei geht es um alles was mit Informationen umgeht. Die Analyse der Geschäftsprozesse und der für die Abwicklung der Prozesse notwendigen Informationen ist damit die Basis für die Feststellung des Schutzbedarfs aller an der Informationsverarbeitung beteiligten Asset.
+Ziel der DIN ISO/IEC 27001 ist es, die Informationswerte einer Organisation zu schützen. Dafür müssen zunächst einmal die zu schützenden Informationswerte identifiziert werden. 
+
+Das gelingt am besten mit Hilfe einer Analyse der wichtigsten Geschäftsprozesse, da sie die zu schützenden Informationswerte verarbeiten. Der Schutzbedarf dieser Informationen (primäre Assets) bildet die Basis für den Schutzbedarf der an der Informationsverarbeitung beteiligten Assets (sekundäre Assets).
 
 == Wie unterstützt xmera Omnia?
 
@@ -17,6 +19,3 @@ include::shared:geschaeftsprozesse-informationen/informationen.adoc[leveloffset=
 == Wo finde ich Beispiele in der Demo?
 
 ...
-
-
-

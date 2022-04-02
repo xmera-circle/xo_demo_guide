@@ -4,4 +4,4 @@ Die Zuordnung von umzusetzenden Maßnahmen zu den betroffenen Objekten erfolgt �
 
 In einem weiteren Schritt können Synchronisationsobjekte definiert werden. Um nicht für jedes Objekt eine eigene (zu bearbeitende) Maßnahmenliste zu erzeugen, kann ein Strukturobjekt im Hierarchiebaum gewählt werden, das alle unterlagerten Objekte zusammenfasst.
 
-Bei der Synchronisation wird analysiert, welche Objektklasse(n) dem vorliegenden Objekt zugeordnet sind (eigene Objektklasse und ggf. hierarchisch unterlagerte Objektklassen). Anhand dieser Auswertung werden die Maßnahmen des zentralen Katalogs entweder auf Ebene des Synchronisationsobjekts oder auf Einzelobjektebene synchronisiert.
+Bei der Synchronisation wird analysiert, welche Objektklasse(n) dem vorliegenden Objekt zugeordnet sind (eigene Objektklasse und ggf. hierarchisch unterlagerte Objektklassen). Anhand dieser Auswertung werden die Maßnahmen des zentralen Katalogs entweder auf Ebene des Strukturobjekts oder auf Einzelobjektebene synchronisiert.

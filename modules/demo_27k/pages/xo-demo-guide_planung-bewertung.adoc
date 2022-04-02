@@ -7,11 +7,11 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird das ISMS-Management benötigt?
 
-Ohne ein funktionierendes ISMS-Planung keine Zertifizierung. Im Kapitel 6 der ISO/IEC 27001 wird vorgegeben, dass alle Maßnahmen zur Erreichung der Sicherheitsziele zu planen und deren Umsetzung zu überwachen sind. 
+Ohne eine funktionierende ISMS-Planung keine Zertifizierung. Im Kapitel 6 der ISO/IEC 27001 wird vorgegeben, dass alle Maßnahmen zur Erreichung der Sicherheitsziele zu planen und deren Umsetzung zu überwachen sind. 
 
 Die Organisation und die getroffenen Maßnahmen sind nach Kapiltel 9 zu bewerten und deren Umsetzung zu überwachen.
 
-Anwendbarekteitserklärung:: 
+Anwendbarkeitserklärung::
 
 Ein wesentlicher Bestandteil eines ISMS ist die Erklärung zur Anwendbarkeit (Statement of Applicability | SOA), in der die Sicherheitsanforderungen zusammengefasst werden, die zur Erreichung der Sicherheitsziele der Organisation relevant sind. Der Katalog der Sicherheitsanforderungen ist dem Anhang A der DIN ISO/IEC 27001 zu entnehmen.
 
@@ -30,7 +30,7 @@ xmera Omnia bietet den Anforderungskatalog als Importpaket gemäß DIN ISO/IEC 2
 
 Interne Audits:: 
 
-Im Kapitel 9.2 und im Anhang A.12.7 wird die Planung von internen Audits gefordert, in den die Überprüft wird, ob die ISMS Prozesse die Anforderungen an die IT-Sicherheit erfüllen und wirksam sind.
+Im Kapitel 9.2 und im Anhang A.12.7 wird die Planung von internen Audits gefordert, in denen überprüft wird, ob die ISMS Prozesse die Anforderungen an die IT-Sicherheit erfüllen und wirksam sind.
 
 == Wie unterstützt xmera Omnia?
 

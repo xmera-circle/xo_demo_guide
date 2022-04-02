@@ -10,10 +10,8 @@ Um die Übersichtlichkeit zu erhöhen, lassen sich _Aufgabenpakete_ bilden. Sie 
 
 Verknüpfung zwischen Maßnahmen und Aufgaben:: 
 
-Maßnahmen können auf verschiedenste Weise verknüpft werden. Der Bearbeitungstatus und der Umsetzungsgrad der verknüpften Aufgaben ist in den übergeordneten Elementen zu sehen und kann den Status und den Umsetzungsgrad des übergeordneten Elements beeinflussen.
+Maßnahmen können auf verschiedenste Weise verknüpft werden. Der Bearbeitungstatus und der Umsetzungsgrad von untergeordneten Aufgaben ist in den übergeordneten Elementen zu sehen und kann den Status und den Umsetzungsgrad des übergeordneten Elements beeinflussen.
 
 Tabellarische und graphische Auswertung:: 
 
-Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia vielfältige Möglichkeiten der Datenauswertung. Dabei unterstützen Filterfunktionen und eine flexible Spaltenanordnung innerhalb der Tabellen. Zusätzliche graphische Auswertungen runden die Analyse ab.
-
-
+Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia verschiedene Möglichkeiten der Datenauswertung. Dabei unterstützen Filterfunktionen und eine flexible Spaltenanordnung innerhalb der Tabellen. Zusätzliche graphische Auswertungen runden die Analyse ab.
