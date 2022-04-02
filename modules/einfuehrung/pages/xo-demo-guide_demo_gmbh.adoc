@@ -35,7 +35,7 @@ In der folgenden Tabelle sind die Mitarbeiter und ihre Zuordnung gelistet.
 | Christine Miller | Mitarbeiterin | IT-Betrieb
 |===
 
-Um die Prozesse um das Informationssicherheitsmanagement und das Datenschutzmanagement umzusetzen hat man sowohl einen externen ISB als auch einen externe DSB beauftragt.
+Um die Prozesse um das Informationssicherheitsmanagement und das Datenschutzmanagement umzusetzen, hat man sowohl einen externen ISB als auch einen externen DSB beauftragt.
 
 |===
 | Mitarbeiter |	Funktion 
@@ -58,10 +58,10 @@ betrachtet.
 
 == Netzstrukturplan
 
-Um in der xmera Omnia Demo auch ein IT-Assetregister darstellen zu können, wurde auch eine fiktive IT-Struktur erdacht. Die Struktur ist in dem folgenden Netzstrukturplan abgebildet.
+Um in der xmera Omnia Demo auch ein IT-Assetregister darstellen zu können, wurde auch eine fiktive IT-Struktur erdacht. Die Struktur ist im folgenden Netzstrukturplan abgebildet.
 
 image::einfuehrung_demo-gmbh_netzstruktur.png[Netzstrukturplan,600,800,align=left]
 
 Die Netzstruktur zeigt eine hybride IT-Umgebung aus einer eigenen IT für Entwicklung und Verwaltung und die Nutzung von Cloud-Diensten.
 
-Die demo GmbH hat einen Standort. Die Mitarbeiter können aber auch aus dem Home-Office arbeiten.
+Die demo GmbH hat einen Standort. Die MitarbeiterInnen können aber auch aus dem Home-Office arbeiten.
