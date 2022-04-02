@@ -7,7 +7,7 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird das IT-Service-Management benötigt?
 
-Der IT-Service ist in vielfältiger Weise für ein funktionierendes ISMS nach der DIN ISO/IEC 27001 notwendig.
+Ein wirksames ISMS nach DIN ISO/IEC 27001 schließt auch das IT-Service Management der Organisation ein. Eine bedeutsame Schnittmenge stellt dabei das Vorfallmanagement dar.
 
 An die Organisation des *Vorfallmanagements* werden im Anhang A Anforderungen zur Erfassung und Behandlung von Informationssicherheitsvorfällen gestellt. Dieses beinhaltet 
 
@@ -17,7 +17,7 @@ An die Organisation des *Vorfallmanagements* werden im Anhang A Anforderungen zu
 - eine dem Vorfall entsprechende Reaktion,
 - eine Analyse und Lösungen der Vorfälle.
 
-Ein ISMS beinhaltet auch den Betrieb der Informationssysteme. So fordert die DIN ISO/IEC 27001, dass die betrieblichen Prozesse, die für den sicheren Betrieb notwendig sind, nicht nur umgesetzt sondern auch gesteuert werden müssen. Dazu gehören neben den konkreten Aufgaben, die sich aus den Sicherheitsanforderungen ergeben, auch die Aufgaben aus den Bereichen Wartung, Instandsetzung, Erweiterungen und Änderungen.
+Ein ISMS beinhaltet den Betrieb der Informationssysteme. So fordert die DIN ISO/IEC 27001, dass die betrieblichen Prozesse, die für den sicheren Betrieb notwendig sind, nicht nur umgesetzt sondern auch gesteuert werden müssen. Dazu gehören neben den konkreten Aufgaben, die sich aus den Sicherheitsanforderungen ergeben, auch die Aufgaben aus den Bereichen Wartung, Instandsetzung, Erweiterungen und Änderungen.
 
 == Wie unterstützt xmera Omnia?
 
