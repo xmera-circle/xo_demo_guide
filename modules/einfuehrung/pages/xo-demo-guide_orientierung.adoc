@@ -11,7 +11,7 @@ Mit dem ersten Aufruf werden Sie zur Anmeldung (login) geführt.
 
 image::einfuehrung_anmelden.png[width=400,height=400,align=left] 
 
-Hier tragen Sie ihre Anmeldedaten für die xmera Omnia Demo ein. Mit Klicken auf _Anmelden_ werden Sie bei Erstanmeldung zunächst gebeten Ihr Passwort zu ändern. Danach gelangen Sie zur Hauptseite.
+Hier tragen Sie Ihre Anmeldedaten für die xmera Omnia Demo ein. Mit Klicken auf _Anmelden_ werden Sie bei Erstanmeldung zunächst gebeten Ihr Passwort zu ändern. Danach gelangen Sie zur Hauptseite.
 
 == Hauptseite
 
@@ -45,7 +45,7 @@ image::einfuehrung_benutzermenue.png[align=left]
 Es zeigt von links nach rechts
 
 - den Namen des angemeldeten Benutzer,
-- die Anzahl der Meldungen, die für den Benutzer vorliegen,
+- die Anzahl der ungelesenen Meldungen, die für den Benutzer vorliegen,
 - einen Zugang zu den persönlichen Einstellungen (Mein Konto),
 - ein Button zum _Abmelden_ des Benutzers.
 
@@ -76,10 +76,10 @@ image::einfuehrung_objekte_uebersicht.png[]
 In der Objektübersicht sind die Wurzelobjekte zu sehen. In der Demo werden folgende Wurzelelemente genutzt: 
 
 - *A Management:* +
-Abbildung der Prozesse des ISMS-Managementprozesse
+Abbildung der Prozesse des ISMS-Managementprozess
 - *B Prozesse & Informationen:* +
-Erfassung und Bewertung der Organisationsprozesse und der Informationen, die für Informationsprozesse benötigt werden.
-- *C Servies:* +
+Erfassung und Bewertung der Organisationsprozesse und der Informationen, die für Informationsprozesse benötigt werden
+- *C Services:* +
 Darstellung zu internen und externen Dienstleistern
 - *D IT-Betrieb:* +
 Abbildung der IT-Anwendungen, IT-Systeme, Netzwerke
@@ -90,19 +90,19 @@ Abbildung der internen und externen Audits
 - *G Changeprozesse:* +
 Abbildung von Projekten im Bereich der Informationsverarbeitung (es könnten aber auch beliebige Projekte sein)
 - *H Meldungen:* +
-Erfassen und Verarbeitung von Service-Tickets, Störungen und Vorfällen
+Erfassen und Verarbeiten von Service-Tickets, Störungen und Vorfällen
 - *I Vorgaben & Regeln* +
-Zentraler Ort für übergreifenden Reglungen und Vorgaben in der Organisation.
+Zentraler Ort für übergreifende Reglungen und Vorgaben der Organisation
 
-Dieses ist eine Struktur, die Demo-spezifisch ist und an die Erfordernisse der Organisation anzupassen ist. Sie ist hier so gewählt, dass sich die einzelnen funktionalen Zusammenhänge eines ISMS mit xmera Omnia gut nachvollziehen lassen.
+Diese Struktur ist demo-spezifisch und sollte an die Erfordernisse der Organisation angepasst werden. Sie ist hier so gewählt, dass sich die einzelnen funktionalen Zusammenhänge eines ISMS mit xmera Omnia gut nachvollziehen lassen.
 
-Von der Objektübersicht kann man durch Klicken auf die Karten in die einzelnen Objekte springen.
+Von der Objektübersicht kann man durch Klicken auf die Karten in die einzelnen Objekte wechseln.
 
 Objektmenü:: 
 
-Die Objektseiten besitzen im Vergleich zu den anderen Seiten ein zusätzliches Objektmenü. Im Objektmenü, das sich zwischen Hauptmenü und dem Objektnamen (im Basisbild der Demo _Objekte_) befindet, werden die in diesem Objekt zur Verfügung stehenden Module als Menüelement dargestellt. Das gerade angezeigte Menüelement ist unterstrichen. +
+Die Objektseiten besitzen im Vergleich zu den anderen Seiten ein zusätzliches Objektmenü. Im Objektmenü, das sich zwischen Hauptmenü und dem Objektnamen (im Basisbild der Demo _Objekte_) befindet, werden die in diesem Objekt zur Verfügung stehenden Module als Menüelemente dargestellt. Das gerade angezeigte Menüelement ist unterstrichen. +
 +
-Das Objektmenü der Objektübersichtsseite zeigt, wie im folgenden Bild zu sehen, die Module an, die objektübergreifende Informationen bereitstellen. +
+Das Menü der Objektübersichtsseite zeigt, wie im folgenden Bild zu sehen, die Module an, die objektübergreifende Informationen bereitstellen. +
 +
 image::einfuehrung_objekt_menue_uebersicht.png[align=left]
 +
@@ -112,7 +112,7 @@ Ist man in einem spezifischen Objekt, so werden auch hier nur die Module angezei
 +
 image::einfuehrung_objekt_menue_objekt.png[align=left]
 +
-Eine weitere Besonderheit ist, dass zu Beginn des Menüs ein *+* dargestellt ist, das der Schnellerfassung dient. Beim Klicken auf das Kreuz erscheint eine Liste von Elementen, bei denen man direkt in die zugehörige Erfassungsmaske springen kann. +
+Eine weitere Besonderheit ist, dass zu Beginn des Menüs ein *+* dargestellt ist, das dem Schnellzugriff dient. Beim Klicken auf das Kreuz erscheint eine Liste von Elementen, bei denen man direkt in die zugehörige Erfassungsmaske springen kann. +
 
 Abfragen:: 
 
@@ -120,15 +120,15 @@ Objektseiten, in denen Listen von Objekten oder Aufgaben gelistet werden, haben 
 +
 image::einfuehrung_abfrage_filter.png[align=left]
 +
-In der Standardeinstellung ist der Filter auf- und die Optionen zugeklappt. Durch Klicken auf den Pfeil neben dem Text können die Elemente auf- bzw. zugeklappt werden. Der Filter bietet die Möglichkeit nach zahlreichen Attribut-Inhalten zu filtern. Es können Filterelemente hinzugefügt oder auch wieder deaktiviert werden. +
+In der Standardeinstellung ist der Filter auf- und die Optionen zugeklappt. Durch Klicken auf den Pfeil neben dem Text können die Elemente auf- oder zugeklappt werden. Der Filter bietet die Möglichkeit nach zahlreichen Attribut-Inhalten zu filtern. Es können Filterelemente hinzugefügt und wieder deaktiviert werden. +
 +
 Im Bereich der Optionen kann die Darstellung der Liste angepasst werden. +
 +
 image::einfuehrung_abfrage_optionen.png[align=left]
 +
-Wird die Ansicht _Karte_ gewählt (siehe Objektübersicht) bestehen keine weiteren Darstellungsvarianten. Bei der Listanzeige dagegen können die Spaltenattribute ausgewählt werden. Weiter besteht die Möglichkeit die Liste nach einem Attribut zu gruppieren. +
+Wird die Ansicht _Karte_ gewählt (siehe Objektübersicht), bestehen keine weiteren Darstellungsvarianten. Bei der Listenanzeige dagegen können die Spaltenattribute ausgewählt werden. Weiter besteht die Möglichkeit die Liste nach einem Attribut zu gruppieren. +
 +
-Mit Klicken des Button image:button_anwenden.png[] wird die erstellte Abfrage angewendet. Die Abfrage kann auch abgespeichert werden. Dieses erfolgt über den Button image:button_speichern.png[]. Mit dem Button image:button_zuruecksetzen.png[] wird der zuletzt gespeicherte Filter wiederhergestellt und ausgeführt. +
+Mit Klicken des Button image:button_anwenden.png[] wird die erstellte Abfrage ausgeführt. Die Abfrage kann auch gespeichert werden. Dies erfolgt über den Button image:button_speichern.png[]. Mit dem Button image:button_zuruecksetzen.png[] wird der zuletzt gespeicherte Filter wiederhergestellt und ausgeführt. +
 +
 Die gespeicherten Abfragen können über die linke Seitenleiste, die ggf. über den roten Pfeil image:button_sidebar_ausklappen.png[] ausgeklappt werden muss, ausgewählt werden. +
 +
@@ -138,7 +138,7 @@ Unter der Überschrift _Meine eigenen Abfragen_ finden sich die selbst erstellte
 
 == DMS
 
-Das Dokumentenmanagementsystem (DMS) ist das einzige Modul in xmera Omnia, das auch vom Hauptmenü aus angewählt werden kann. In diesem Fall kann auf alle Dokumente, die im DMS abgelegt sind und für die der angemeldete Benutzer eine Berechtigung besitzt, direkt zugegriffen werden.
+Das Dokumentenmanagementsystem (DMS) ist das einzige Modul in xmera Omnia, das auch vom Topmenü aus angewählt werden kann. In diesem Fall kann auf alle Dokumente, die im DMS abgelegt sind und für die der angemeldete Benutzer eine Berechtigung besitzt, direkt zugegriffen werden.
 
 image::einfuehrung_dms_uebersicht.png[]
 

@@ -19,7 +19,7 @@ Das Rollen- und Rechtemanagement ist eine wichtige Funktionalität eines ISMS-To
 - Meldungsberechtigter 
 - Disponent
 
-Diese Rollen können in einem Objekt dem Benutzer oder einer Benutzergruppe zugewiesen werden. Damit erhält ein Benutzer Rechte in einem oder mehreren Objekten. Objekte und Elemente, an denen ein Benutzer keine Rechte besitzt, werden ihm nicht angezeigt und sind somit auch nicht zugänglich.
+Diese Rollen können innerhalb eines Objektes dem Benutzer oder einer Benutzergruppe zugewiesen werden. Damit erhält ein Benutzer Rechte in einem oder mehreren Objekten. Objekte und Elemente, an denen ein Benutzer keine Rechte besitzt, werden ihm nicht angezeigt und sind somit auch nicht zugänglich.
 
 Der Benutzer _demo-tester_ ist in allen Objekten _Objektverantwortlicher_. Damit sieht er alles und kann auch Konfigurationen in den Objekten anpassen. Eine eingeschränkte Sicht auf Daten, die ein Nutzer mit einer anderen Rolle hätte, ist mit dem Testnutzer nicht möglich.
 
