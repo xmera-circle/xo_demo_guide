@@ -10,13 +10,13 @@ Inhalte einfacher Textdateien können direkt am Bildschirm gelesen werden.
 
 Dokumente:: 
 
-Das Modul _Dokumente_ bietet die Möglichkeit, Dokumente direkt einem Objekt zuzuordnen. Dokumente sind charakterisiert durch
+Das Modul _Dokumente_ bietet die Möglichkeit, einem Objekt eine oder mehrere Dokumentensammlungen zuzuordnen. Eine Dokumentensammlung wird charakterisiert durch
 
 - eine Dokumentenkategorie (Kategorien können über die Administration angepasst werden),
 - eine Dokumentenbeschreibung und
 - eine oder mehrere zugeordnete Dateien (mit einer Dateibeschreibung).
 
 +
-Die Liste der Dokumente lässt sich nach der Dokumentenkategorie, dem Zuordnungsdatum, dem Dokumententitel oder dem Autor (Benutzer der das Dokument angelegt hat) gruppieren. + 
+Die Dokumentensammlungen lassen sich nach der Dokumentenkategorie, dem Zuordnungsdatum, dem Dokumententitel oder dem Autor (Benutzer der das Dokument angelegt hat) gruppieren. + 
  + 
 Dokumente können heruntergeladen werden. Inhalte einfacher Textdokumente können direkt am Bildschirm gelesen werden.

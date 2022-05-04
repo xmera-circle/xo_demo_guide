@@ -7,36 +7,38 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was ist in Schritt 4 umzusetzen?
 
-Die Dokumentation der Organisation, Prozesse, Regelungen und Systeme der Informationsverarbeitung seht im Mittelpunkt des Schritt 4 im CISIS12.
+Die Dokumentation der Organisation, Prozesse, Regelungen und Systeme der Informationsverarbeitung steht im Mittelpunkt des Schritt 4 im CISIS12.
 
-Ziel dieser Dokumentation ist, dass ein fachkundiger Dritter in der Lage versetzt wird, den IT-Betrieb fortzuführen.
+Ziel dieser Dokumentation ist, dass ein fachkundiger Dritter in die Lage versetzt wird, den IT-Betrieb fortzuführen.
 
 Zentraler Bestandteil der Dokumentation sind
 
-- Prozesse und Richtlinien zur Sicherstellung der IT-Sicherheit und des ISMS
-- die Dokumentation aller Maßnahmen aus Risikoanalyse, Audits, Vorfallanalysen und Revisionen
-- das Betriebshandbuch mit Prozesssteckbriefen, Netzplänen, IT-Servicehandbuch und Systemakten
-- das Notfallhandbuch
+- Prozesse und Richtlinien zur Sicherstellung der IT-Sicherheit und des ISMS,
+- die Dokumentation aller Maßnahmen aus Risikoanalyse, Audits, Vorfallanalysen und Revisionen,
+- das Betriebshandbuch mit Prozesssteckbriefen, Netzplänen, IT-Servicehandbuch und Systemakten,
+- das Notfallhandbuch.
 
 == Wie unterstützt xmera Omnia?
 
-xmera Omnia beinhaltet die Dokumentation und unterstützt den Nutzer durch Funktionen und die Struktur. 
+xmera Omnia unterstützt den Nutzer bei der Dokumentation und Arbeitsorganisation und sorgt dabei für Struktur und Ordnung. 
 
-Die Objekte mit den Objektklassen und der Objekthierarchie geben die Struktur vor. Das die wichtigsten Objektgruppen sind 
+Objekte werden mit Hilfe von Objektklassen, die wie eine Vorlage funktionieren, in eine für die Organisation geeignete Objekthierarchie eingegliedert. Dabei kann die Struktur nach beliebigen Kriterien aufgebaut werden. 
 
-- das ISMS-Projekt mit allen notwendigen Aufgaben, der Organisation und den notwendigen Dokumenten und Berichten,
-- die Prozesse und Informationen, die mit den Verantwortlichen, Prozessbeschreibungen benötigten Informationen mit dem Schutzbedarf die Organisation beschreiben,
+Zu den wichtigsten Objekten gehören 
+
+- das ISMS-Projekt, in dem sich der Informationssicherheitsbeauftragte organisiert und das ISMS steuert,
+- die Prozesse und Informationen, die der Ausgangspunkt für alle folgenden Maßnahmen sind und es ermöglichen Prozesse zu beschreiben sowie ihren Schutzbedarf zu bestimmen,
 - die IT-Asset Objekte, die mit der hinterlegten Dokumentation die Systemsteckbriefe darstellen und alles für den Systembetrieb abbilden können.
 
-Über das übergreifende Aufgabenmanagement werden alle notwendigen IT-Maßnahmen gesteuert und überwacht.
+Mit Hilfe des übergreifenden Aufgabenmanagements werden alle notwendigen IT-Maßnahmen gesteuert und überwacht.
 
-In jedem Objekt stehen wiederum verschiedene Dokumentationsmodule zur Verfügung, die den Nutzer bei der Dokumentation unterstützen. Das sind
+Dabei stehen in jedem Objekt verschiedene Dokumentationsmodule zur Verfügung, die den Nutzer bei der Dokumentation unterstützen. Dazu gehören
 
 - das Dokumentenmanagementmodul (DMS) (beschrieben in Kapitel "CISIS12 Start"),
-- die Module Dokumente und Dateien,
-- das Wiki
+- die Module Dokumente und Dateien und
+- das Wiki.
 
-Diese werden im Folgenden beschreiben:
+Diese werden im Folgenden beschrieben:
 
 include::shared:dokumente/dateien_u_dokumente.adoc[leveloffset=2]
 
