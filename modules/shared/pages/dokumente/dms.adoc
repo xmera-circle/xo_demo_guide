@@ -24,4 +24,4 @@ Zusätzlich können Dokumente auch vor ungewollten Änderungen geschützt werden
 
 Genehmigungsworkflow:: Das DMS in xmera Omnia bietet die Möglichkeit, die Freigabe von Dokumenten über einen Genehmigungsworkflow durchzuführen und zu dokumentieren. +
  +
-Ein Genehmigungsworkflow beschreibt den Ablauf des Freigabeprozesses. In xmera Omnia können verschiedene Freigabeprozesse (z.B. für Richtlinien, Handlungsanweisungen oder Betriebhandbücher) abgebildet werden. 
+Ein Genehmigungsworkflow beschreibt den Ablauf des Freigabeprozesses. In xmera Omnia können verschiedene Freigabeprozesse (z.B. für Richtlinien, Handlungsanweisungen oder Betriebshandbücher) abgebildet werden. 

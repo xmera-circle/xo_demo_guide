@@ -5,7 +5,7 @@
 
 include::ROOT:partial$custom-css.adoc[]
 
-Die Prozesse zur Umsetzung eines Informationssicherheitsmanagementsystems (ISMS) nach der CISIS sind vielfältig. Damit der Betrieb eines ISMS mit möglichst wenig Aufwand möglich ist, dabei aber einen guten Überblick über die Reife des ISMS gibt und den Wissenstransfer in der Organisation fördert, bietet xmera Omnia eine Vielzahl an Funktionen, die die Organisation bei diesen Aufgaben unterstützt. In der folgenden Grafik wird dargestellt, mit welchen Funktionen xmera Omnia die Organisation bei der Umsetzung des CISIS12 unterstützen kann.
+Die Prozesse zur Umsetzung eines Informationssicherheitsmanagementsystems (ISMS) nach CISIS12 sind vielfältig. Damit der Betrieb eines ISMS mit möglichst wenig Aufwand möglich ist, dabei aber einen guten Überblick über die Reife des ISMS gibt und den Wissenstransfer in der Organisation fördert, bietet xmera Omnia eine Vielzahl an Funktionen, die die Organisation bei diesen Aufgaben unterstützt. In der folgenden Grafik wird dargestellt, mit welchen Funktionen xmera Omnia die Organisation bei der Umsetzung von CISIS12 unterstützen kann.
 
 image::cisis12-schritte-und-unterstuetzende-funktionen-xmera-omnia.gif[]
 
