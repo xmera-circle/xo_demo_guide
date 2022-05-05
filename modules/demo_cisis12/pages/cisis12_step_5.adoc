@@ -13,15 +13,15 @@ Die IT-Servicemanagementprozesse beschreiben die Gesamtheit der Maßnahmen, die 
 - die Störungsprozesse und
 - die Änderungsprozesse.
 
-Das Management ist an die Größe der Organisation anzupassen. In diesem Zusammenhang ist auch das Lieferantenmanagement, insbesondere im Zusammenhang mit dem outsourcing von ID-Diensten, zu betrachten.
+Das Management ist an die Größe der Organisation anzupassen. In diesem Zusammenhang ist auch das Lieferantenmanagement, insbesondere im Zusammenhang mit dem Outsourcing von ID-Diensten, zu betrachten.
 
 == Wie unterstützt xmera Omnia?
 
 xmera Omnia unterstützt das IT-Servicemanagement in vielfältiger Weise. 
 
-Die Wartungs- und Störungsprozesse werden durch das Aufgaben/Ticket-Management, mit dessen Hilfe auch die Maßnahmen, Gefährdungen, Aufgaben verwaltet werden, nutzen und leicht an die Organisation anpassen.
+Die Wartungs- und Störungsprozesse können durch das Aufgaben/Ticket-Management gesteuert werden.
 
-Die Objekte können zur Steuerung komplexere Change-/Änderungsprozesse genutzt werden.
+Bei komplexeren Change-/Änderungsprozessen bietet sich das in xmera Omnia integrierte Projektmanagement an.
 
 include::shared:it-service-management/vorfallmanagement.adoc[leveloffset=2]
 

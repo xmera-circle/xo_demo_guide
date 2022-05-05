@@ -1,6 +1,6 @@
 = Projektmanagement
 
-xmera Omnia basiert im Kern auf einer Projektmanagement-Plattform. Von daher unterstützt xmera Omnia in vielfältiger Form das Projektmanagement. Von der Aufgabenplanung über Abbildung von Abhängigkeiten bis hin zu Kollaboration-Funktionen, die Zusammenarbeit im Projekt unterstützen.
+xmera Omnia basiert im Kern auf einem Projektmanagementsystem. Der Funktionsumfang reicht von der Aufgabenplanung über Abbildung von Abhängigkeiten bis hin zu Kollaborationsfunktionen, die die Zusammenarbeit im Projekt unterstützen.
 
 Aufgabenplanung:: 
 
@@ -16,21 +16,21 @@ Durch die Integration der betrieblichen Projekte in xmera Omnia ist die Forderun
 
 Terminplanung / Projektverlauf:: 
 
-Durch die Verknüpfung von Aufgaben als _Vorgänger von_ bzw. _Nachfolger von_ lassen sich  Abläufe abbilden. Somit werden abhängigen Aufgaben bei Verschiebung des Vorgängers ebenfalls verschoben. +
+Durch die Verknüpfung von Aufgaben als _Vorgänger von_ bzw. _Nachfolger von_ lassen sich  Abläufe abbilden. Somit werden abhängige Aufgaben bei Verschiebung des Vorgängers ebenfalls verschoben. +
 +
 Die Beziehungen zwischen +
 
 - Projekten und Unterprojekten, 
 - Paketen,
-- Aufgaben und Unteraufgaben mit den
+- Aufgaben und Unteraufgaben und die
 - Abhängigkeiten von Aufgaben
 
 +
-lassen sich mit dem Status und dem Umsetzungsgrad im integrierten Verlauf (Gantt-Diagramm) abbilden.
+lassen sich mit Status und Umsetzungsgrad im Verlauf (Gantt-Diagramm) abbilden.
 
 Zusammenarbeit / Kollaboration:: 
 
-Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang zahlreiche Funktionen, die diesen Informations-/Wissenstransfer unterstützen.
+Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang einige Funktionen, die diesen Informations-/Wissenstransfer unterstützen:
 
 - Das Journal zeigt an, wo sich in letzter Zeit etwas im Projekt verändert hat.
 - Über Meldungen lassen sich Informationen im Projektteam verteilen.

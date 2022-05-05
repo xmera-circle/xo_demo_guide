@@ -1,6 +1,6 @@
 = Vorfallmanagement
 
-xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dazu gehört die automatisierte Zuordnung von eingehenden Meldungen zu einzelnen Mitarbeiten oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
+xmera Omnia unterstützt den gesamten Prozess des Vorfallmanagements. Dazu gehört die automatisierte Zuordnung von eingehenden Meldungen zu einzelnen Mitarbeitern oder Gruppen, die Priorisierung und Gruppierung sowie die Analyse des Vorfalls.
 
 Automatisieren:: 
 
