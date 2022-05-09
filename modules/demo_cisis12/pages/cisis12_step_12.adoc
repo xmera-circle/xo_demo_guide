@@ -7,7 +7,7 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was ist in Schritt 12 umzusetzen?
 
-Im Schritt 12 geht es im CISIS12 um die Revision der 12 Schritte, die jährlich zu durchlaufen sind. Diese Revisionen sollen das ISMS Team dabei unterstützen, das ISMS weiterzuentwickeln und Fehlentwicklungen zu vermeiden. Ziel ist es aus den Revisionsergebnissen Maßnahmen zu entwickeln, die das ISMS kontinuierlich verbessern.
+In Schritt 12 geht es im CISIS12 um die Revision der vorangegangen 11 Schritte, die jährlich zu durchlaufen sind. Diese Revisionen sollen das ISMS Team dabei unterstützen, das ISMS weiterzuentwickeln und Fehlentwicklungen zu vermeiden. Ziel ist es aus den Revisionsergebnissen Maßnahmen zu entwickeln, die das ISMS kontinuierlich verbessern.
 
 == Wie unterstützt xmera Omnia?
 
