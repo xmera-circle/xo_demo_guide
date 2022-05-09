@@ -14,4 +14,4 @@ Maßnahmen können auf verschiedenste Weise verknüpft werden. Der Bearbeitungst
 
 Tabellarische und graphische Auswertung:: 
 
-Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia verschiedene Möglichkeiten der Datenauswertung. Dabei unterstützen Filterfunktionen und eine flexible Spaltenanordnung innerhalb der Tabellen. Zusätzliche graphische Auswertungen runden die Analyse ab.
+Zur Priorisierung und Umsetzungsüberwachung bietet xmera Omnia mehrere Möglichkeiten der Datenauswertung. Dabei unterstützen Filterfunktionen und eine flexible Spaltenanordnung innerhalb der Tabellen. Zusätzliche graphische Auswertungen runden die Analyse ab.
