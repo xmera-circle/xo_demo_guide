@@ -7,9 +7,9 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was ist in Schritt 11 umzusetzen?
 
-Im Schritt 11 sind die internen Audits zu planen. Diese können als Systemaudit, Prozessaudit, Produktaudit oder Stakeholderaudit ausgelegt werden.
+In Schritt 11 sind die internen Audits zu planen. Diese können als Systemaudit, Prozessaudit, Produktaudit oder Stakeholderaudit ausgelegt werden.
 
-Das Auditprogramm umfasst in der Regel die gesamte Zertifikatslaufzeit (3 Jahre). In dem Auditprogramm werden Auditbereich, Autidtkriterien, die Art und der Umfang des Audits festgelegt.
+Das Auditprogramm umfasst in der Regel die gesamte Zertifikatslaufzeit (3 Jahre). In dem Auditprogramm werden Auditbereich, Auditkriterien, die Art und der Umfang des Audits festgelegt.
 
 Die Audits sind zu dokumentieren mit der Organisation durchzusprechen und Abweichungen sind durch geeignete Maßnahmen abzustellen.
 
