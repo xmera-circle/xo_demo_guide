@@ -2,4 +2,4 @@
 
 Wird ein Risikoniveau durch eine Maßnahme reduziert oder vermieden, so kann die Maßnahmen als Unteraufgabe an die Gefährdung gekoppelt werden. 
 
-Alle Maßnahmen, die aus einer Risikobeurteilung erwachsen sind, können dann in einem Risikobehandlungsplan zusammengefasst werden. Dieser Risikobehandlungsplan zeigt alle Maßnahmen, die als Ziel haben, dass Schutzniveau auf ein akzeptables Maß zu bringen.
+Alle Maßnahmen, die aus einer Risikobeurteilung erwachsen sind, können dann in einem Risikobehandlungsplan zusammengefasst werden. Der Risikobehandlungsplan zeigt alle Maßnahmen, die als Ziel haben, dass Schutzniveau auf ein akzeptables Maß zu bringen.

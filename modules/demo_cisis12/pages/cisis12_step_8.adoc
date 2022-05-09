@@ -7,9 +7,9 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was ist in Schritt 8 umzusetzen?
 
-In Schritt 8 ist in einer Richtlinie Risikomanagement der Umgang mit Risiken, von der Ermittlung über die Risikobehandlung bis zur Überwachung und Neubewertung.
+In Schritt 8 steht das Risikomanagement im Mittelpunkt. Hierzu sind Regelungen zum Umgang mit Risiken, zur Risikobewertung, Risikobehandlung sowie Überwachung und Neubewertung notwendig, die in einer Richtlinie zusammengefasst werden.
 
-Basierend auf dieses Richtlinie sind dann die Risikoermittlung, Risikobehandlung (Risikobehandlungsplan)  und die Überwachung durchzuführen.
+Basierend auf dieser Richtlinie sind dann die Risikoermittlung, Risikobehandlung (Risikobehandlungsplan) und die Überwachung durchzuführen.
 
 == Wie unterstützt xmera Omnia?
 
