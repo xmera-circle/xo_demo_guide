@@ -6,7 +6,7 @@ Risikoakzeptanzmatrix::
 
 Für die Ermittlung des Risikoniveaus wird in xmera Omnia eine individuell konfigurierbare Risikoakzeptanzmatrix bereitgestellt, in der für jede Kombination aus Eintrittshäufigkeit und Schadensklasse ein Risikoniveau zugeordnet werden kann. In der Demo wird hierfür eine 4 x 4 Matrix verwendet, woraus sich 16 Kombinationen ergeben.
 
-NOTE: Da die Konfiguration der Risikoakzeptanzmatrix im Administrationsbereich vorgenommen werden muss, ist dies im Rahmen der Demo nicht möglich.
+NOTE: Da die Konfiguration der Risikoakzeptanzmatrix im Administrationsbereich vorgenommen werden muss, ist eine Anpassung im Rahmen der Demo nicht möglich.
 
 Risikobehandlung:: 
 
