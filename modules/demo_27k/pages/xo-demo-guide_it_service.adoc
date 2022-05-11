@@ -29,11 +29,22 @@ include::shared:it-service-management/ticketsystem.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 
-### Erfassung von Vorfällen
+=== Erfassung von Vorfällen
 
 video::vorfall_erfassung.mp4[width=950]
 
-### Analyse von Vorfällen
+=== Analyse von Vorfällen
 
 video::vorfall_analyse.mp4[width=950]
 
+=== Aufgabenliste
+
+video::aufgaben_liste.mp4[width=950]
+
+=== Aufgabenpakete
+
+video::aufgaben_pakete.mp4[width=950]
+
+=== Dashboard
+
+video::aufgaben_dashboard.mp4[width=950]

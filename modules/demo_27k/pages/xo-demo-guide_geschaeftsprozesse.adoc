@@ -18,4 +18,8 @@ include::shared:geschaeftsprozesse-informationen/informationen.adoc[leveloffset=
 
 == Wo finde ich Beispiele in der Demo?
 
-...
+=== Prozesse
+
+
+=== Informationen
+
