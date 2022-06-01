@@ -1,21 +1,28 @@
 site:
   title: xmera Omnia Demo Guide
   url: /
-  start_page: xo-quick-guide:einfuehrung:index.adoc
+  start_page: xo-quick-guide:ROOT:index.adoc
+
 content:
   sources:
   - url: .
     branches: HEAD
-    # start_paths: [ 01_einfuehrung, 02_27k-demo ]
+    start_path: .
+
+  - url: ../xo_doc
+    branches: HEAD
+    start_path: .
+
 ui: 
   bundle: 
     # url: https://github.com/boozallen/sdp-docs-skin/releases/download/1.1/ui-bundle.zip
     # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     url: https://github.com/xmera-circle/antora-ui-omnia/releases/download/0.2.1/ui-bundle.zip
+    # url: https://s3-eu-west-1.amazonaws.com/static-content.neo4j.com/build/ui-bundle-latest.zip
     snapshot: true
-  #supplemental_files:
-  #- path: .nojekyll
-  #- path: googleb68ed66af787ac15.html
-  #  contents: 'google-site-verification: googleb68ed66af787ac15.html'
-  #- path: ui.yml
-  #  contents: "static_files: [ .nojekyll, googleb68ed66af787ac15.html ]"
+  supplemental_files:
+  - path: .nojekyll
+  - path: googleb68ed66af787ac15.html
+    contents: 'google-site-verification: googleb68ed66af787ac15.html'
+  - path: ui.yml
+    contents: "static_files: [ .nojekyll, googleb68ed66af787ac15.html ]"
