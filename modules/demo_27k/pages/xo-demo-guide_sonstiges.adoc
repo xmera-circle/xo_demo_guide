@@ -5,7 +5,7 @@
 
 include::ROOT:partial$custom-css.adoc[]
 
-== Was kann ein ISMS sonst noch unterstützen?
+== Was gibt es noch?
 
 Projektmanagement:: 
 
