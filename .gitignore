@@ -1,4 +1,4 @@
 .history
 build/
 pdf/xo-doc.pdf
-node_modules/
+.vscode/

@@ -1,15 +1,11 @@
 site:
   title: xmera Omnia Demo Guide
   url: /
-  start_page: xo-quick-guide:ROOT:index.adoc
+  start_page: xo-demo-guide:ROOT:index.adoc
 
 content:
   sources:
   - url: .
-    branches: HEAD
-    start_path: .
-
-  - url: ../xo_doc
     branches: HEAD
     start_path: .
 
