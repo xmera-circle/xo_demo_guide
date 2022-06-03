@@ -4,4 +4,4 @@ include::einfuehrung:partial$nav.adoc[]
 include::demo_27k:partial$nav.adoc[]
 include::demo_cisis12:partial$nav.adoc[]
 
-* xref:1.0@xo-doc-gesamt:ROOT:index.adoc[*Zurück zur xmera Omnia Dokumentation*]
+* xref:1.0@xo-docs:ROOT:index.adoc[*Zurück zur Hauptseite*]
