@@ -7,7 +7,7 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Wofür wird die Risikobewertung benötigt?
 
-Ein weiteres zentrales Element eines ISMS ist die Informationssicherheitsbeurteilung. Hat ein Asset einen Schutzbedarf, der eine weitergehende Analyse erfordert (zumeist _Hoch_ oder _Sehr Hoch_), so ist eine Risikobewertung durchzuführen. 
+Ein weiteres zentrales Element eines ISMS ist die Risikobeurteilung. Hat ein Asset einen Schutzbedarf, der eine weitergehende Analyse erfordert (zumeist _Hoch_ oder _Sehr Hoch_), so ist eine Risikobewertung durchzuführen. 
 
 Gegenstand der Bewertung sind die Einschätzung der Eintrittswahrscheinlichkeit und der Schadenhöhe für ein sicherheitsrelevantes Ereignis. Der berechnete Wert ist das aktuelle Risiko für das vorliegende Ereignis. 
 

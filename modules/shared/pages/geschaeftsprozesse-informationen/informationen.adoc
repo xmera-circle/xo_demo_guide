@@ -1,7 +1,7 @@
 = Informationen
 
-Informationen sind die primären Assets einer Organisation. Sie dienen als Bindeglied zwischen Prozess und Anwendung. Der Prozess beschreibt eine Handlung. Eine Information kann sowohl zur Durchführung dieser Handlung notwendig sein, als auch ihr Erzeugnis sein.
+Informationen sind die primären Assets einer Organisation. Sie dienen als Bindeglied zwischen Prozess und Anwendung. Der Prozess beschreibt eine Handlung. Eine Information kann sowohl zur Durchführung dieser Handlung notwendig, als auch ihr Erzeugnis sein.
 
-Dabei kann auf Informationsklassen zurückgegriffen werden, die eine Grundkonfiguration im Bereich der Schutzbedarfsfestlegung aber auch des Datenschutzes ermöglichen.
+Bei der Erfassung von Informationen kann auf Informationsklassen zurückgegriffen werden, die eine Grundkonfiguration im Bereich der Schutzbedarfsfestlegung aber auch des Datenschutzes ermöglichen.
 
-Für die Information wird der Schutzbedarf durch die Prozesseigner definiert. Dieser wird über die logischen Verknüpfungen zu den für die Informationsverarbeitung notwendigen sekundären Assets vererbt.
+Der Schutzbedarf der Information wird durch die Prozesseigner definiert. Dieser wird über die logischen Verknüpfungen zu den für die Informationsverarbeitung notwendigen sekundären Assets vererbt.

@@ -1,18 +1,18 @@
 = Auditplanung und -durchführung
 
-Die Auditplanung wird im xmera Omnia als Projekt abgebildet. Dazu gehören
+Mit xmera Omnia können Sie auch Audits planen und durchführen. Zum den Hilfsmitteln gehören
 
 - Aufgaben, deren Inhalt um eigene Felder wie z.B. Auditfragen oder Ergebnisse ergänzt werden können,
 - Terminplanungen,
 - Zuordnung von Verantwortlichkeiten,
 
-Folgende Funktionen unterstützen bei der Autitplanung und -durchführung.
+Folgende Funktionen unterstützen bei der Auditplanung und -durchführung.
 
-Pakete / Stapel:: 
+Paket / Stapel:: 
 
-Mit der Zuordnung der Aufgaben zu Arbeitspaketen, basierend auf den Jahresdatum oder dem Zertifizierungszyklus, können die durchzuführenden Audits strukturiert werden.
+Mit der Zuordnung der Aufgaben zu Arbeitspaketen, basierend auf dem Jahresdatum oder dem Zertifizierungszyklus, können die durchzuführenden Audits strukturiert werden.
 
-Auch im Zusammenhang mit den Verlaufs- und Kalenderfunktionen ergibt sich hier eine zusätzliche Übersichtlichkeit.
+Im Zusammenhang mit den Verlaufs- und Kalenderfunktionen ergibt sich hier eine zusätzliche Übersichtlichkeit.
 
 Verlauf und Kalender:: 
 

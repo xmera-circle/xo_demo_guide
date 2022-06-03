@@ -5,12 +5,12 @@
 
 include::ROOT:partial$custom-css.adoc[]
 
-Die Prozesse zur Umsetzung eines Informationssicherheitsmanagementsystems (ISMS) nach der DIN ISO/IEC 27001 sind vielfältig. Damit der Betrieb eines ISMS mit möglichst wenig Aufwand möglich ist, dabei aber einen guten Überblick über die Reife des ISMS gibt und den Wissenstransfer in der Organisation fördert, bietet xmera Omnia eine Vielzahl an Funktionen, die die Organisation bei diesen Aufgaben unterstützt. Eine Übersicht der wichtigsten Module ist der folgenden Abbildung zu entnehmen.
+Die Prozesse zur Umsetzung eines Informationssicherheitsmanagementsystems (ISMS) nach der DIN ISO/IEC 27001 sind vielfältig und komplex. Damit der Betrieb eines ISMS mit möglichst wenig Aufwand möglich ist, dabei aber einen guten Überblick über die Reife des ISMS gibt und den Wissenstransfer in der Organisation fördert, bietet xmera Omnia eine Vielzahl an Funktionen, die die Organisation bei diesen Aufgaben unterstützt. Eine Übersicht der wichtigsten Module ist der folgenden Abbildung zu entnehmen.
 
 image::xmera-omnia-funktionsuebersicht.jpg[]
 
-In den folgenden Kapiteln werden 
+In diesem Guide werden 
 
 - die von xmera Omnia unterstützten ISMS-Prozesse kurz beschrieben,
-- die prozessunterstützenden xmera Omnia Funktionen zugeordnet und
+- die unterstützenden Funktionen diesen Prozessen zugeordnet und
 - kurze Videosequenzen aufgezeigt, die anzeigen wo in der 27k-Demo Beispiele für diese Prozesse zu finden sind.
