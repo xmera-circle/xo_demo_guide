@@ -1,4 +1,4 @@
-= Schritt 0-3 » CISIS12 Start
+= Schritt 0-3 » CISIS 12 Start
 :doctype: article
 :icons: font
 :web-xmera: https://docs.xmera.de
@@ -7,15 +7,15 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was ist in den Schritten 0-3 umzusetzen?
 
-Der *Schritt 0* beschreibt in CISIS12 die Vorbereitungen für das Implementierungsprojekt. Hierzu sind für die Einführung eines ISMS
+Der *Schritt 0* beschreibt in CISIS 12 die Vorbereitungen für das Implementierungsprojekt. Hierzu sind für die Einführung eines ISMS
 - der Projektauftrag,
 - die Rollen,
 - die Ziele,
 - die Projektplanung und
 - die Kommunikationsstruktur 
-festzulegen. Dabei ist für ein ISMS nach CISIS12 die Anwendbarkeitserklärung (SOA) von zentraler Bedeutung. Sie definiert die Grenzen des Informationssicherheitsmanagementsystems.
+festzulegen. Dabei ist für ein ISMS nach CISIS 12 die Anwendbarkeitserklärung (SOA) von zentraler Bedeutung. Sie definiert die Grenzen des Informationssicherheitsmanagementsystems.
 
-In CISIS12 helfen bei der Definition der SOA die Bausteingruppen. Nicht relevante Bausteingruppen können mit nachvollziehbarer Begründung ausgeschlossen werden.
+In CISIS 12 helfen bei der Definition der SOA die Bausteingruppen. Nicht relevante Bausteingruppen können mit nachvollziehbarer Begründung ausgeschlossen werden.
 
 Der *1. Schritt* ist die Erstellung einer Leitlinie, in die grundlegende Festlegungen wie z.B. die Verantwortlichkeiten oder der Geltungsbereich für das ISMS definiert sind. 
 

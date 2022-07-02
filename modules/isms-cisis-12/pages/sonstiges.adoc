@@ -7,7 +7,7 @@ include::ROOT:partial$custom-css.adoc[]
 
 == Was gibt es noch?
 
-Neben den für die Umsetzung des CISIS12 direkt zuzuordnenden Funktionen bietet xmera Omnia noch weitere Funktionen, die das ISMS im Aufbau und Betrieb unterstützen. Von daher wollen wir diese nicht unerwähnt lassen.
+Neben den für die Umsetzung des CISIS 12 direkt zuzuordnenden Funktionen bietet xmera Omnia noch weitere Funktionen, die das ISMS im Aufbau und Betrieb unterstützen. Von daher wollen wir diese nicht unerwähnt lassen.
 
 == Wie unterstützt xmera Omnia?
 

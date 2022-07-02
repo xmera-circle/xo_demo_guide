@@ -1,7 +1,7 @@
 site:
   title: xmera Omnia Demo Guide
   url: /
-  start_page: xo-demo-guide:einfuehrung:index.adoc
+  start_page: xmera-omnia-demo-guide:einfuehrung:index.adoc
 
 content:
   sources:

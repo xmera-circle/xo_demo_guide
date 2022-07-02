@@ -1,3 +1,3 @@
-= CISIS12 Kontrollfragen
+= CISIS 12 Kontrollfragen
 
-Die Kontrollfragen sind in der Demo dem Objekt Audit zugeordnet und sollen den Auditprozess unterstützen. Sie lassen sich dafür importieren und stehen damit den Verantwortlichen zur Verfügung. Die Kontrollfragen sind auf Basis der einzelnen CISIS12 Schritte zu Arbeitspaketen zusammengefasst. So lässt sich der aktuelle Status sehr gut nachverfolgen.
+Die Kontrollfragen sind in der Demo dem Objekt Audit zugeordnet und sollen den Auditprozess unterstützen. Sie lassen sich dafür importieren und stehen damit den Verantwortlichen zur Verfügung. Die Kontrollfragen sind auf Basis der einzelnen CISIS 12 Schritte zu Arbeitspaketen zusammengefasst. So lässt sich der aktuelle Status sehr gut nachverfolgen.

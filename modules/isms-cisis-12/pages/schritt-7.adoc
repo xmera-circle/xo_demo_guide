@@ -11,7 +11,7 @@ Im Schritt 7 ist die IT-Struktur zu analysieren. Diese Struktur soll die Verantw
 
 Weiter muss der Schutzbedarf aus der in Schritt 6 durchgeführten Schutzbedarfsfeststellung für kritische Prozesse und Informationen auf die IT-Assets vererbt werden.
 
-Als dritte Aufgabe sind die Maßnahmen gemäß CISIS12 Katalog den Assets zuzuordnen.
+Als dritte Aufgabe sind die Maßnahmen gemäß CISIS 12 Katalog den Assets zuzuordnen.
 
 == Wie unterstützt xmera Omnia?
 

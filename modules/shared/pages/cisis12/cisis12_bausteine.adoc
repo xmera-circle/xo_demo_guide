@@ -1,9 +1,9 @@
-= CISIS12 Bausteine
+= CISIS 12 Bausteine
 
-xmera Omnia integriert die CISIS12 Bausteine. Jeder Baustein ist mit seinem Ziel und den dazugehörigen Maßnahmen abgebildet. +
+xmera Omnia integriert die CISIS 12 Bausteine. Jeder Baustein ist mit seinem Ziel und den dazugehörigen Maßnahmen abgebildet. +
 Der Aufbau eines einzelnen Bausteins erlaubt diverse Filtermöglichkeiten wie bspw. nach den Modalverben _Muss, Soll, Kann_.
 
-Mit den Bausteinen hat jeder Maßnahmenverantwortliche alle relevanten Informationen des CISIS12-Kataloges direkt im Zugriff und kann so die Maßnahmen zielgerichtet umsetzen. Weiter wird
+Mit den Bausteinen hat jeder Maßnahmenverantwortliche alle relevanten Informationen des CISIS 12-Kataloges direkt im Zugriff und kann so die Maßnahmen zielgerichtet umsetzen. Weiter wird
 
 - durch Gliederung nach Bausteinen (z.B. in der Anwendbarkeitserklärung) und
 - Filterung oder Sortierung nach der Relevanz
