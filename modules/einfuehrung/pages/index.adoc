@@ -23,9 +23,9 @@ Bei der Demo sind 3 Punkte zu beachten:
 
 == Der xmera Omnia Demo Guide
 
-Dieser Demo-Guide soll Ihnen den Einstieg in die xmera Omnia Demo und deren Funktionalität erleichtern. Dabei werden für die verschiedenen ISMS Standards (DIN ISO/IEC 27k, CISIS12, IT-Grundschutz) unterschiedliche Demos angeboten. Das hat den Vorteil, dass sich Interessenten, die bereits Erfahrungen in einem der Standards haben, leichter orientieren und sich gezielt informieren können.
+Dieser Demo-Guide soll Ihnen den Einstieg in die xmera Omnia Demo und deren Funktionalität erleichtern. Dabei werden für die verschiedenen ISMS Standards (DIN ISO/IEC 27k, CISIS12) unterschiedliche Demos angeboten. Das hat den Vorteil, dass sich Interessenten, die bereits Erfahrungen in einem der Standards haben, leichter orientieren und sich gezielt informieren können.
 
-In der Einleitung werden grundlegende Informationen zur Nutzung der jeweiligen Demo gegeben. 
+In der Einleitung werden grundlegende Informationen zur Nutzung der jeweiligen Demo gegeben. Alle Erläuterungen beziehen sich auf **xmera Omnia 3.6**.
 
 * xref:demo_27k:index.adoc[27k Demo]
 * xref:demo_cisis12:index.adoc[CISIS12 Demo]
