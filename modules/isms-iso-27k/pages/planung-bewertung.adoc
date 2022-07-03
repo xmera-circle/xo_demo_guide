@@ -52,15 +52,15 @@ include::shared:isms-planung-bewertung/audit.adoc[leveloffset=2]
 
 === Anwendbarkeitserklärung
 
-video::massnahmen_soa.mp4[width=950]
+video::anwendbarkeitserklaerung.mp4[width=950]
 
 === Maßnahmen-Synchronisierung
 
-video::massnahmen_synchronisierung.mp4[width=950]
+video::aufgaben_synchronisation.mp4[width=950]
 
 === Graphische Auswertung
 
-video::massnahmen_diagramme.mp4[width=950]
+video::aufgaben_diagramme.mp4[width=950]
 
 === Wiederholende Aufgaben
 
