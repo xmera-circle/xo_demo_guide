@@ -61,3 +61,7 @@ video::massnahmen_synchronisierung.mp4[width=950]
 === Graphische Auswertung
 
 video::massnahmen_diagramme.mp4[width=950]
+
+=== Wiederholende Aufgaben
+
+video::wiederholende_aufgaben.mp4[width=950]
