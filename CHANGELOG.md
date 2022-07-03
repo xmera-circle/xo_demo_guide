@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * description of dashboards as of xmera Omnia 3.5
 * description of periodic tasks as of xmera Omnia 3.6
 * 27k video to find periodic tasks
+* 27k videos to find processes and information objects
 
 ## 0.3.0 - 2022-02-01
 
