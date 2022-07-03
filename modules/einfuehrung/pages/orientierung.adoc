@@ -15,11 +15,15 @@ Hier tragen Sie Ihre Anmeldedaten für die xmera Omnia Demo ein. Mit Klicken auf
 
 == Hauptseite
 
-Auf der Hauptseite werden in der Demo ein Funktionsabbild von xmera Omnia als auch die neusten Mitteilungen aus der Demoanwendung gezeigt.
+Auf der Hauptseite der Demo wird eines der Dashboards angezeigt. Es gibt stets ein System-Dashboard, das für alle Nutzer die selben Inhalte darstellt, aber vom Administrator frei gestaltet werden kann. Neben dem System-Dashboard können beliebig viele weitere Dashboards angelegt werden.
 
-image::einfuehrung_hauptseite.png[]
+Nachfolgend sehen Sie das Dashboard der xref:isms-iso-27k:index.adoc[ISO 27k Demo].
 
-Der linke Bereich der Startseite lässt sich im Adminbereich individuell gestalten und damit an Ihre Anforderungen an eine Startseite anpassen. 
+image::einfuehrung_system_dashboard.png[]
+
+Die in der jeweiligen Demo angelegten Dashboards können Sie über diese Schaltfläche auswählen:
+
+image::einfuehrung_dashboard_selection.png[]
 
 Topmenü:: 
 
@@ -120,7 +124,7 @@ Objektseiten, in denen Listen von Objekten oder Aufgaben gelistet werden, haben 
 +
 image::einfuehrung_abfrage_filter.png[align=left]
 +
-In der Standardeinstellung ist der Filter auf- und die Optionen zugeklappt. Durch Klicken auf den Pfeil neben dem Text können die Elemente auf- oder zugeklappt werden. Der Filter bietet die Möglichkeit nach zahlreichen Attribut-Inhalten zu filtern. Es können Filterelemente hinzugefügt und wieder deaktiviert werden. +
+In der Systemeinstellung ist der Filter auf- und die Optionen zugeklappt. Durch Klicken auf den Pfeil neben dem Text können die Elemente auf- oder zugeklappt werden. Der Filter bietet die Möglichkeit nach zahlreichen Attribut-Inhalten zu filtern. Es können Filterelemente hinzugefügt und wieder deaktiviert werden. +
 +
 Im Bereich der Optionen kann die Darstellung der Liste angepasst werden. +
 +
