@@ -4,6 +4,8 @@
 :imagesdir: ../images/
 :web-xmera: https://xmera.de
 
+include::ROOT:partial$custom-css.adoc[]
+
 == Warum sind Geschäftsprozesse und Informationen zu analysieren?
 
 Ziel der DIN ISO/IEC 27001 ist es, die Informationswerte einer Organisation zu schützen. Dafür müssen zunächst einmal die zu schützenden Informationswerte identifiziert werden. 
@@ -20,6 +22,8 @@ include::shared:geschaeftsprozesse-informationen/informationen.adoc[leveloffset=
 
 === Prozesse
 
+video::prozessobjekt.mp4[width=950]
 
 === Informationen
 
+video::informationsobjekt.mp4[width=950]
