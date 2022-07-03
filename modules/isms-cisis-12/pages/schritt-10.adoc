@@ -20,6 +20,6 @@ Die Umsetzung der Aufgaben ist durch die verantwortlichen Beschäftigten zu begl
 
 include::shared:isms-planung-bewertung/massnahmenmanagement.adoc[leveloffset=2]
 
-include::shared:it-service-management/aufgabenmanagement.adoc[leveloffset=2]
+include::shared:it-servicemanagement/aufgabenmanagement.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?

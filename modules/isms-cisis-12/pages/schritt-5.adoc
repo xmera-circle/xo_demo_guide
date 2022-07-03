@@ -23,9 +23,9 @@ Die Wartungs- und Störungsprozesse können durch das Aufgaben/Ticket-Management
 
 Bei komplexeren Change-/Änderungsprozessen bietet sich das in xmera Omnia integrierte Projektmanagement an.
 
-include::shared:it-service-management/vorfallmanagement.adoc[leveloffset=2]
+include::shared:it-servicemanagement/vorfallmanagement.adoc[leveloffset=2]
 
-include::shared:it-service-management/ticketsystem.adoc[leveloffset=2]
+include::shared:it-servicemanagement/ticketsystem.adoc[leveloffset=2]
 
 include::shared:sonstiges/projekt-management.adoc[leveloffset=2]
 

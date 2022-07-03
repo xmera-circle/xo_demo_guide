@@ -21,11 +21,11 @@ Ein ISMS beinhaltet den Betrieb der Informationssysteme. So fordert die DIN ISO/
 
 == Wie unterstützt xmera Omnia?
 
-include::shared:it-service-management/vorfallmanagement.adoc[leveloffset=2]
+include::shared:it-servicemanagement/vorfallmanagement.adoc[leveloffset=2]
 
-include::shared:it-service-management/aufgabenmanagement.adoc[leveloffset=2]
+include::shared:it-servicemanagement/aufgabenmanagement.adoc[leveloffset=2]
 
-include::shared:it-service-management/ticketsystem.adoc[leveloffset=2]
+include::shared:it-servicemanagement/ticketsystem.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 
