@@ -11,6 +11,10 @@ Neben den für die Umsetzung des CISIS 12 direkt zuzuordnenden Funktionen bietet
 
 == Wie unterstützt xmera Omnia?
 
+=== Wiederkehrende Aufgaben
+
+include::shared:isms-planung-bewertung/wiederkehrende-aufgaben.adoc[leveloffset=2]
+
 include::shared:sonstiges/import-export.adoc[leveloffset=2]
 
 include::shared:sonstiges/rollen-berechtigungen.adoc[leveloffset=2]
