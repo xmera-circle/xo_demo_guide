@@ -1,5 +1,14 @@
 = Maßnahmenzuordnung
 
+Die Maßnahmenzuordnung kann auf drei Wegen erfolgen:
+
+. Manuell
+. Automatisiert
+.. Vorkonfiguration
+.. Synchronisation
+
+In der Demo haben wir die Synchronisation vorbereitet.
+
 Die Zuordnung von umzusetzenden Sicherheitsanforderungen und Maßnahmen zu den betroffenen Objekten erfolgt über eine Synchronisationsfunktion. Dazu werden ihnen vorbereitend die jeweils relevanten Objektklassen (Zielobjekte) zugeordnet. 
 
 In einem weiteren Schritt können Synchronisationsobjekte definiert werden. Um nicht für jedes Objekt eine eigene (zu bearbeitende) Maßnahmenliste zu erzeugen, kann ein Strukturobjekt im Hierarchiebaum gewählt werden, das alle unterlagerten Objekte zusammenfasst.

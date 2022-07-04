@@ -1,4 +1,4 @@
 * xref:einfuehrung:index.adoc[Einführung]
 ** xref:einfuehrung:orientierung.adoc[Orientierung]
-** xref:einfuehrung:demo-gmbh.adoc[Demo GmbH]
+** xref:einfuehrung:demo-gmbh.adoc[demo GmbH]
 ** xref:einfuehrung:besonderheiten.adoc[Besonderheiten]

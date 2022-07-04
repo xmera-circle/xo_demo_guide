@@ -42,9 +42,9 @@ include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
 
 include::shared:isms-planung-bewertung/auswertungsfunktionen.adoc[leveloffset=2]
 
-=== Wiederkehrende Aufgaben
+=== Wiederholende Aufgaben
 
-include::shared:isms-planung-bewertung/wiederkehrende-aufgaben.adoc[leveloffset=2]
+include::shared:isms-planung-bewertung/wiederholende-aufgaben.adoc[leveloffset=2]
 
 include::shared:isms-planung-bewertung/audit.adoc[leveloffset=2]
 
