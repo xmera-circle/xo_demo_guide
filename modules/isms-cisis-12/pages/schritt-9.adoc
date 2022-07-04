@@ -1,5 +1,7 @@
 = Schritt 9 » Soll-Ist-Vergleich
 :doctype: article
+:description: In CISIS 12 Schritt 9 wird der aktuelle Zustand mit dem Zielzustand über einen Soll-Ist Vergleich ermittelt
+:keywords: CISIS 12, ISMS, Soll-Ist Vergleich
 :icons: font
 :web-xmera: https://docs.xmera.de
 

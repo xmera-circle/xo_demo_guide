@@ -1,5 +1,7 @@
 = Schritt 0-3 » CISIS 12 Start
 :doctype: article
+:description: CISIS 12 Schritte 0 bis 3
+:keywords: CISIS 12, Vorbereitungen, ISMS Leitlinie, Beschäftigte sensibilisieren
 :icons: font
 :web-xmera: https://docs.xmera.de
 

@@ -1,5 +1,7 @@
 = Sonstiges
 :doctype: article
+:description: Weitere Funktionen von xmera Omnia im Rahmen des ISMS nach ISO 27k
+:keywords: ISO 27k, ISMS, xmera Omnia
 :icons: font
 :web-xmera: https://docs.xmera.de
 

@@ -1,5 +1,7 @@
 = Schutzbedarfsfeststellung und Vererbung
 :doctype: article
+:description: Die Schutzbedarfsfeststellung im Rahmen des ISMS ist eine erste Analyse, die als Basis für zu planende Sicherheitsmaßnahmen dient
+:keywords: ISMS, ISO 27k, Schutzbedarfsfeststellung, xmera Omnia
 :icons: font
 :web-xmera: https://docs.xmera.de
 

@@ -1,5 +1,7 @@
 = Dokumentenmanagement
 :doctype: article
+:description: Das Dokumentenmanagement ist ein wichtiger Teil im Rahmen des Informationssicherheitsmanagements
+:keywords: ISMS, Dokumentenmanagemen, ISO 27k
 :icons: font
 :web-xmera: https://docs.xmera.de
 

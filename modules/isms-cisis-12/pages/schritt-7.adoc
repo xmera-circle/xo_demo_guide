@@ -1,5 +1,7 @@
 = Schritt 7 » IT-Struktur analysieren
 :doctype: article
+:description: In CISIS 12 Schritt 7 wird die IT-Struktur analysiert
+:keywords: CISIS12, ISMS, IT-Struktur
 :icons: font
 :web-xmera: https://docs.xmera.de
 

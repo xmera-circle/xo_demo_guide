@@ -1,5 +1,7 @@
 = IT-Servicemanagement
 :doctype: article
+:description: Das IT-Servicemanagement ist mit den Prozessen Wartung, Störung, Änderung ebenfalls ein wichtiger Bestandteil eines ISMS
+:keywords: ISMS, ISO 27k, IT-Servicemanagementprozesse
 :icons: font
 :web-xmera: https://docs.xmera.de
 

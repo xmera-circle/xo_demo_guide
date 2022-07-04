@@ -1,5 +1,7 @@
 = Geschäftsprozesse und Informationen
 :doctype: article
+:description: Ausgansbasis für alle weiteren Informationssicherheitsanalysen sind Geschäftsprozesse und die darin verarbeiteten Informationen
+:keywords: ISMS, kritische Geschäftsprozesse, ISO 27k
 :icons: font
 :imagesdir: ../images/
 :web-xmera: https://xmera.de

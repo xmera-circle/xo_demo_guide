@@ -1,5 +1,7 @@
 = Besonderheiten der Demo
 :doctype: article
+:description: Besonderheiten der xmera Omnia Demo Version für den Aufbau und Betrieb eines Informationssicherheitsmanagementsystems
+:keywords: xmera Omnia, ISMS, Demo Version
 :icons: font
 :web-xmera: https://docs.xmera.de
 

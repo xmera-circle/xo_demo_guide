@@ -1,5 +1,7 @@
 = Schritt 12 » Revision
 :doctype: article
+:description: In CISIS 12 Schritt 12 geht es um die jährliche Revision
+:keywords: CISIS 12, ISMS, Revision
 :icons: font
 :web-xmera: https://docs.xmera.de
 
