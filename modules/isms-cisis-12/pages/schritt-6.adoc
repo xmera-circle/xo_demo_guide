@@ -42,8 +42,3 @@ video::informationsobjekt.mp4[width=950]
 === Schutzbedarfanalyse
 
 video::schutzbedarf_schutzbedarfanalyse.mp4[width=950]
-
-=== Schutzbedarfvererbung und Anpassung
-
-video::schutzbedarf_vererbung.mp4[width=950]
-
