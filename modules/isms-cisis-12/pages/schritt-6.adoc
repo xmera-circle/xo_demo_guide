@@ -30,3 +30,20 @@ include::shared:schutzbedarfanalyse/schutzbedarffeststellung.adoc[leveloffset=2]
 Die logischen Strukturen in xmera Omnia bilden die Abhängigkeiten der Objekte untereinander ab. In Schritt 6 können die Informationen mit den verarbeitenden Anwendungen, die benötigte IT-Infrastruktur oder auch mit der Gebäudeinfrastruktur verbunden werden. Nähers dazu in Schritt 7 » IT-Struktur analysieren.
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Prozesse
+
+video::prozessobjekt.mp4[width=950]
+
+=== Informationen
+
+video::informationsobjekt.mp4[width=950]
+
+=== Schutzbedarfanalyse
+
+video::schutzbedarf_schutzbedarfanalyse.mp4[width=950]
+
+=== Schutzbedarfvererbung und Anpassung
+
+video::schutzbedarf_vererbung.mp4[width=950]
+
