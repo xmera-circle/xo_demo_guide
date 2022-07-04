@@ -2,7 +2,7 @@
 
 Developer project of xmera Omnia Demo Guide
 
-![xmera Omnia Demo Guide Version](https://img.shields.io/badge/xmera_Omnia_Demo_Guide-0.3.0-red) ![xmera Omnia Version](https://img.shields.io/badge/xmera_Omnia-v3.4.x-blue) ![Language Support](https://img.shields.io/badge/Languages-de-green) ![Version Stage](https://img.shields.io/badge/Stage-release-important)
+![xmera Omnia Demo Guide Version](https://img.shields.io/badge/xmera_Omnia_Demo_Guide-1.0.0-red) ![xmera Omnia Version](https://img.shields.io/badge/xmera_Omnia-v3.6.x-blue) ![Language Support](https://img.shields.io/badge/Languages-de-green) ![Version Stage](https://img.shields.io/badge/Stage-release-important)
 
 The xmera Omnia Demo Guide is written in asciidoc and convertible into html pages by Antora.
 

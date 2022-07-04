@@ -5,20 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.0.0 - unreleased
+## 1.0.0 - 2022-07-04
 
 ### Changed
 
 * total structure of demo guide
-* 27k videos on page planung-bewertung
+* videos of 27k demo guide to be up to date with xmera Omnia 3.6
 
 ### Added
 
 * cisis 12 demo guide
 * description of dashboards as of xmera Omnia 3.5
 * description of periodic tasks as of xmera Omnia 3.6
-* 27k video to find periodic tasks
-* 27k videos to find processes and information objects
 
 ## 0.3.0 - 2022-02-01
 
