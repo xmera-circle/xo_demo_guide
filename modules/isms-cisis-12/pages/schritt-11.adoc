@@ -18,3 +18,11 @@ Die Audits sind zu dokumentieren mit der Organisation durchzusprechen und Abweic
 include::shared:isms-planung-bewertung/audit.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Auditplanung
+
+video::auditplanung.mp4[width=950]
+
+=== Festellungen
+
+video::audit_feststellungen.mp4[width=950]
