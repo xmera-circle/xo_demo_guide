@@ -42,7 +42,3 @@ video::projektplanung.mp4[width=950]
 === Anwendbarkeitserklärung
 
 video::anwendbarkeitserklaerung.mp4[width=950]
-
-=== Dokumentenmanagement
-
-video::dokumentenmanagement.mp4[width=950]
