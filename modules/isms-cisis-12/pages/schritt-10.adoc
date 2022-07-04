@@ -23,3 +23,15 @@ include::shared:isms-planung-bewertung/massnahmenmanagement.adoc[leveloffset=2]
 include::shared:it-servicemanagement/aufgabenmanagement.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Aufgabenliste
+
+video::aufgaben_liste.mp4[width=950]
+
+=== Aufgabenpakete
+
+video::aufgaben_pakete.mp4[width=950]
+
+=== Aufgaben Dashboard
+
+video::aufgaben_dashboard.mp4[width=950]
