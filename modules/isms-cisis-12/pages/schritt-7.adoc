@@ -28,3 +28,23 @@ include::shared:schutzbedarfanalyse/schutzbedarfanpassung.adoc[leveloffset=2]
 include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Assetregister
+
+video::assetregister_objekthierarchie.mp4[width=950]
+
+### Verantwortlichkeiten zuordnen
+
+video::assetregister_verantwortlichkeiten.mp4[width=950]
+
+### Logische Strukturen abbilden
+
+video::assetregister_objektverknuepfungen.mp4[width=950]
+
+=== Schutzbedarfvererbung
+
+video::schutzbedarf_vererbung.mp4[width=950]
+
+=== Maßnahmenzuordnung
+
+video::aufgaben_synchronisation.mp4[width=950]
