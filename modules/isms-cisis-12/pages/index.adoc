@@ -1,5 +1,7 @@
 = Einführung in die Funktionen zur Unterstützung eines ISMS nach CISIS 12
 :doctype: article
+:description: Einführung in die Funktionen zur Unterstützung eines ISMS nach CISIS 12
+:keywords: ISMS, CISIS 12, Demo
 :icons: font
 :web-xmera: https://docs.xmera.de
 

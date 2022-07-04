@@ -1,5 +1,7 @@
 = Orientierung
 :doctype: article
+:description: Erste Orientierung vor und nach dem Login in xmera Omnia
+:keywords: ISMS, xmera Omnia, Demo
 :icons: font
 :web-xmera: https://docs.xmera.de
 

@@ -1,5 +1,7 @@
 = Schritt 11 » Internes Audit
 :doctype: article
+:description: In CISIS 12 Schritt 11 wird das Thema internes Audit berachtet
+:keywords: ISMS, CISIS 12, Audit
 :icons: font
 :web-xmera: https://docs.xmera.de
 

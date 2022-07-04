@@ -1,5 +1,7 @@
 = ISMS-Manangement
 :doctype: article
+:description: Der Informationssicherheitsbauftragte übernimmt das ISMS-Management und steuert darüber die Informationssicherheit der Organisation
+:keywords: ISMS, ISO 27k, ISMS-Management
 :icons: font
 :web-xmera: https://docs.xmera.de
 

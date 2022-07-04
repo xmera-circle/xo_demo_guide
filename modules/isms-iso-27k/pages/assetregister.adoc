@@ -1,5 +1,7 @@
 = Assetregister
 :doctype: article
+:description: Das Assetregister im Rahmen des ISMS nach ISO 27001
+:keywords: ISMS, Assetregister, ISO 27k
 :icons: font
 :web-xmera: https://docs.xmera.de
 

@@ -1,5 +1,7 @@
 = demo GmbH
 :doctype: article
+:description: Die demo GmbH wurde erfunden, um die Funktionen und Vorteile von xmera Omnia beispielhaft aufzeigen zu können.
+:keywords: ISMS, xmera Omnia, Demo
 :icons: font
 :web-xmera: https://docs.xmera.de
 
