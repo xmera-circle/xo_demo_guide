@@ -1,5 +1,7 @@
 = Einführung in die Funktionen zur Unterstützung eines ISMS nach DIN ISO/IEC 27001
 :doctype: article
+:description: Überblick über den Funktionsumfang von xmera Omnia für ein ISMS basierend auf ISO 27k
+:keywords: ISMS, ISO 27k, Funktionsumfang, xmera Omnia
 :icons: font
 :web-xmera: https://docs.xmera.de
 

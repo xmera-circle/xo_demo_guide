@@ -1,11 +1,11 @@
-= IT-Service Management
+= IT-Servicemanagement
 :doctype: article
 :icons: font
 :web-xmera: https://docs.xmera.de
 
 include::ROOT:partial$custom-css.adoc[]
 
-== Wofür wird das IT-Service-Management benötigt?
+== Wofür wird das IT-Servicemanagement benötigt?
 
 Ein wirksames ISMS nach DIN ISO/IEC 27001 schließt auch das IT-Service Management der Organisation ein. Eine bedeutsame Schnittmenge stellt dabei das Vorfallmanagement dar.
 
@@ -45,6 +45,6 @@ video::aufgaben_liste.mp4[width=950]
 
 video::aufgaben_pakete.mp4[width=950]
 
-=== Dashboard
+=== Aufgaben Dashboard
 
 video::aufgaben_dashboard.mp4[width=950]

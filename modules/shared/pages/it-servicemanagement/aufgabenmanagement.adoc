@@ -8,7 +8,7 @@ Aufgaben können bspw. als Abfolge (Vorgänger, Nachfolger) oder unabhängig gep
 +
 Zu jeder Art von Aufgabe lassen sich Unteraufgaben, Kopien oder Verknüpfungen zu bestehenden Aufgaben erstellen. Somit lassen sich Beziehungen zwischen Aufgaben abbilden.
 
-Wiederkehrende Aufgaben planen Sie mit dem gleichnamigen Modul, das in jedem Objekt aktiviert werden kann.
+Wiederholende Aufgaben planen Sie mit dem gleichnamigen Modul, das in jedem Objekt aktiviert werden kann.
 
 Delegieren:: 
 

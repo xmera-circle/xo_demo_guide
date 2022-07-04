@@ -19,7 +19,7 @@ Bei der Demo sind 3 Punkte zu beachten:
 
 2. Als Benutzer in der Testinstanz haben Sie keine Administratorenrechte. Dadurch bleibt ein großer Bereich, in dem die Software individualisiert werden kann, für Sie verborgen. Beachten Sie daher auch Punkt 3.
 
-3. Die Software xmera Omnia lebt den Anspruch, dass Softwareprozesse flexibel an Unternehmensprozesse angepasst werden können sollten. Die dargestellten Lösungen der fiktiven Demo GmbH zeigen damit *einen* Weg auf, ISMS-Prozesse abzubilden. Wenn ein dargestellter Prozess nicht Ihren Anforderungen genügt, wenden Sie sich gerne an uns. In einem persönlichen Gespräch zeigen wir Ihnen geeignete Individualisierungsmöglichkeiten auf.
+3. Die Software xmera Omnia lebt den Anspruch, dass Softwareprozesse flexibel an Unternehmensprozesse angepasst werden können sollten. Die dargestellten Lösungen der fiktiven demo GmbH zeigen damit *einen* Weg auf, ISMS-Prozesse abzubilden. Wenn ein dargestellter Prozess nicht Ihren Anforderungen genügt, wenden Sie sich gerne an uns. In einem persönlichen Gespräch zeigen wir Ihnen geeignete Individualisierungsmöglichkeiten auf.
 
 == Der xmera Omnia Demo Guide
 

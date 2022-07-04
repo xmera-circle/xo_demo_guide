@@ -45,7 +45,7 @@ video::projekt_meldungen.mp4[width=950]
 
 [NOTE]
 ====
-Die Module des Projektmanagments sind auch in allen anderen Objekten verfügbar und können bei Bedarf aktiviert werden.
+Die Module des Projektmanagements sind auch in allen anderen Objekten verfügbar und können bei Bedarf aktiviert werden.
 
 Dazu gehören zum Beispiel:
 
