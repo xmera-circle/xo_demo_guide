@@ -34,7 +34,7 @@ Mit Hilfe des übergreifenden Aufgabenmanagements werden alle notwendigen IT-Ma�
 
 Dabei stehen in jedem Objekt verschiedene Dokumentationsmodule zur Verfügung, die den Nutzer bei der Dokumentation unterstützen. Dazu gehören
 
-- das Dokumentenmanagementmodul (DMS) (beschrieben in Kapitel "CISIS 12 Start"),
+- das Dokumentenmanagementmodul (DMS) (beschrieben in Kapitel _xref:isms-cisis-12:schritt-0-3.adoc[CISIS 12 Start]_),
 - die Module Dokumente und Dateien und
 - das Wiki.
 
@@ -46,3 +46,11 @@ include::shared:dokumente/wiki.adoc[leveloffset=2]
 
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Dokumentenmanagement
+
+video::dokumentenmanagement.mp4[width=950]
+
+=== Wiki
+
+video::wiki.mp4[width=950]
