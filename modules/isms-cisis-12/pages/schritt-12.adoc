@@ -14,3 +14,7 @@ In Schritt 12 geht es im CISIS 12 um die Revision der vorangegangen 11 Schritte,
 include::shared:cisis12/cisis12_kontrollfragen.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Kontrollfragen
+
+video::kontrollfragen.mp4[width=950]
