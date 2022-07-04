@@ -18,3 +18,15 @@ include::shared:isms-planung-bewertung/dashboard.adoc[leveloffset=2]
 include::shared:isms-planung-bewertung/auswertungsfunktionen.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
+
+=== Dashboard
+
+video::dashboards.mp4[width=950]
+
+=== Tabellenabfragen
+
+video::tabellenabfragen.mp4[width=950]
+
+=== Graphische Auswertung
+
+video::aufgaben_diagramme.mp4[width=950]
