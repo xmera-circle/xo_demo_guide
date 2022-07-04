@@ -1,0 +1,34 @@
+= Auditplanung und -durchführung
+ifeval::["{page-module}" == "isms-cisis-12"]
+:page-periodic-task-link: xref:isms-cisis-12:sonstiges.adoc#_wiederholende_aufgaben[Wiederkehrenden Aufgaben]
+endif::[]
+ifeval::["{page-module}" == "isms-27k"]
+:page-periodic-task-link: xref:isms-27k:planung-bewertung.adoc#_wiederholende_aufgaben[Wiederkehrenden Aufgaben]
+endif::[]
+
+Mit xmera Omnia können Sie auch Audits planen und durchführen. Zu den Hilfsmitteln gehören
+
+- Aufgaben, deren Inhalt um eigene Felder wie z.B. Auditfragen oder Ergebnisse ergänzt werden können,
+- Terminplanungen,
+- Zuordnung von Verantwortlichkeiten,
+
+Folgende Funktionen unterstützen bei der Auditplanung und -durchführung.
+
+Paket / Stapel:: 
+
+Mit der Zuordnung der Aufgaben zu Arbeitspaketen, basierend auf dem Jahresdatum oder dem Zertifizierungszyklus, können die durchzuführenden Audits strukturiert werden.
+
+Verlauf und Kalender:: 
+
+Mit den Funktionen _Kalender_ und _Verlauf_ lassen sich die geplanten und umgesetzten Audits chronologisch darstellen. Über diesen Weg wird die Planung und der aktuelle Auditstatus besonders übersichtlich.
+
+Wiederholende Aufgaben:: 
+
+Mit dem Objektmodul der
+ifeval::["{page-module}" == "isms-cisis-12"]
+xref:isms-cisis-12:sonstiges.adoc#_wiederholende_aufgaben[Wiederkehrenden Aufgaben]
+endif::[]
+ifeval::["{page-module}" == "isms-iso-27k"]
+xref:isms-iso-27k:planung-bewertung.adoc#_wiederholende_aufgaben[Wiederkehrenden Aufgaben]
+endif::[]
+lassen sich im Rahmen der Auditplanung und -durchführung alle Aufgaben, die sich z.B. jährlich wiederholen auf unbestimmte Zeit vorausplanen. Dabei können die Aufgabenvorlagen jederzeit an veränderte Anforderungen angepasst werden.

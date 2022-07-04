@@ -1,0 +1,12 @@
+= Wiki
+
+In jedem Objekt in xmera Omnia kann das Modul _Wiki_ aktiviert werden. Dieses bietet alle typischen Funktionalitäten eines Wiki. Es ermöglicht Informationen und Wissen kollaborativ zu bearbeiten und zu benutzen. Es eignet sich im Umfeld des ISMS, um Handbücher bereitzustellen oder auch Prozess- / Handlungsbeschreibungen zu einem Asset zu dokumentieren.
+
+Diagramme und Flowcharts::
+xmera Omnia integriert Drawio (https://www.diagrams.net/) für das Erstellen von Diagrammen und Flowcharts, die in das Wiki integriert werden können. So erstellen Sie leicht verständliche Prozessablaufpläne, bspw. im Rahmen des Notfallmanagements. Auch Netzpläne sind mit Hilfe der zahlreichen Bibliotheken zügig erstellt.
+
+Interne Links / Makros:: 
+Mit Hilfe von internen Verlinkungen und Makros lassen sich Inhalte aus anderen Modulen wie z.B. Dokumente, Aufgaben oder Wikiseiten aus anderen Objekten in einem Wiki übersichtlich zusammenfassen. 
+
+Historie:: 
+Die Historie zeigt alle Änderungen, die im Wiki durchgeführt wurden, inkl. dem Bearbeiter und Zeitpunkt. In Kombination mit dem Berechtigungssystem, in dem die Rechte zur Bearbeitung definiert werden können, ist die Dokumentation revisionierbar.

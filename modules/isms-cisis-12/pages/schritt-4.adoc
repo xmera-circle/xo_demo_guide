@@ -1,0 +1,58 @@
+= Schritt 4 » IT-Doku-Struktur festlegen
+:doctype: article
+:description: In CISIS 12 Schritt 4 wird die IT-Doku-Struktur festgelegt
+:keywords: CISIS 12, IT-Dokumentation, ISMS
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 4 umzusetzen?
+
+Die Dokumentation der Organisation, Prozesse, Regelungen und Systeme der Informationsverarbeitung steht im Mittelpunkt des Schritt 4 im CISIS 12.
+
+Ziel dieser Dokumentation ist, dass ein fachkundiger Dritter in die Lage versetzt wird, den IT-Betrieb fortzuführen.
+
+Zentraler Bestandteil der Dokumentation sind
+
+- Prozesse und Richtlinien zur Sicherstellung der IT-Sicherheit und des ISMS,
+- die Dokumentation aller Maßnahmen aus Risikoanalyse, Audits, Vorfallanalysen und Revisionen,
+- das Betriebshandbuch mit Prozesssteckbriefen, Netzplänen, IT-Servicehandbuch und Systemakten,
+- das Notfallhandbuch.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia unterstützt den Nutzer bei der Dokumentation und Arbeitsorganisation und sorgt dabei für Struktur und Ordnung. 
+
+Objekte werden mit Hilfe von Objektklassen, die wie eine Vorlage funktionieren, in eine für die Organisation geeignete Objekthierarchie eingegliedert. Dabei kann die Struktur nach beliebigen Kriterien aufgebaut werden. 
+
+Zu den wichtigsten Objekten gehören 
+
+- das ISMS-Projekt, in dem sich der Informationssicherheitsbeauftragte organisiert und das ISMS steuert,
+- die Prozesse und Informationen, die der Ausgangspunkt für alle folgenden Maßnahmen sind und es ermöglichen Prozesse zu beschreiben sowie ihren Schutzbedarf zu bestimmen,
+- die IT-Asset Objekte, die mit der hinterlegten Dokumentation die Systemsteckbriefe darstellen und alles für den Systembetrieb abbilden können.
+
+Mit Hilfe des übergreifenden Aufgabenmanagements werden alle notwendigen IT-Maßnahmen gesteuert und überwacht.
+
+Dabei stehen in jedem Objekt verschiedene Dokumentationsmodule zur Verfügung, die den Nutzer bei der Dokumentation unterstützen. Dazu gehören
+
+- das Dokumentenmanagementmodul (DMS) (beschrieben in Kapitel _xref:isms-cisis-12:schritt-0-3.adoc[CISIS 12 Start]_),
+- die Module Dokumente und Dateien und
+- das Wiki.
+
+Diese werden im Folgenden beschrieben:
+
+include::shared:dokumente/dateien_u_dokumente.adoc[leveloffset=2]
+
+include::shared:dokumente/wiki.adoc[leveloffset=2]
+
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Dokumentenmanagement
+
+video::dokumentenmanagement.mp4[width=950]
+
+=== Wiki
+
+video::wiki.mp4[width=950]

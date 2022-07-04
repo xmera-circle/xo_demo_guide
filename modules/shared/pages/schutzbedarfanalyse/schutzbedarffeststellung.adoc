@@ -1,0 +1,5 @@
+= Schutzbedarfsfeststellung
+
+Die Schutzbedarfsfeststellung in xmera Omnia ermöglicht die Beurteilung des Schutzbedarfs anhand eines Fragenkatalogs. Dieser Fragenkatalog kann individuell angepasst werden.
+
+Somit lässt sich zum Beispiel direkt durch die Prozesseigner der Schutzbedarf für die von ihnen benötigten Informationen ermitteln. Aufwendige Interviews entfallen.

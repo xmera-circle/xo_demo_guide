@@ -1,0 +1,29 @@
+= Aufgabenmanagement
+
+xmera Omnia bietet mit im Rahmen des Aufgabenmanagements die Möglichkeit aus den Maßnahmen der Sicherheitsanforderungen, der Risikobewertung, der Vorfallanalyse oder den Audits betrieblich umzusetzende Aufgaben zu erstellen und zu überwachen. 
+
+Planen:: 
+
+Aufgaben können bspw. als Abfolge (Vorgänger, Nachfolger) oder unabhängig geplant werden. Sie können zu Arbeitspaketen zusammengefasst werden, um so die Umsetzung einzelner Meilensteine besser beobachten und steuern zu können. +
++
+Zu jeder Art von Aufgabe lassen sich Unteraufgaben, Kopien oder Verknüpfungen zu bestehenden Aufgaben erstellen. Somit lassen sich Beziehungen zwischen Aufgaben abbilden.
+
+Wiederholende Aufgaben planen Sie mit dem gleichnamigen Modul, das in jedem Objekt aktiviert werden kann.
+
+Delegieren:: 
+
+Aufgaben können Mitarbeitern oder auch Gruppen zugeordnet werden. Jeder Mitarbeiter kann sich im Dashboard "seine Aufgaben" anzeigen lassen und erhält damit eine Übersicht auf seine offenen Arbeiten.
+
+NOTE: Im Benutzerprofil hat jeder Mitarbeiter die Möglichkeit eine Option für die automatische E-Mailbenachrichtigung zu wählen, um über Änderungen im System benachrichtigt zu werden.
+
+Überwachen::
+
+In jeder Aufgabe kann der
+
+- Status und
+- der Umsetzungsgrad
+
++
+dargestellt werden. +
+ +
+Diese Werte werden auch an die untergeordneten Aufgaben übertragen. Ein Status einer (Eltern-)Aufgabe kann wiederum vom Status der unterlagerten Aufgaben abhängig gemacht werden.

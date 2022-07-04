@@ -1,0 +1,46 @@
+= Schritt 6 » Compliance, Prozesse und Anwendungen
+:doctype: article
+:description: In CISIS 12 Schritt 6 werden Compliance, Prozesse und Anwendungen analysiert
+:keywords: CISIS 12, ISMS, kritische Prozesse
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 6 umzusetzen?
+
+Der Schritt 6 umfasst die Darstellung der Organisationsprozesse und die Analyse
+
+- der einzuhaltenden Gesetze und Richtlinien (Compliance),
+- der Prozessverfügbarkeit (Business Impact Analyse (BIA)),
+- der Informationen in Bezug auf die Sicherheitsziele (Schutzbedarfsfeststellung (SBF)).
+
+Den kritischen Prozessen sind dann die notwendigen Anwendungen, IT-Assets und Infrastrukturen zuzuordnen.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia bietet die Funktionalität zur Abbildung der in Schritt 6 geforderten Geschäftsprozessanalyse. Dabei können die Geschäftsprozesse und die zugehörigen Informationen abgebildet werden, um auf dieser Basis die Schutzbedarfsfeststellung durchzuführen.
+
+include::shared:geschaeftsprozesse-informationen/geschaeftsprozesse.adoc[leveloffset=2]
+
+include::shared:geschaeftsprozesse-informationen/informationen.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarffeststellung.adoc[leveloffset=2]
+
+=== Logische Strukturen
+
+Die logischen Strukturen in xmera Omnia bilden die Abhängigkeiten der Objekte untereinander ab. In Schritt 6 können die Informationen mit den verarbeitenden Anwendungen, die benötigte IT-Infrastruktur oder auch mit der Gebäudeinfrastruktur verbunden werden. Nähers dazu in Schritt 7 » IT-Struktur analysieren.
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Prozesse
+
+video::prozessobjekt.mp4[width=950]
+
+=== Informationen
+
+video::informationsobjekt.mp4[width=950]
+
+=== Schutzbedarfanalyse
+
+video::schutzbedarf_schutzbedarfanalyse.mp4[width=950]

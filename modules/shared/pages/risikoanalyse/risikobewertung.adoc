@@ -1,0 +1,15 @@
+= Risikobewertung
+
+Die Risikobewertung erfolgt auf Basis von zugeordneten Gefährdungen. Durch Festlegung der Eintrittswahrscheinlichkeit und der Schadensklasse wird über die Risikoakzeptanzmatrix ein resultierendes Risiko ermittelt. 
+
+Risikoakzeptanzmatrix:: 
+
+Für die Ermittlung des Risikoniveaus wird in xmera Omnia eine individuell konfigurierbare Risikoakzeptanzmatrix bereitgestellt, in der für jede Kombination aus Eintrittshäufigkeit und Schadensklasse ein Risikoniveau zugeordnet werden kann. In der Demo wird hierfür eine 4 x 4 Matrix verwendet, woraus sich 16 Kombinationen ergeben.
+
+NOTE: Da die Konfiguration der Risikoakzeptanzmatrix im Administrationsbereich vorgenommen werden muss, ist eine Anpassung im Rahmen der Demo nicht möglich.
+
+Risikobehandlung:: 
+
+Die gewählte Risikobehandlungsoption und das sich daraus ergebende neue Risikoniveau lassen sich ebenfalls in der Risikobeurteilung abbilden. +
++
+Wird eine Maßnahme erforderlich, kann diese direkt erstellt und mit der Risikobeurteilung verknüpft werden.

@@ -1,0 +1,10 @@
+= CISIS 12 Projekt
+
+Das Einführungsprojekt ist mit Hilfe der Projektmanagement-Funktionen im Bereich Management » ISMS » Implementierung ISMS abgebildet. Jeder CISIS 12 Schritt ist geplant, beschrieben und terminiert. Den einzelnen Schritten können weitere Aufgaben zugeordnet werden. Die Funktionen
+
+- Aufgabenmanagement
+- Dokumentenmanagement
+- Verlauf
+- Paket und Stapel
+
+unterstützen bei der Durchführung und Überwachung des Projekts.

@@ -1,0 +1,21 @@
+= Auswertungsfunktionen 
+
+Für die Auswertung von Aufgaben, wie bspw.
+
+- Maßnahmen,
+- Vorfälle und Störungen,
+- Risikobeurteilungen
+
+bietet xmera Omnia durch Abfragen, Berichte, Diagramme und Exportschnittstellen mehrere Möglichkeiten.
+
+Tabellenabfragen::
+
+Ein Anwender kann für Objekte und Aufgaben individuelle Abfragen erstellen. Dafür wählt er die entsprechenden Filter und stellt sich Ergebnistabellen mit den benötigten Attributen als Tabellenspalten und sortierten oder gruppierten Daten zusammen. 
+
+Diese Abfragen können gespeichert, und für die weitere Verarbeitung als PDF oder csv-Datei exportiert, werden.
+
+Berichte / Zusammenfassung:: 
+
+In den Aufgabenlisten der Objekte können über die Funktion _Zusammenfassung_ Berichte aufgerufen werden, die in Form von Graphiken und Tabellen verschiedene Informationen darstellen. 
+
+Die graphischen Auswertungen lassen sich auch im Dashboard anzeigen.

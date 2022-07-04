@@ -1,0 +1,11 @@
+Im Rahmen des Informationssicherheitsmanagementsystems (ISMS) gibt es in vielen Bereichen wiederkehrende Aufgaben. Typische Aktivitäten zum Aufbau und Betrieb eines ISMS sind beispielsweise:
+
+- Monatliche Besprechung und Abstimmung im ISMS-Team
+- Jährliche Überprüfung, Aktualisierung und Fortschreibung der Informationssicherheitsleitlinie
+- Vierteljährliche Überprüfung der Zutrittsrechte
+- Jährliche [Auditplanung]
+- uvm.
+
+Mit xmera Omnia können Sie beliebig viele Aufgaben mit individuellen Wiederholungszyklen planen. Zudem können Sie jede wiederkehrende Aufgabe einer Person zuordnen, einen Fertigstellungstermin und die Bearbeitungsdauer planen.
+
+Da die Funktion der _Wiederholende Aufgaben_ als Objektmodul konzipiert ist, können Sie sie in jedem beliebigen Objekt aktivieren. Dadurch lassen sich _Wiederholende Aufgaben_ auch gut im [IT-Servicemanagement] einsetzen.

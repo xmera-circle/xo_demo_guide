@@ -1,0 +1,38 @@
+= Projektmanagement
+
+xmera Omnia basiert im Kern auf einem Projektmanagementsystem. Der Funktionsumfang reicht von der Aufgabenplanung über Abbildung von Abhängigkeiten bis hin zu Kollaborationsfunktionen, die die Zusammenarbeit im Projekt unterstützen.
+
+Aufgabenplanung:: 
+
+Die Abwicklung von Projekten wird zu einem Großteil durch die Strukturierung und Zuweisung von Aufgaben umgesetzt. Diesen Aufgaben können Zeiten und Mitarbeiter, Verantwortliche aber auch Umsetzungsaufwand zugeordnet werden. Mit der Abbildung von Status und Umsetzungsgrad, ist ein effektives Projektmanagement möglich. +
+ +
+Zur Strukturierung können auch Aufgabepakete angelegt werden, die Aufgaben zusammenfassen und damit das Projektcontrolling vereinfachen. +
+ +
+Durch die Dokumentenverwaltung lassen sich Projektdokumente zentral verwalten und können komfortabel allen Beteiligten bereit gestellt werden.
+
+[NOTE]
+Durch die Integration der betrieblichen Projekte in xmera Omnia ist die Forderung aus dem ISMS, den ISB stets einzubinden, leicht umgesetzt.
+
+
+Terminplanung / Projektverlauf:: 
+
+Durch die Verknüpfung von Aufgaben als _Vorgänger von_ bzw. _Nachfolger von_ lassen sich  Abläufe abbilden. Somit werden abhängige Aufgaben bei Verschiebung des Vorgängers ebenfalls verschoben. +
++
+Die Beziehungen zwischen +
+
+- Projekten und Unterprojekten, 
+- Paketen,
+- Aufgaben und Unteraufgaben und die
+- Abhängigkeiten von Aufgaben
+
++
+lassen sich mit Status und Umsetzungsgrad im Verlauf (Gantt-Diagramm) abbilden.
+
+Zusammenarbeit / Kollaboration:: 
+
+Der Informationsaustausch zwischen den Beteiligten ist ein wichtiger Aspekt. xmera Omnia bietet in diesem Zusammenhang einige Funktionen, die diesen Informations-/Wissenstransfer unterstützen:
+
+- Das Journal zeigt an, wo sich in letzter Zeit etwas im Projekt verändert hat.
+- Über Meldungen lassen sich Informationen im Projektteam verteilen.
+- Über Foren lassen sich Diskussionsrunden abbilden.
+- Über das Wiki kann Projektwissen dokumentiert und weitergeben werden.

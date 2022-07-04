@@ -1,0 +1,48 @@
+= Dokumentenmanagement
+:doctype: article
+:description: Das Dokumentenmanagement ist ein wichtiger Teil im Rahmen des Informationssicherheitsmanagements
+:keywords: ISMS, Dokumentenmanagemen, ISO 27k
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird das Dokumentenmanagement benötigt?
+
+Die Dokumentation von Prozessen, Richtlinien, Handlungs- und Betriebsanweisungen aber auch von Handbüchern und weiteren relevanten Informationen sowie die Informationsverarbeitung ist zentraler Bestandteil eines ISMS. In der DIN ISO/IEC 27001 wird die Lenkung dokumentierter Informationen gefordert. Hier wird insbesondere
+
+- die Verfügbarkeit und Verwendbarkeit für die Nutzer,
+- die Steuerung des Zugriffs, 
+- der Schutz vor nicht autorisierten Änderungen,  
+- die Nachverfolgbarkeit von Änderungen aber auch
+- die Abbildung notwendiger Dokumente aus externen Quellen
+
+gefordert.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:dokumente/dms.adoc[leveloffset=2]
+
+include::shared:dokumente/dateien_u_dokumente.adoc[leveloffset=2]
+
+include::shared:dokumente/wiki.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== DMS Zugriffssteuerung
+
+video::dms_zugriffssteuerung.mp4[width=950]
+
+TIP: Schauen Sie doch mal unter A Management -> ISMS -> Aufgaben -> 1 | Anwendbarkeitserklärung -> A.05 Informationssicherheitsrichtlinien -> A.05.1.1 Informationssicherheitsrichtlinien nach. Dort finden Sie ein verknüpftes Dokument aus dem DMS.
+
+=== DMS Versionierung
+
+video::dms_versionierung.mp4[width=950]
+
+=== DMS Genehmigungsworkflow
+
+video::dms_genehmigungsworkflow.mp4[width=950]
+
+=== Wiki
+
+video::wiki.mp4[width=950]

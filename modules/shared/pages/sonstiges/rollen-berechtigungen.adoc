@@ -1,0 +1,16 @@
+= Rollen und Berechtigungen
+
+Berechtigungen werden in xmera Omnia auf Ebene der Objekte verwaltet. Zugriff auf ein Objekt erhalten nur jene Benutzer, die dem Objekt zugeordnet wurden. Die Zuordnung wird in der Objektkonfiguration vorgenommen. Dabei wird für einem Benutzer oder eine Gruppe eine passende Rolle gewählt.
+
+[NOTE]
+Es gibt auch die Möglichkeit, ein Objekt _öffentlich_ zu machen. Damit kann jeder angemeldete Benutzer im System automatisch auf dieses Objekt zugreifen.
+
+Die Benutzer, Gruppen und Rollen werden in der Administration gepflegt.
+
+[NOTE]
+Es besteht die Möglichkeit der LDAP-Kopplung.
+
+Somit kann zentral festgelegt werden, welche Benutzer Zutritt zum System haben sollen. Der Objektverantwortliche legt dann fest, welche Benutzer mit welchen Rechten als Mitglied auf ein Objekt zugreifen können.
+
+[NOTE]
+Zur Vereinfachung der Mitgliederverwaltung können die Mitglieder vom übergeordneten Objekt geerbt werden.

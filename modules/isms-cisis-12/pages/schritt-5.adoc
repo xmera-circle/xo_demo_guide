@@ -1,0 +1,54 @@
+= Schritt 5 » IT-Servicemanagementprozesse
+:doctype: article
+:description: In CISIS 12 Schritt 5 geht es um das IT-Servicemanagement
+:keywords: CISIS 12, ISMS, IT-Servicemanagement
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 5 umzusetzen?
+
+Die IT-Servicemanagementprozesse beschreiben die Gesamtheit der Maßnahmen, die für den sicheren Betrieb der IT benötigt werden. Das beinhaltet
+
+- die Wartungprozesse,
+- die Störungsprozesse und
+- die Änderungsprozesse.
+
+Das Management ist an die Größe der Organisation anzupassen. In diesem Zusammenhang ist auch das Lieferantenmanagement, insbesondere im Zusammenhang mit dem Outsourcing von ID-Diensten, zu betrachten.
+
+== Wie unterstützt xmera Omnia?
+
+xmera Omnia unterstützt das IT-Servicemanagement in vielfältiger Weise. 
+
+Die Wartungs- und Störungsprozesse können durch das Aufgaben/Ticket-Management gesteuert werden.
+
+Bei komplexeren Change-/Änderungsprozessen bietet sich das in xmera Omnia integrierte Projektmanagement an.
+
+include::shared:it-servicemanagement/vorfallmanagement.adoc[leveloffset=2]
+
+include::shared:it-servicemanagement/ticketsystem.adoc[leveloffset=2]
+
+include::shared:sonstiges/projekt-management.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Erfassung von Vorfällen
+
+video::vorfall_erfassung.mp4[width=950]
+
+=== Analyse von Vorfällen
+
+video::vorfall_analyse.mp4[width=950]
+
+=== Aufgabenliste
+
+video::aufgaben_liste.mp4[width=950]
+
+=== Aufgabenpakete
+
+video::aufgaben_pakete.mp4[width=950]
+
+=== Aufgaben Dashboard
+
+video::aufgaben_dashboard.mp4[width=950]

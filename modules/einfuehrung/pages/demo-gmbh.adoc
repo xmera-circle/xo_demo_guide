@@ -1,0 +1,69 @@
+= demo GmbH
+:doctype: article
+:description: Die demo GmbH wurde erfunden, um die Funktionen und Vorteile von xmera Omnia beispielhaft aufzeigen zu können.
+:keywords: ISMS, xmera Omnia, Demo
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+Um an einem Beispiel die Vorteile von xmera Omnia zeigen zu können, wurde die demo GmbH erfunden. Die demo GmbH ist nur so weit erdacht, dass alle Prozesse eines ISMS dargestellt werden können.
+
+== Geschäftszweck
+
+Die demo GmbH bietet den Kunden IT-Dienstleistungen an. In diesem Zusammenhang wird auch Software programmiert und für Tests und Migrationsprojekte Daten der Kunden verarbeitet.
+
+== Mitarbeiter
+
+Die demo GmbH hat eine Geschäftsführerin und 6 MitarbeiterInnen in den Bereichen 
+
+- Geschäftsführung,
+- Verwaltung,
+- Projektmanagement,
+- Marketing und Vertrieb und
+- IT-Betrieb.
+
+In der folgenden Tabelle sind die Mitarbeiter und ihre Zuordnung gelistet.
+
+|===
+| Mitarbeiter |	Funktion | Bereich
+
+| Sina Frohwinkel | Geschäftsführerin | Geschäftsführung
+| Christian Malz | Mitarbeiter | Verwaltung
+| Liu Wang | Projektleiterin | Projektmanagement
+| Kevin Bramsch | Mitarbeiter | Projektmanagement
+| Ayse Deniz | Mitarbeiterin | Marketing und Vertrieb
+| Dennis Müller | Mitarbeiter | IT-Betrieb
+| Christine Miller | Mitarbeiterin | IT-Betrieb
+|===
+
+Um die Prozesse um das Informationssicherheitsmanagement und das Datenschutzmanagement umzusetzen, hat man sowohl einen externen ISB als auch einen externen DSB beauftragt.
+
+|===
+| Mitarbeiter |	Funktion 
+
+| Markus Schneider | Externer Informationssicherheitsbeauftragter (ISB) 
+| Kerstin Neumann | Externe Datenschutzbauftragte (DSB)  
+|===
+
+== Prozesse
+
+In der demo GmbH werden im ISMS die Prozesse
+
+- Abrechnung,
+- Angebotserstellung,
+- Personalmanagement,
+- Projektdurchführung und
+- Projektgewinnung
+
+betrachtet.
+
+== Netzstrukturplan
+
+Um in der xmera Omnia Demo auch ein IT-Assetregister darstellen zu können, wurde auch eine fiktive IT-Struktur erdacht. Die Struktur ist im folgenden Netzstrukturplan abgebildet.
+
+image::einfuehrung_demo-gmbh_netzstruktur.png[Netzstrukturplan,600,800,align=left]
+
+Die Netzstruktur zeigt eine hybride IT-Umgebung aus einer eigenen IT für Entwicklung und Verwaltung und die Nutzung von Cloud-Diensten.
+
+Die demo GmbH hat einen Standort. Die MitarbeiterInnen können aber auch aus dem Home-Office arbeiten.

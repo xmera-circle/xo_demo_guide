@@ -1,0 +1,38 @@
+= Schutzbedarfsfeststellung und Vererbung
+:doctype: article
+:description: Die Schutzbedarfsfeststellung im Rahmen des ISMS ist eine erste Analyse, die als Basis für zu planende Sicherheitsmaßnahmen dient
+:keywords: ISMS, ISO 27k, Schutzbedarfsfeststellung, xmera Omnia
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird die Schutzbedarfsfeststellung benötigt?
+
+Ein wesentliches Element eines ISMS ist die Schutzbedarfsfeststellung. Sie dient zur Identifizierung von Unternehmenswerten, die besonders geschützt werden müssen, weil sie kritisch (existenziell) für den Fortbestand der Organisation sind. Diese Informationssicherheitsbeurteilung beinhaltet eine erste grobe Einschätzung wie sich verschiedene Informationssicherheitsereignisse in Bezug auf die Schutzziele 
+
+* Vertraulichkeit, 
+* Integrität und
+* Verfügbarkeit
+
+auf die Organisation auswirken würden, wenn sie eintreten.
+
+NOTE: Je nach Branche oder Sicherheitsstandard können/müssen weitere Schutzziele wie bspw. _Authentizität_ oder _Nichtabstreitbarkeit_ in die Beurteilung einbezogen werden.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:schutzbedarfanalyse/schutzbedarffeststellung.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfvererbung.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfanpassung.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Schutzbedarfanalyse
+
+video::schutzbedarf_schutzbedarfanalyse.mp4[width=950]
+
+=== Schutzbedarfvererbung und Anpassung
+
+video::schutzbedarf_vererbung.mp4[width=950]

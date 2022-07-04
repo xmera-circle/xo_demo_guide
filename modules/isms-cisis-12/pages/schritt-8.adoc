@@ -1,0 +1,36 @@
+= Schritt 8 » Risikomanagement
+:doctype: article
+:description: In CISIS 12 Schritt 8 werden von besonders kritischen Assets Sicherheitsrisiken ermittelt
+:keywords: CISIS 12, ISMS, Risikomanagement
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 8 umzusetzen?
+
+In Schritt 8 steht das Risikomanagement im Mittelpunkt. Hierzu sind Regelungen zum Umgang mit Risiken, zur Risikobewertung, Risikobehandlung sowie Überwachung und Neubewertung notwendig, die in einer Richtlinie zusammengefasst werden.
+
+Basierend auf dieser Richtlinie sind dann die Risikoermittlung, Risikobehandlung (Risikobehandlungsplan) und die Überwachung durchzuführen.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:risikoanalyse/gefaehrdungskatalog.adoc[leveloffset=2]
+
+include::shared:risikoanalyse/risikobewertung.adoc[leveloffset=2]
+
+include::shared:risikoanalyse/risikobehandlungsplan.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Gefährdungskatalog
+
+video::risiko_gefaehrdungskatalog.mp4[width=950]
+
+=== Risikobewertungen
+
+video::risiko_bewertungen.mp4[width=950]
+
+=== Risikobehandlungsplan
+
+video::risiko_behandlungsplan.mp4[width=950]

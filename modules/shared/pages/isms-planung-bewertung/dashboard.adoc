@@ -1,0 +1,13 @@
+= Dashboard
+
+Das Dashboard in xmera Omnia hilft dem Anwender die wichtigsten Kennzahlen überwachen zu können. Es können unterschiedliche Themen-Dashboards angelegt werden. Hierzu stehen verschiedene Informationsblöcke zur Verfügung, die auf dem Dashboard flexibel plaziert werden können.
+
+[TIP]
+Die Auswahl an Informationsblöcken wird mit den nächsten Versionen von xmera Omnia erweitert werden. Dashboards bieten damit in Zukunft eine noch stärkere Individualisierung.
+
+In der Demo stehen dem Tester zur Veranschaulichung 
+
+- das Welcome Dashboard und
+- das ISB Dashboard
+
+zur Verfügung.

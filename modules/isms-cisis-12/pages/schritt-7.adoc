@@ -1,0 +1,52 @@
+= Schritt 7 » IT-Struktur analysieren
+:doctype: article
+:description: In CISIS 12 Schritt 7 wird die IT-Struktur analysiert
+:keywords: CISIS12, ISMS, IT-Struktur
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Was ist in Schritt 7 umzusetzen?
+
+Im Schritt 7 ist die IT-Struktur zu analysieren. Diese Struktur soll die Verantwortlichkeiten (Asset-Owner) abbilden, die Basis für das Betriebshandbuch sein und einen fachkundigen Dritten eine Aufrechterhaltung des IT-Betriebs ermöglichen.
+
+Weiter muss der Schutzbedarf aus der in Schritt 6 durchgeführten Schutzbedarfsfeststellung für kritische Prozesse und Informationen auf die IT-Assets vererbt werden.
+
+Als dritte Aufgabe sind die Maßnahmen gemäß CISIS 12 Katalog den Assets zuzuordnen.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:assetregister/assetverwaltung.adoc[leveloffset=2]
+
+include::shared:assetregister/verantwortlichkeiten.adoc[leveloffset=2]
+
+include::shared:assetregister/logische_strukturen.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfvererbung.adoc[leveloffset=2]
+
+include::shared:schutzbedarfanalyse/schutzbedarfanpassung.adoc[leveloffset=2]
+
+include::shared:isms-planung-bewertung/massnahmenzuordnung.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Assetregister
+
+video::assetregister_objekthierarchie.mp4[width=950]
+
+### Verantwortlichkeiten zuordnen
+
+video::assetregister_verantwortlichkeiten.mp4[width=950]
+
+### Logische Strukturen abbilden
+
+video::assetregister_objektverknuepfungen.mp4[width=950]
+
+=== Schutzbedarfvererbung
+
+video::schutzbedarf_vererbung.mp4[width=950]
+
+=== Maßnahmenzuordnung
+
+video::aufgaben_synchronisation.mp4[width=950]

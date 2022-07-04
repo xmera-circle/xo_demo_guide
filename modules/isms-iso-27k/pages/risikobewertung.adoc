@@ -1,0 +1,39 @@
+= Risikobewertung
+:doctype: article
+:description: Ziel des ISMS ist die Gefahren und Schwachstellen zu kennen und geeignete Sicherheitsmaßnahmen zur Zielereichung einzuführen
+:keywords: ISMS, ISO 27k, Risikomanagement, xmera Omnia
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird die Risikobewertung benötigt?
+
+Ein weiteres zentrales Element eines ISMS ist die Risikobeurteilung. Hat ein Asset einen Schutzbedarf, der eine weitergehende Analyse erfordert (zumeist _Hoch_ oder _Sehr Hoch_), so ist eine Risikobewertung durchzuführen. 
+
+Gegenstand der Bewertung sind die Einschätzung der Eintrittswahrscheinlichkeit und der Schadenhöhe für ein sicherheitsrelevantes Ereignis. Der berechnete Wert ist das aktuelle Risiko für das vorliegende Ereignis. 
+
+Dieses Risiko wird dem Risikoappetit der Organisation gegenüber gestellt. Anhand der Risikoakzeptanzmatrix wird über die Risikobehandlung des zugrunde liegenden Ereignisses entschieden. Die sich daraus ergebenden Maßnahmen sind zu definieren und zu priorisieren.
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:risikoanalyse/gefaehrdungskatalog.adoc[leveloffset=2]
+
+include::shared:risikoanalyse/risikobewertung.adoc[leveloffset=2]
+
+include::shared:risikoanalyse/risikobehandlungsplan.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+=== Gefährdungskatalog
+
+video::risiko_gefaehrdungskatalog.mp4[width=950]
+
+=== Risikobewertungen
+
+video::risiko_bewertungen.mp4[width=950]
+
+=== Risikobehandlungsplan
+
+video::risiko_behandlungsplan.mp4[width=950]
+

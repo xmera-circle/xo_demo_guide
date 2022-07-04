@@ -1,8 +1,6 @@
-name: xo-quick-guide
+name: xmera-omnia-demo-guide
 title: xmera Omnia Demo Guide
-version: 1.0
+version: '3.6'
 start_page: einfuehrung:index.adoc
 nav:
-- modules/einfuehrung/nav.adoc
-- modules/demo_27k/nav.adoc
-
+- modules/ROOT/partials/nav.adoc

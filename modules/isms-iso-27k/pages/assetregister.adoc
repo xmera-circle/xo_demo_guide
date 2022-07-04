@@ -1,0 +1,47 @@
+= Assetregister
+:doctype: article
+:description: Das Assetregister im Rahmen des ISMS nach ISO 27001
+:keywords: ISMS, Assetregister, ISO 27k
+:icons: font
+:web-xmera: https://docs.xmera.de
+
+include::ROOT:partial$custom-css.adoc[]
+
+== Wofür wird das Assetregister benötigt?
+
+Die DIN ISO/IEC 27001 fordert die Verwaltung der Werte (Assets) der Organisation. Dabei sind die Geschäftsprozesse und Informationen (primäre Assets) sowie die informationsverarbeitenden Einrichtungen (sekundäre Assets), die im Zusammenhang mit den Informationen stehen, zu inventarisieren.
+
+Zu den sekundären Assets gehören zum Beispiel:
+
+* Software, 
+* Hardware, 
+* Kommunikationssysteme,
+* Infrastruktur. 
+
+== Wie unterstützt xmera Omnia?
+
+include::shared:assetregister/assetverwaltung.adoc[leveloffset=2]
+
+include::shared:assetregister/logische_strukturen.adoc[leveloffset=2]
+
+include::shared:assetregister/verantwortlichkeiten.adoc[leveloffset=2]
+
+== Wo finde ich Beispiele in der Demo?
+
+pass:[<span class="distance-25"></span>]
+
+TIP: Das Assetregister ist von jeder Seite aus über das Top-Menü unter dem Menüelement *Objekte* erreichbar.
+
+pass:[<span class="distance-25"></span>]
+
+### Verwaltung von Assets
+
+video::assetregister_objekthierarchie.mp4[width=950]
+
+### Logische Strukturen abbilden
+
+video::assetregister_objektverknuepfungen.mp4[width=950]
+
+### Verantwortlichkeiten zuordnen
+
+video::assetregister_verantwortlichkeiten.mp4[width=950]
