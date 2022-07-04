@@ -27,16 +27,20 @@ include::shared:dokumente/wiki.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 
-=== Zugriffssteuerung
+=== DMS Zugriffssteuerung
 
 video::dms_zugriffssteuerung.mp4[width=950]
 
 TIP: Schauen Sie doch mal unter A Management -> ISMS -> Aufgaben -> 1 | Anwendbarkeitserklärung -> A.05 Informationssicherheitsrichtlinien -> A.05.1.1 Informationssicherheitsrichtlinien nach. Dort finden Sie ein verknüpftes Dokument aus dem DMS.
 
-=== Versionierung
+=== DMS Versionierung
 
 video::dms_versionierung.mp4[width=950]
 
-=== Genehmigungsworkflow
+=== DMS Genehmigungsworkflow
 
 video::dms_genehmigungsworkflow.mp4[width=950]
+
+=== Wiki
+
+video::wiki.mp4[width=950]
