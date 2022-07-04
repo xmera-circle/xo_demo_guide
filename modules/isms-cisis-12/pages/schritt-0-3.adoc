@@ -35,8 +35,14 @@ include::shared:dokumente/dms.adoc[leveloffset=2]
 
 == Wo finde ich Beispiele in der Demo?
 
-* Projektplanung
+=== Projektplanung
 
-* SOA
+video::projektplanung.mp4[width=950]
 
-* DMS
+=== Anwendbarkeitserklärung
+
+video::anwendbarkeitserklaerung.mp4[width=950]
+
+=== Dokumentenmanagement
+
+video::dokumentenmanagement.mp4[width=950]
