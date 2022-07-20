@@ -34,18 +34,18 @@ help: #: Show help topics
 .PHONY: html
 html: #: Generate antora html output
 ifeq ($(LOCAL), 1)
-	${PATH_TO_FILE}/antora antora-playbook-local.yml;
+	${PATH_TO_FILE}/antora playbook.yml;
 else
-	antora antora-playbook-local.yml;
+	antora playbook.yml;
 endif
 
 .PHONY: html_browser 
 html_browser: #: Generate antora html output AND open index.html in browser
 ifeq ($(LOCAL), 1)
-	${PATH_TO_FILE}/antora antora-playbook-local.yml; \
+	${PATH_TO_FILE}/antora playbook.yml; \
 	firefox build/site/index.html;
 else
-	antora antora-playbook-local.yml; \
+	antora playbook.yml; \
 	firefox build/site/index.html;
 endif
 
