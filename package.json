@@ -1,10 +1,15 @@
 {
-  "dependencies": {
-    "@antora/lunr-extension": "^1.0.0-alpha.8",
-    "antora-lunr": "^0.8.0"
-  },
+  "name": "xmera-omnia-demo-guide",
+  "description": "xmera Omnia Demo Guide",
+  "homepage": "https://docs.xmera.de",
+  "private": true,
   "devDependencies": {
-    "@antora/cli": "3.0.1",
-    "@antora/site-generator": "3.0.1"
+    "@antora/cli": "3.0.2",
+    "@antora/lunr-extension": "1.0.0-alpha.8",
+    "@antora/site-generator": "3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xmera-circle/xo_demo_guide.git"
   }
 }
