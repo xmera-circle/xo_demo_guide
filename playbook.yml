@@ -9,10 +9,6 @@ content:
     branches: HEAD
     start_path: .
 
-  - url: ../xo_docs
-    branches: HEAD
-    start_path: .
-
 ui: 
   bundle: 
     url: https://github.com/xmera-circle/antora-ui-omnia/releases/download/0.2.3/ui-bundle.zip
